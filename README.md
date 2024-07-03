@@ -20,6 +20,7 @@ This project aims to identify and analyze the effects of mutations on the protei
 1. `protein_sequences.csv`: Contains wildtype protein sequences for genes of interest.
 2. `mutations_with_one_letter.csv`: WHO catalog with mutation information.
 3. `delta_z_values.csv`: Delta-Z values calculated for each mutation.
+4. `esm models`: I have used `esm2_t6_8M_UR50D` pretrained version. Here is the github link https://github.com/facebookresearch/esm. You need to create a directory named "facebook" and download it there. 
 
 ### Output Files
 1. `mutated_sequences/`: Directory containing FASTA files with wildtype and mutated sequences.
@@ -33,8 +34,8 @@ This project aims to identify and analyze the effects of mutations on the protei
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Protein-Sequence-Mutation-Delta-Z.git
-   cd Protein-Sequence-Mutation-Delta-Z
+   git clone https://github.com/SAGE-Lab-UMass/resistance_forecast
+   cd resistance_forecast
    ```
 
 2. Install dependencies:
