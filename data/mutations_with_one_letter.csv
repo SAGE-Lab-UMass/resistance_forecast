@@ -1,0 +1,1589 @@
+drug,variant,mutation,confidence,genome_index,ref_nt,alt_nt,gene,one_letter_mutation
+Bedaquiline,atpE_p.Ala63Pro,p.Ala63Pro,2) Assoc w R - Interim,1461231,GCA,CCC,atpE,p.A63P
+Bedaquiline,atpE_p.Ala63Pro,p.Ala63Pro,2) Assoc w R - Interim,1461231,G,C,atpE,p.A63P
+Bedaquiline,atpE_p.Ala63Pro,p.Ala63Pro,2) Assoc w R - Interim,1461231,GCA,CCG,atpE,p.A63P
+Bedaquiline,atpE_p.Ala63Pro,p.Ala63Pro,2) Assoc w R - Interim,1461231,GCA,CCT,atpE,p.A63P
+Bedaquiline,atpE_p.Asp28Ala,p.Asp28Ala,2) Assoc w R - Interim,1461127,A,C,atpE,p.D28A
+Bedaquiline,atpE_p.Asp28Ala,p.Asp28Ala,2) Assoc w R - Interim,1461127,AC,CT,atpE,p.D28A
+Bedaquiline,atpE_p.Asp28Ala,p.Asp28Ala,2) Assoc w R - Interim,1461127,AC,CA,atpE,p.D28A
+Bedaquiline,atpE_p.Asp28Ala,p.Asp28Ala,2) Assoc w R - Interim,1461127,AC,CG,atpE,p.D28A
+Bedaquiline,atpE_p.Asp28Gly,p.Asp28Gly,2) Assoc w R - Interim,1461125,TGA,GGG,atpE,p.D28G
+Bedaquiline,atpE_p.Asp28Gly,p.Asp28Gly,2) Assoc w R - Interim,1461127,AC,GT,atpE,p.D28G
+Bedaquiline,atpE_p.Asp28Gly,p.Asp28Gly,2) Assoc w R - Interim,1461127,AC,GA,atpE,p.D28G
+Bedaquiline,atpE_p.Asp28Gly,p.Asp28Gly,2) Assoc w R - Interim,1461127,AC,GG,atpE,p.D28G
+Bedaquiline,atpE_p.Asp28Gly,p.Asp28Gly,2) Assoc w R - Interim,1461127,A,G,atpE,p.D28G
+Bedaquiline,atpE_p.Asp28Val,p.Asp28Val,2) Assoc w R - Interim,1461127,AC,TG,atpE,p.D28V
+Bedaquiline,atpE_p.Asp28Val,p.Asp28Val,2) Assoc w R - Interim,1461127,AC,TT,atpE,p.D28V
+Bedaquiline,atpE_p.Asp28Val,p.Asp28Val,2) Assoc w R - Interim,1461127,A,T,atpE,p.D28V
+Bedaquiline,atpE_p.Asp28Val,p.Asp28Val,2) Assoc w R - Interim,1461127,AC,TA,atpE,p.D28V
+Bedaquiline,atpE_p.Glu61Asp,p.Glu61Asp,2) Assoc w R - Interim,1461227,G,C,atpE,p.E61D
+Bedaquiline,atpE_p.Glu61Asp,p.Glu61Asp,2) Assoc w R - Interim,1461227,G,T,atpE,p.E61D
+Bedaquiline,atpE_p.Ile66Met,p.Ile66Met,2) Assoc w R - Interim,1461242,C,G,atpE,p.I66M
+Bedaquiline,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,CG,TC,Rv0678,p.A36V
+Bedaquiline,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,CG,TT,Rv0678,p.A36V
+Bedaquiline,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,CG,TA,Rv0678,p.A36V
+Bedaquiline,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,C,T,Rv0678,p.A36V
+Bedaquiline,Rv0678_p.Asn70Asp,p.Asn70Asp,2) Assoc w R - Interim,779197,A,G,Rv0678,p.N70D
+Bedaquiline,Rv0678_p.Asn70Asp,p.Asn70Asp,2) Assoc w R - Interim,779197,AAT,GAC,Rv0678,p.N70D
+Bedaquiline,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,AGG,Rv0678,p.C46R
+Bedaquiline,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,T,C,Rv0678,p.C46R
+Bedaquiline,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,AGA,Rv0678,p.C46R
+Bedaquiline,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,CGC,Rv0678,p.C46R
+Bedaquiline,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,CGA,Rv0678,p.C46R
+Bedaquiline,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,CGG,Rv0678,p.C46R
+Bedaquiline,Rv0678_p.Gly121Arg,p.Gly121Arg,1) Assoc w R,779350,GGG,CGC,Rv0678,p.G121R
+Bedaquiline,Rv0678_p.Gly121Arg,p.Gly121Arg,1) Assoc w R,779350,G,C,Rv0678,p.G121R
+Bedaquiline,Rv0678_p.Gly121Arg,p.Gly121Arg,1) Assoc w R,779350,G,A,Rv0678,p.G121R
+Bedaquiline,Rv0678_p.Gly121Arg,p.Gly121Arg,1) Assoc w R,779350,GGG,CGT,Rv0678,p.G121R
+Bedaquiline,Rv0678_p.Gly121Arg,p.Gly121Arg,1) Assoc w R,779350,GGG,AGA,Rv0678,p.G121R
+Bedaquiline,Rv0678_p.Gly121Arg,p.Gly121Arg,1) Assoc w R,779350,GGG,CGA,Rv0678,p.G121R
+Bedaquiline,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,ATC,TCG,Rv0678,p.I67S
+Bedaquiline,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,AT,TC,Rv0678,p.I67S
+Bedaquiline,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,ATC,TCT,Rv0678,p.I67S
+Bedaquiline,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,ATC,TCA,Rv0678,p.I67S
+Bedaquiline,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779189,T,G,Rv0678,p.I67S
+Bedaquiline,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779189,TC,GT,Rv0678,p.I67S
+Bedaquiline,Rv0678_p.Leu117Arg,p.Leu117Arg,1) Assoc w R,779336,ACCT,CCCG,Rv0678,p.L117R
+Bedaquiline,Rv0678_p.Leu117Arg,p.Leu117Arg,1) Assoc w R,779338,CTG,AGA,Rv0678,p.L117R
+Bedaquiline,Rv0678_p.Leu117Arg,p.Leu117Arg,1) Assoc w R,779338,CT,AG,Rv0678,p.L117R
+Bedaquiline,Rv0678_p.Leu117Arg,p.Leu117Arg,1) Assoc w R,779339,T,G,Rv0678,p.L117R
+Bedaquiline,Rv0678_p.Leu117Arg,p.Leu117Arg,1) Assoc w R,779339,TG,GA,Rv0678,p.L117R
+Bedaquiline,Rv0678_p.Leu117Arg,p.Leu117Arg,1) Assoc w R,779339,TG,GC,Rv0678,p.L117R
+Bedaquiline,Rv0678_p.Leu117Arg,p.Leu117Arg,1) Assoc w R,779339,TG,GT,Rv0678,p.L117R
+Bedaquiline,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779083,TTG,AGT,Rv0678,p.L32S
+Bedaquiline,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779083,TTG,AGC,Rv0678,p.L32S
+Bedaquiline,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,TG,CA,Rv0678,p.L32S
+Bedaquiline,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,TG,CT,Rv0678,p.L32S
+Bedaquiline,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,TG,CC,Rv0678,p.L32S
+Bedaquiline,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,T,C,Rv0678,p.L32S
+Bedaquiline,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,TG,CT,Rv0678,p.M146T
+Bedaquiline,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,T,C,Rv0678,p.M146T
+Bedaquiline,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,TG,CA,Rv0678,p.M146T
+Bedaquiline,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,TG,CC,Rv0678,p.M146T
+Capreomycin,tlyA_p.Asn236Lys,p.Asn236Lys,1) Assoc w R,1918647,T,G,tlyA,p.N236K
+Capreomycin,tlyA_p.Asn236Lys,p.Asn236Lys,1) Assoc w R,1918647,T,A,tlyA,p.N236K
+Capreomycin,tlyA_p.Gly232Asp,p.Gly232Asp,2) Assoc w R - Interim,1918634,GC,AT,tlyA,p.G232D
+Capreomycin,tlyA_p.Gly232Asp,p.Gly232Asp,2) Assoc w R - Interim,1918634,G,A,tlyA,p.G232D
+Clofazimine,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,CG,TC,Rv0678,p.A36V
+Clofazimine,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,CG,TT,Rv0678,p.A36V
+Clofazimine,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,CG,TA,Rv0678,p.A36V
+Clofazimine,Rv0678_p.Ala36Val,p.Ala36Val,2) Assoc w R - Interim,779096,C,T,Rv0678,p.A36V
+Clofazimine,Rv0678_p.Asn70Asp,p.Asn70Asp,2) Assoc w R - Interim,779197,A,G,Rv0678,p.N70D
+Clofazimine,Rv0678_p.Asn70Asp,p.Asn70Asp,2) Assoc w R - Interim,779197,AAT,GAC,Rv0678,p.N70D
+Clofazimine,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,AGG,Rv0678,p.C46R
+Clofazimine,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,T,C,Rv0678,p.C46R
+Clofazimine,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,AGA,Rv0678,p.C46R
+Clofazimine,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,CGC,Rv0678,p.C46R
+Clofazimine,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,CGA,Rv0678,p.C46R
+Clofazimine,Rv0678_p.Cys46Arg,p.Cys46Arg,2) Assoc w R - Interim,779125,TGT,CGG,Rv0678,p.C46R
+Clofazimine,Rv0678_p.Gly121Arg,p.Gly121Arg,2) Assoc w R - Interim,779350,GGG,CGC,Rv0678,p.G121R
+Clofazimine,Rv0678_p.Gly121Arg,p.Gly121Arg,2) Assoc w R - Interim,779350,G,C,Rv0678,p.G121R
+Clofazimine,Rv0678_p.Gly121Arg,p.Gly121Arg,2) Assoc w R - Interim,779350,G,A,Rv0678,p.G121R
+Clofazimine,Rv0678_p.Gly121Arg,p.Gly121Arg,2) Assoc w R - Interim,779350,GGG,CGT,Rv0678,p.G121R
+Clofazimine,Rv0678_p.Gly121Arg,p.Gly121Arg,2) Assoc w R - Interim,779350,GGG,AGA,Rv0678,p.G121R
+Clofazimine,Rv0678_p.Gly121Arg,p.Gly121Arg,2) Assoc w R - Interim,779350,GGG,CGA,Rv0678,p.G121R
+Clofazimine,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,ATC,TCG,Rv0678,p.I67S
+Clofazimine,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,AT,TC,Rv0678,p.I67S
+Clofazimine,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,ATC,TCT,Rv0678,p.I67S
+Clofazimine,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779188,ATC,TCA,Rv0678,p.I67S
+Clofazimine,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779189,T,G,Rv0678,p.I67S
+Clofazimine,Rv0678_p.Ile67Ser,p.Ile67Ser,2) Assoc w R - Interim,779189,TC,GT,Rv0678,p.I67S
+Clofazimine,Rv0678_p.Leu117Arg,p.Leu117Arg,2) Assoc w R - Interim,779336,ACCT,CCCG,Rv0678,p.L117R
+Clofazimine,Rv0678_p.Leu117Arg,p.Leu117Arg,2) Assoc w R - Interim,779338,CTG,AGA,Rv0678,p.L117R
+Clofazimine,Rv0678_p.Leu117Arg,p.Leu117Arg,2) Assoc w R - Interim,779338,CT,AG,Rv0678,p.L117R
+Clofazimine,Rv0678_p.Leu117Arg,p.Leu117Arg,2) Assoc w R - Interim,779339,T,G,Rv0678,p.L117R
+Clofazimine,Rv0678_p.Leu117Arg,p.Leu117Arg,2) Assoc w R - Interim,779339,TG,GA,Rv0678,p.L117R
+Clofazimine,Rv0678_p.Leu117Arg,p.Leu117Arg,2) Assoc w R - Interim,779339,TG,GC,Rv0678,p.L117R
+Clofazimine,Rv0678_p.Leu117Arg,p.Leu117Arg,2) Assoc w R - Interim,779339,TG,GT,Rv0678,p.L117R
+Clofazimine,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779083,TTG,AGT,Rv0678,p.L32S
+Clofazimine,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779083,TTG,AGC,Rv0678,p.L32S
+Clofazimine,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,TG,CA,Rv0678,p.L32S
+Clofazimine,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,TG,CT,Rv0678,p.L32S
+Clofazimine,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,TG,CC,Rv0678,p.L32S
+Clofazimine,Rv0678_p.Leu32Ser,p.Leu32Ser,2) Assoc w R - Interim,779084,T,C,Rv0678,p.L32S
+Clofazimine,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,TG,CT,Rv0678,p.M146T
+Clofazimine,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,T,C,Rv0678,p.M146T
+Clofazimine,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,TG,CA,Rv0678,p.M146T
+Clofazimine,Rv0678_p.Met146Thr,p.Met146Thr,2) Assoc w R - Interim,779426,TG,CC,Rv0678,p.M146T
+Delamanid,ddn_p.Leu49Pro,p.Leu49Pro,2) Assoc w R - Interim,3986989,TG,CC,ddn,p.L49P
+Delamanid,ddn_p.Leu49Pro,p.Leu49Pro,2) Assoc w R - Interim,3986989,T,C,ddn,p.L49P
+Delamanid,ddn_p.Leu49Pro,p.Leu49Pro,2) Assoc w R - Interim,3986989,TG,CA,ddn,p.L49P
+Delamanid,ddn_p.Leu49Pro,p.Leu49Pro,2) Assoc w R - Interim,3986989,TG,CT,ddn,p.L49P
+Ethambutol,embB_p.Asp328Tyr,p.Asp328Tyr,1) Assoc w R,4247495,G,T,embB,p.D328Y
+Ethambutol,embB_p.Asp328Tyr,p.Asp328Tyr,1) Assoc w R,4247495,GAT,TAC,embB,p.D328Y
+Ethambutol,embB_p.Asp354Ala,p.Asp354Ala,1) Assoc w R,4247574,AC,CG,embB,p.D354A
+Ethambutol,embB_p.Asp354Ala,p.Asp354Ala,1) Assoc w R,4247574,A,C,embB,p.D354A
+Ethambutol,embB_p.Asp354Ala,p.Asp354Ala,1) Assoc w R,4247574,AC,CA,embB,p.D354A
+Ethambutol,embB_p.Asp354Ala,p.Asp354Ala,1) Assoc w R,4247574,AC,CT,embB,p.D354A
+Ethambutol,embB_p.Asp354Ala,p.Asp354Ala,1) Assoc w R,4247574,ACCT,CCCG,embB,p.D354A
+Ethambutol,embB_p.Gln497Arg,p.Gln497Arg,1) Assoc w R,4248002,CA,AG,embB,p.Q497R
+Ethambutol,embB_p.Gln497Arg,p.Gln497Arg,1) Assoc w R,4248002,CAG,AGA,embB,p.Q497R
+Ethambutol,embB_p.Gln497Arg,p.Gln497Arg,1) Assoc w R,4248003,AG,GA,embB,p.Q497R
+Ethambutol,embB_p.Gln497Arg,p.Gln497Arg,1) Assoc w R,4248003,A,G,embB,p.Q497R
+Ethambutol,embB_p.Gln497Arg,p.Gln497Arg,1) Assoc w R,4248003,AG,GC,embB,p.Q497R
+Ethambutol,embB_p.Gln497Arg,p.Gln497Arg,1) Assoc w R,4248003,AGA,GGC,embB,p.Q497R
+Ethambutol,embB_p.Gln497Arg,p.Gln497Arg,1) Assoc w R,4248003,AG,GT,embB,p.Q497R
+Ethambutol,embB_p.Gln497Lys,p.Gln497Lys,1) Assoc w R,4248002,CAG,AAA,embB,p.Q497K
+Ethambutol,embB_p.Gln497Lys,p.Gln497Lys,1) Assoc w R,4248002,C,A,embB,p.Q497K
+Ethambutol,embB_p.Gly406Ala,p.Gly406Ala,1) Assoc w R,4247730,G,C,embB,p.G406A
+Ethambutol,embB_p.Gly406Ala,p.Gly406Ala,1) Assoc w R,4247730,GC,CT,embB,p.G406A
+Ethambutol,embB_p.Gly406Ala,p.Gly406Ala,1) Assoc w R,4247730,GC,CG,embB,p.G406A
+Ethambutol,embB_p.Gly406Ala,p.Gly406Ala,1) Assoc w R,4247730,GC,CA,embB,p.G406A
+Ethambutol,embB_p.Gly406Asp,p.Gly406Asp,1) Assoc w R,4247730,G,A,embB,p.G406D
+Ethambutol,embB_p.Gly406Asp,p.Gly406Asp,1) Assoc w R,4247730,GC,AT,embB,p.G406D
+Ethambutol,embB_p.Gly406Cys,p.Gly406Cys,1) Assoc w R,4247729,G,T,embB,p.G406C
+Ethambutol,embB_p.Gly406Cys,p.Gly406Cys,1) Assoc w R,4247729,GGC,TGT,embB,p.G406C
+Ethambutol,embB_p.Gly406Ser,p.Gly406Ser,1) Assoc w R,4247729,GGC,TCT,embB,p.G406S
+Ethambutol,embB_p.Gly406Ser,p.Gly406Ser,1) Assoc w R,4247729,G,A,embB,p.G406S
+Ethambutol,embB_p.Gly406Ser,p.Gly406Ser,1) Assoc w R,4247729,GGC,AGT,embB,p.G406S
+Ethambutol,embB_p.Gly406Ser,p.Gly406Ser,1) Assoc w R,4247729,GGC,TCG,embB,p.G406S
+Ethambutol,embB_p.Gly406Ser,p.Gly406Ser,1) Assoc w R,4247729,GG,TC,embB,p.G406S
+Ethambutol,embB_p.Gly406Ser,p.Gly406Ser,1) Assoc w R,4247729,GGC,TCA,embB,p.G406S
+Ethambutol,embB_p.Met306Ile,p.Met306Ile,1) Assoc w R,4247431,GGCCCGAGTC,CGCGCGGGTG,embB,p.M306I
+Ethambutol,embB_p.Met306Ile,p.Met306Ile,1) Assoc w R,4247431,G,C,embB,p.M306I
+Ethambutol,embB_p.Met306Ile,p.Met306Ile,1) Assoc w R,4247431,G,A,embB,p.M306I
+Ethambutol,embB_p.Met306Ile,p.Met306Ile,1) Assoc w R,4247431,G,T,embB,p.M306I
+Ethambutol,embB_p.Met306Leu,p.Met306Leu,1) Assoc w R,4247429,A,T,embB,p.M306L
+Ethambutol,embB_p.Met306Leu,p.Met306Leu,1) Assoc w R,4247429,ATG,CTA,embB,p.M306L
+Ethambutol,embB_p.Met306Leu,p.Met306Leu,1) Assoc w R,4247429,A,C,embB,p.M306L
+Ethambutol,embB_p.Met306Leu,p.Met306Leu,1) Assoc w R,4247429,ATG,CTC,embB,p.M306L
+Ethambutol,embB_p.Met306Leu,p.Met306Leu,1) Assoc w R,4247429,ATG,CTT,embB,p.M306L
+Ethambutol,embB_p.Met306Leu,p.Met306Leu,1) Assoc w R,4247429,ATG,TTA,embB,p.M306L
+Ethambutol,embB_p.Met306Val,p.Met306Val,1) Assoc w R,4247429,ATG,GTC,embB,p.M306V
+Ethambutol,embB_p.Met306Val,p.Met306Val,1) Assoc w R,4247429,A,G,embB,p.M306V
+Ethambutol,embB_p.Met306Val,p.Met306Val,1) Assoc w R,4247429,ATG,GTA,embB,p.M306V
+Ethambutol,embB_p.Met306Val,p.Met306Val,1) Assoc w R,4247429,ATG,GTT,embB,p.M306V
+Ethambutol,embB_p.Tyr319Cys,p.Tyr319Cys,1) Assoc w R,4247469,AT,GC,embB,p.Y319C
+Ethambutol,embB_p.Tyr319Cys,p.Tyr319Cys,1) Assoc w R,4247469,A,G,embB,p.Y319C
+Ethambutol,embB_p.Tyr319Ser,p.Tyr319Ser,1) Assoc w R,4247468,TAT,AGC,embB,p.Y319S
+Ethambutol,embB_p.Tyr319Ser,p.Tyr319Ser,1) Assoc w R,4247468,TA,AG,embB,p.Y319S
+Ethambutol,embB_p.Tyr319Ser,p.Tyr319Ser,1) Assoc w R,4247469,AT,CG,embB,p.Y319S
+Ethambutol,embB_p.Tyr319Ser,p.Tyr319Ser,1) Assoc w R,4247469,AT,CC,embB,p.Y319S
+Ethambutol,embB_p.Tyr319Ser,p.Tyr319Ser,1) Assoc w R,4247469,AT,CA,embB,p.Y319S
+Ethambutol,embB_p.Tyr319Ser,p.Tyr319Ser,1) Assoc w R,4247469,A,C,embB,p.Y319S
+Ethionamide,ethA_p.Ala341Val,p.Ala341Val,2) Assoc w R - Interim,4326451,TG,CA,ethA,p.A341V
+Ethionamide,ethA_p.Ala341Val,p.Ala341Val,2) Assoc w R - Interim,4326451,TG,AA,ethA,p.A341V
+Ethionamide,ethA_p.Ala341Val,p.Ala341Val,2) Assoc w R - Interim,4326451,TG,GA,ethA,p.A341V
+Ethionamide,ethA_p.Ala341Val,p.Ala341Val,2) Assoc w R - Interim,4326452,G,A,ethA,p.A341V
+Ethionamide,ethA_p.Arg207Gly,p.Arg207Gly,1) Assoc w R,4326853,GCG,TCC,ethA,p.R207G
+Ethionamide,ethA_p.Arg207Gly,p.Arg207Gly,1) Assoc w R,4326853,GCG,CCC,ethA,p.R207G
+Ethionamide,ethA_p.Arg207Gly,p.Arg207Gly,1) Assoc w R,4326853,GCG,ACC,ethA,p.R207G
+Ethionamide,ethA_p.Arg207Gly,p.Arg207Gly,1) Assoc w R,4326855,G,C,ethA,p.R207G
+Ethionamide,ethA_p.Asn379Asp,p.Asn379Asp,2) Assoc w R - Interim,4326337,GTT,ATC,ethA,p.N379D
+Ethionamide,ethA_p.Asn379Asp,p.Asn379Asp,2) Assoc w R - Interim,4326339,T,C,ethA,p.N379D
+Ethionamide,ethA_p.Cys403Tyr,p.Cys403Tyr,2) Assoc w R - Interim,4326265,AC,GT,ethA,p.C403Y
+Ethionamide,ethA_p.Cys403Tyr,p.Cys403Tyr,2) Assoc w R - Interim,4326266,C,T,ethA,p.C403Y
+Ethionamide,ethA_p.Leu35Arg,p.Leu35Arg,2) Assoc w R - Interim,4327369,CAG,TCT,ethA,p.L35R
+Ethionamide,ethA_p.Leu35Arg,p.Leu35Arg,2) Assoc w R - Interim,4327369,CA,AC,ethA,p.L35R
+Ethionamide,ethA_p.Leu35Arg,p.Leu35Arg,2) Assoc w R - Interim,4327369,CA,GC,ethA,p.L35R
+Ethionamide,ethA_p.Leu35Arg,p.Leu35Arg,2) Assoc w R - Interim,4327369,CA,TC,ethA,p.L35R
+Ethionamide,ethA_p.Leu35Arg,p.Leu35Arg,2) Assoc w R - Interim,4327370,AG,CT,ethA,p.L35R
+Ethionamide,ethA_p.Leu35Arg,p.Leu35Arg,2) Assoc w R - Interim,4327370,A,C,ethA,p.L35R
+Ethionamide,ethA_p.Ser390Phe,p.Ser390Phe,2) Assoc w R - Interim,4326304,GG,AA,ethA,p.S390F
+Ethionamide,ethA_p.Ser390Phe,p.Ser390Phe,2) Assoc w R - Interim,4326305,G,A,ethA,p.S390F
+Ethionamide,ethA_p.Ser57Tyr,p.Ser57Tyr,2) Assoc w R - Interim,4327303,GG,AT,ethA,p.S57Y
+Ethionamide,ethA_p.Ser57Tyr,p.Ser57Tyr,2) Assoc w R - Interim,4327304,G,T,ethA,p.S57Y
+Ethionamide,ethA_p.Thr88Ile,p.Thr88Ile,2) Assoc w R - Interim,4327210,GG,AA,ethA,p.T88I
+Ethionamide,ethA_p.Thr88Ile,p.Thr88Ile,2) Assoc w R - Interim,4327210,GG,TA,ethA,p.T88I
+Ethionamide,ethA_p.Thr88Ile,p.Thr88Ile,2) Assoc w R - Interim,4327211,G,A,ethA,p.T88I
+Ethionamide,ethA_p.Val202Gly,p.Val202Gly,2) Assoc w R - Interim,4326868,GA,CC,ethA,p.V202G
+Ethionamide,ethA_p.Val202Gly,p.Val202Gly,2) Assoc w R - Interim,4326868,GA,AC,ethA,p.V202G
+Ethionamide,ethA_p.Val202Gly,p.Val202Gly,2) Assoc w R - Interim,4326868,GA,TC,ethA,p.V202G
+Ethionamide,ethA_p.Val202Gly,p.Val202Gly,2) Assoc w R - Interim,4326869,A,C,ethA,p.V202G
+Ethionamide,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,TCG,GCA,inhA,p.S94A
+Ethionamide,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,T,G,inhA,p.S94A
+Ethionamide,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,TCG,GCT,inhA,p.S94A
+Ethionamide,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,TCG,GCC,inhA,p.S94A
+Isoniazid,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,TCG,GCA,inhA,p.S94A
+Isoniazid,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,T,G,inhA,p.S94A
+Isoniazid,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,TCG,GCT,inhA,p.S94A
+Isoniazid,inhA_p.Ser94Ala,p.Ser94Ala,2) Assoc w R - Interim,1674481,TCG,GCC,inhA,p.S94A
+Isoniazid,katG_p.Ser315Arg,p.Ser315Arg,1) Assoc w R,2155167,GCT,CCG,katG,p.S315R
+Isoniazid,katG_p.Ser315Arg,p.Ser315Arg,1) Assoc w R,2155167,G,C,katG,p.S315R
+Isoniazid,katG_p.Ser315Arg,p.Ser315Arg,1) Assoc w R,2155167,GCT,ACG,katG,p.S315R
+Isoniazid,katG_p.Ser315Arg,p.Ser315Arg,1) Assoc w R,2155167,G,T,katG,p.S315R
+Isoniazid,katG_p.Ser315Arg,p.Ser315Arg,1) Assoc w R,2155167,GCT,TCG,katG,p.S315R
+Isoniazid,katG_p.Ser315Arg,p.Ser315Arg,1) Assoc w R,2155169,T,G,katG,p.S315R
+Isoniazid,katG_p.Ser315Asn,p.Ser315Asn,1) Assoc w R,2155167,GC,AT,katG,p.S315N
+Isoniazid,katG_p.Ser315Asn,p.Ser315Asn,1) Assoc w R,2155168,C,T,katG,p.S315N
+Isoniazid,katG_p.Ser315Ile,p.Ser315Ile,2) Assoc w R - Interim,2155167,GC,AA,katG,p.S315I
+Isoniazid,katG_p.Ser315Ile,p.Ser315Ile,2) Assoc w R - Interim,2155167,GC,TA,katG,p.S315I
+Isoniazid,katG_p.Ser315Ile,p.Ser315Ile,2) Assoc w R - Interim,2155168,C,A,katG,p.S315I
+Isoniazid,katG_p.Ser315Thr,p.Ser315Thr,1) Assoc w R,2155167,GC,TG,katG,p.S315T
+Isoniazid,katG_p.Ser315Thr,p.Ser315Thr,1) Assoc w R,2155167,GC,AG,katG,p.S315T
+Isoniazid,katG_p.Ser315Thr,p.Ser315Thr,1) Assoc w R,2155167,GC,CG,katG,p.S315T
+Isoniazid,katG_p.Ser315Thr,p.Ser315Thr,1) Assoc w R,2155168,C,G,katG,p.S315T
+Isoniazid,katG_p.Ser315Thr,p.Ser315Thr,1) Assoc w R,2155168,CTG,GTT,katG,p.S315T
+Isoniazid,katG_p.Trp328Leu,p.Trp328Leu,1) Assoc w R,2155128,CCA,TAG,katG,p.W328L
+Isoniazid,katG_p.Trp328Leu,p.Trp328Leu,1) Assoc w R,2155128,CC,TA,katG,p.W328L
+Isoniazid,katG_p.Trp328Leu,p.Trp328Leu,1) Assoc w R,2155128,CCA,AAG,katG,p.W328L
+Isoniazid,katG_p.Trp328Leu,p.Trp328Leu,1) Assoc w R,2155128,CCA,GAG,katG,p.W328L
+Isoniazid,katG_p.Trp328Leu,p.Trp328Leu,1) Assoc w R,2155129,C,A,katG,p.W328L
+Isoniazid,katG_p.Trp328Leu,p.Trp328Leu,1) Assoc w R,2155129,CA,AG,katG,p.W328L
+Levofloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7567,ACGC,GCGT,gyrA,p.A90V
+Levofloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7568,CGC,TGT,gyrA,p.A90V
+Levofloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CG,TC,gyrA,p.A90V
+Levofloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,C,T,gyrA,p.A90V
+Levofloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CG,TA,gyrA,p.A90V
+Levofloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CG,TT,gyrA,p.A90V
+Levofloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CGT,TGC,gyrA,p.A90V
+Levofloxacin,gyrA_p.Asp89Asn,p.Asp89Asn,1) Assoc w R,7566,G,A,gyrA,p.D89N
+Levofloxacin,gyrA_p.Asp89Asn,p.Asp89Asn,1) Assoc w R,7566,GAC,AAT,gyrA,p.D89N
+Levofloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,ACAG,CCGC,gyrA,p.D94A
+Levofloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,AC,CG,gyrA,p.D94A
+Levofloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,AC,CT,gyrA,p.D94A
+Levofloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,A,C,gyrA,p.D94A
+Levofloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,AC,CA,gyrA,p.D94A
+Levofloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,ACAG,CCAC,gyrA,p.D94A
+Levofloxacin,gyrA_p.Asp94Asn,p.Asp94Asn,1) Assoc w R,7581,GAC,AAT,gyrA,p.D94N
+Levofloxacin,gyrA_p.Asp94Asn,p.Asp94Asn,1) Assoc w R,7581,G,A,gyrA,p.D94N
+Levofloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,AC,GA,gyrA,p.D94G
+Levofloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,A,G,gyrA,p.D94G
+Levofloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,AC,GG,gyrA,p.D94G
+Levofloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,ACAG,GCAC,gyrA,p.D94G
+Levofloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,AC,GT,gyrA,p.D94G
+Levofloxacin,gyrA_p.Asp94His,p.Asp94His,1) Assoc w R,7581,G,C,gyrA,p.D94H
+Levofloxacin,gyrA_p.Asp94His,p.Asp94His,1) Assoc w R,7581,GAC,CAT,gyrA,p.D94H
+Levofloxacin,gyrA_p.Asp94Tyr,p.Asp94Tyr,1) Assoc w R,7581,G,T,gyrA,p.D94Y
+Levofloxacin,gyrA_p.Asp94Tyr,p.Asp94Tyr,1) Assoc w R,7581,GAC,TAT,gyrA,p.D94Y
+Levofloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,G,C,gyrA,p.G88A
+Levofloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,GC,CG,gyrA,p.G88A
+Levofloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,GC,CA,gyrA,p.G88A
+Levofloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,GC,CT,gyrA,p.G88A
+Levofloxacin,gyrA_p.Gly88Cys,p.Gly88Cys,1) Assoc w R,7563,G,T,gyrA,p.G88C
+Levofloxacin,gyrA_p.Gly88Cys,p.Gly88Cys,1) Assoc w R,7563,GGC,TGT,gyrA,p.G88C
+Levofloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7570,CGT,AGC,gyrA,p.S91P
+Levofloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7570,CGT,TGC,gyrA,p.S91P
+Levofloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7571,GT,AC,gyrA,p.S91P
+Levofloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,TCG,CCC,gyrA,p.S91P
+Levofloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,TCG,CCA,gyrA,p.S91P
+Levofloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,TCG,CCT,gyrA,p.S91P
+Levofloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,T,C,gyrA,p.S91P
+Levofloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6747,AGGC,GGGT,gyrB,p.A504V
+Levofloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,CG,TT,gyrB,p.A504V
+Levofloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,CG,TC,gyrB,p.A504V
+Levofloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,CG,TA,gyrB,p.A504V
+Levofloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,C,T,gyrB,p.A504V
+Levofloxacin,gyrB_p.Asn499Asp,p.Asn499Asp,1) Assoc w R,6734,A,G,gyrB,p.N499D
+Levofloxacin,gyrB_p.Asn499Asp,p.Asn499Asp,1) Assoc w R,6734,AAC,GAT,gyrB,p.N499D
+Levofloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,1) Assoc w R,6735,A,C,gyrB,p.N499T
+Levofloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,1) Assoc w R,6735,AC,CG,gyrB,p.N499T
+Levofloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,1) Assoc w R,6735,AC,CT,gyrB,p.N499T
+Levofloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,1) Assoc w R,6735,AC,CA,gyrB,p.N499T
+Levofloxacin,gyrB_p.Asp461Asn,p.Asp461Asn,1) Assoc w R,6620,GAC,AAT,gyrB,p.D461N
+Levofloxacin,gyrB_p.Asp461Asn,p.Asp461Asn,1) Assoc w R,6620,G,A,gyrB,p.D461N
+Levofloxacin,gyrB_p.Asp461His,p.Asp461His,2) Assoc w R - Interim,6620,G,C,gyrB,p.D461H
+Levofloxacin,gyrB_p.Asp461His,p.Asp461His,2) Assoc w R - Interim,6620,GAC,CAT,gyrB,p.D461H
+Levofloxacin,gyrB_p.Glu501Asp,p.Glu501Asp,2) Assoc w R - Interim,6742,A,T,gyrB,p.E501D
+Levofloxacin,gyrB_p.Glu501Asp,p.Glu501Asp,2) Assoc w R - Interim,6742,A,C,gyrB,p.E501D
+Levofloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,A,T,gyrB,p.E501V
+Levofloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,AA,TT,gyrB,p.E501V
+Levofloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,AA,TG,gyrB,p.E501V
+Levofloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,AA,TC,gyrB,p.E501V
+Levofloxacin,gyrB_p.Ser447Phe,p.Ser447Phe,2) Assoc w R - Interim,6579,CC,TT,gyrB,p.S447F
+Levofloxacin,gyrB_p.Ser447Phe,p.Ser447Phe,2) Assoc w R - Interim,6579,C,T,gyrB,p.S447F
+Linezolid,rplC_p.Cys154Arg,p.Cys154Arg,1) Assoc w R,801266,GAT,AAC,rplC,p.C154R
+Linezolid,rplC_p.Cys154Arg,p.Cys154Arg,1) Assoc w R,801268,TGT,AGA,rplC,p.C154R
+Linezolid,rplC_p.Cys154Arg,p.Cys154Arg,1) Assoc w R,801268,TGT,CGC,rplC,p.C154R
+Linezolid,rplC_p.Cys154Arg,p.Cys154Arg,1) Assoc w R,801268,TGT,AGG,rplC,p.C154R
+Linezolid,rplC_p.Cys154Arg,p.Cys154Arg,1) Assoc w R,801268,TGT,CGG,rplC,p.C154R
+Linezolid,rplC_p.Cys154Arg,p.Cys154Arg,1) Assoc w R,801268,T,C,rplC,p.C154R
+Linezolid,rplC_p.Cys154Arg,p.Cys154Arg,1) Assoc w R,801268,TGT,CGA,rplC,p.C154R
+Moxifloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7567,ACGC,GCGT,gyrA,p.A90V
+Moxifloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7568,CGC,TGT,gyrA,p.A90V
+Moxifloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CG,TC,gyrA,p.A90V
+Moxifloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,C,T,gyrA,p.A90V
+Moxifloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CG,TA,gyrA,p.A90V
+Moxifloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CG,TT,gyrA,p.A90V
+Moxifloxacin,gyrA_p.Ala90Val,p.Ala90Val,1) Assoc w R,7570,CGT,TGC,gyrA,p.A90V
+Moxifloxacin,gyrA_p.Asp89Asn,p.Asp89Asn,1) Assoc w R,7566,G,A,gyrA,p.D89N
+Moxifloxacin,gyrA_p.Asp89Asn,p.Asp89Asn,1) Assoc w R,7566,GAC,AAT,gyrA,p.D89N
+Moxifloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,ACAG,CCGC,gyrA,p.D94A
+Moxifloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,AC,CG,gyrA,p.D94A
+Moxifloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,AC,CT,gyrA,p.D94A
+Moxifloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,A,C,gyrA,p.D94A
+Moxifloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,AC,CA,gyrA,p.D94A
+Moxifloxacin,gyrA_p.Asp94Ala,p.Asp94Ala,1) Assoc w R,7582,ACAG,CCAC,gyrA,p.D94A
+Moxifloxacin,gyrA_p.Asp94Asn,p.Asp94Asn,1) Assoc w R,7581,GAC,AAT,gyrA,p.D94N
+Moxifloxacin,gyrA_p.Asp94Asn,p.Asp94Asn,1) Assoc w R,7581,G,A,gyrA,p.D94N
+Moxifloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,AC,GA,gyrA,p.D94G
+Moxifloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,A,G,gyrA,p.D94G
+Moxifloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,AC,GG,gyrA,p.D94G
+Moxifloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,ACAG,GCAC,gyrA,p.D94G
+Moxifloxacin,gyrA_p.Asp94Gly,p.Asp94Gly,1) Assoc w R,7582,AC,GT,gyrA,p.D94G
+Moxifloxacin,gyrA_p.Asp94His,p.Asp94His,1) Assoc w R,7581,G,C,gyrA,p.D94H
+Moxifloxacin,gyrA_p.Asp94His,p.Asp94His,1) Assoc w R,7581,GAC,CAT,gyrA,p.D94H
+Moxifloxacin,gyrA_p.Asp94Tyr,p.Asp94Tyr,1) Assoc w R,7581,G,T,gyrA,p.D94Y
+Moxifloxacin,gyrA_p.Asp94Tyr,p.Asp94Tyr,1) Assoc w R,7581,GAC,TAT,gyrA,p.D94Y
+Moxifloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,G,C,gyrA,p.G88A
+Moxifloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,GC,CG,gyrA,p.G88A
+Moxifloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,GC,CA,gyrA,p.G88A
+Moxifloxacin,gyrA_p.Gly88Ala,p.Gly88Ala,2) Assoc w R - Interim,7564,GC,CT,gyrA,p.G88A
+Moxifloxacin,gyrA_p.Gly88Cys,p.Gly88Cys,1) Assoc w R,7563,G,T,gyrA,p.G88C
+Moxifloxacin,gyrA_p.Gly88Cys,p.Gly88Cys,1) Assoc w R,7563,GGC,TGT,gyrA,p.G88C
+Moxifloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7570,CGT,AGC,gyrA,p.S91P
+Moxifloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7570,CGT,TGC,gyrA,p.S91P
+Moxifloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7571,GT,AC,gyrA,p.S91P
+Moxifloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,TCG,CCC,gyrA,p.S91P
+Moxifloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,TCG,CCA,gyrA,p.S91P
+Moxifloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,TCG,CCT,gyrA,p.S91P
+Moxifloxacin,gyrA_p.Ser91Pro,p.Ser91Pro,1) Assoc w R,7572,T,C,gyrA,p.S91P
+Moxifloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6747,AGGC,GGGT,gyrB,p.A504V
+Moxifloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,CG,TT,gyrB,p.A504V
+Moxifloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,CG,TC,gyrB,p.A504V
+Moxifloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,CG,TA,gyrB,p.A504V
+Moxifloxacin,gyrB_p.Ala504Val,p.Ala504Val,2) Assoc w R - Interim,6750,C,T,gyrB,p.A504V
+Moxifloxacin,gyrB_p.Asn499Asp,p.Asn499Asp,2) Assoc w R - Interim,6734,A,G,gyrB,p.N499D
+Moxifloxacin,gyrB_p.Asn499Asp,p.Asn499Asp,2) Assoc w R - Interim,6734,AAC,GAT,gyrB,p.N499D
+Moxifloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,2) Assoc w R - Interim,6735,A,C,gyrB,p.N499T
+Moxifloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,2) Assoc w R - Interim,6735,AC,CG,gyrB,p.N499T
+Moxifloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,2) Assoc w R - Interim,6735,AC,CT,gyrB,p.N499T
+Moxifloxacin,gyrB_p.Asn499Thr,p.Asn499Thr,2) Assoc w R - Interim,6735,AC,CA,gyrB,p.N499T
+Moxifloxacin,gyrB_p.Asp461Asn,p.Asp461Asn,2) Assoc w R - Interim,6620,GAC,AAT,gyrB,p.D461N
+Moxifloxacin,gyrB_p.Asp461Asn,p.Asp461Asn,2) Assoc w R - Interim,6620,G,A,gyrB,p.D461N
+Moxifloxacin,gyrB_p.Asp461His,p.Asp461His,2) Assoc w R - Interim,6620,G,C,gyrB,p.D461H
+Moxifloxacin,gyrB_p.Asp461His,p.Asp461His,2) Assoc w R - Interim,6620,GAC,CAT,gyrB,p.D461H
+Moxifloxacin,gyrB_p.Glu501Asp,p.Glu501Asp,1) Assoc w R,6742,A,T,gyrB,p.E501D
+Moxifloxacin,gyrB_p.Glu501Asp,p.Glu501Asp,1) Assoc w R,6742,A,C,gyrB,p.E501D
+Moxifloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,A,T,gyrB,p.E501V
+Moxifloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,AA,TT,gyrB,p.E501V
+Moxifloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,AA,TG,gyrB,p.E501V
+Moxifloxacin,gyrB_p.Glu501Val,p.Glu501Val,2) Assoc w R - Interim,6741,AA,TC,gyrB,p.E501V
+Moxifloxacin,gyrB_p.Ser447Phe,p.Ser447Phe,2) Assoc w R - Interim,6579,CC,TT,gyrB,p.S447F
+Moxifloxacin,gyrB_p.Ser447Phe,p.Ser447Phe,2) Assoc w R - Interim,6579,C,T,gyrB,p.S447F
+Pyrazinamide,pncA_p.Ala102Pro,p.Ala102Pro,1) Assoc w R,2288936,CGC,GGG,pncA,p.A102P
+Pyrazinamide,pncA_p.Ala102Pro,p.Ala102Pro,1) Assoc w R,2288936,CGC,AGG,pncA,p.A102P
+Pyrazinamide,pncA_p.Ala102Pro,p.Ala102Pro,1) Assoc w R,2288936,CGC,TGG,pncA,p.A102P
+Pyrazinamide,pncA_p.Ala102Pro,p.Ala102Pro,1) Assoc w R,2288938,C,G,pncA,p.A102P
+Pyrazinamide,pncA_p.Ala102Thr,p.Ala102Thr,2) Assoc w R - Interim,2288936,CGC,AGT,pncA,p.A102T
+Pyrazinamide,pncA_p.Ala102Thr,p.Ala102Thr,2) Assoc w R - Interim,2288936,CGC,GGT,pncA,p.A102T
+Pyrazinamide,pncA_p.Ala102Thr,p.Ala102Thr,2) Assoc w R - Interim,2288936,CGC,TGT,pncA,p.A102T
+Pyrazinamide,pncA_p.Ala102Thr,p.Ala102Thr,2) Assoc w R - Interim,2288938,C,T,pncA,p.A102T
+Pyrazinamide,pncA_p.Ala134Val,p.Ala134Val,1) Assoc w R,2288840,GG,TA,pncA,p.A134V
+Pyrazinamide,pncA_p.Ala134Val,p.Ala134Val,1) Assoc w R,2288840,GG,CA,pncA,p.A134V
+Pyrazinamide,pncA_p.Ala134Val,p.Ala134Val,1) Assoc w R,2288840,GG,AA,pncA,p.A134V
+Pyrazinamide,pncA_p.Ala134Val,p.Ala134Val,1) Assoc w R,2288841,G,A,pncA,p.A134V
+Pyrazinamide,pncA_p.Ala143Gly,p.Ala143Gly,2) Assoc w R - Interim,2288813,GG,TC,pncA,p.A143G
+Pyrazinamide,pncA_p.Ala143Gly,p.Ala143Gly,2) Assoc w R - Interim,2288813,GG,AC,pncA,p.A143G
+Pyrazinamide,pncA_p.Ala143Gly,p.Ala143Gly,2) Assoc w R - Interim,2288813,GG,CC,pncA,p.A143G
+Pyrazinamide,pncA_p.Ala143Gly,p.Ala143Gly,2) Assoc w R - Interim,2288814,G,C,pncA,p.A143G
+Pyrazinamide,pncA_p.Ala146Glu,p.Ala146Glu,2) Assoc w R - Interim,2288804,CG,TT,pncA,p.A146E
+Pyrazinamide,pncA_p.Ala146Glu,p.Ala146Glu,2) Assoc w R - Interim,2288805,G,T,pncA,p.A146E
+Pyrazinamide,pncA_p.Ala146Thr,p.Ala146Thr,1) Assoc w R,2288804,CGC,GGT,pncA,p.A146T
+Pyrazinamide,pncA_p.Ala146Thr,p.Ala146Thr,1) Assoc w R,2288804,CGC,TGT,pncA,p.A146T
+Pyrazinamide,pncA_p.Ala146Thr,p.Ala146Thr,1) Assoc w R,2288804,CGC,AGT,pncA,p.A146T
+Pyrazinamide,pncA_p.Ala146Thr,p.Ala146Thr,1) Assoc w R,2288806,C,T,pncA,p.A146T
+Pyrazinamide,pncA_p.Ala146Val,p.Ala146Val,1) Assoc w R,2288804,CG,AA,pncA,p.A146V
+Pyrazinamide,pncA_p.Ala146Val,p.Ala146Val,1) Assoc w R,2288804,CG,GA,pncA,p.A146V
+Pyrazinamide,pncA_p.Ala146Val,p.Ala146Val,1) Assoc w R,2288804,CG,TA,pncA,p.A146V
+Pyrazinamide,pncA_p.Ala146Val,p.Ala146Val,1) Assoc w R,2288805,G,A,pncA,p.A146V
+Pyrazinamide,pncA_p.Ala171Glu,p.Ala171Glu,2) Assoc w R - Interim,2288729,CG,TT,pncA,p.A171E
+Pyrazinamide,pncA_p.Ala171Glu,p.Ala171Glu,2) Assoc w R - Interim,2288730,G,T,pncA,p.A171E
+Pyrazinamide,pncA_p.Ala171Pro,p.Ala171Pro,2) Assoc w R - Interim,2288729,CGC,TGG,pncA,p.A171P
+Pyrazinamide,pncA_p.Ala171Pro,p.Ala171Pro,2) Assoc w R - Interim,2288729,CGC,GGG,pncA,p.A171P
+Pyrazinamide,pncA_p.Ala171Pro,p.Ala171Pro,2) Assoc w R - Interim,2288729,CGC,AGG,pncA,p.A171P
+Pyrazinamide,pncA_p.Ala171Pro,p.Ala171Pro,2) Assoc w R - Interim,2288731,C,G,pncA,p.A171P
+Pyrazinamide,pncA_p.Ala3Glu,p.Ala3Glu,2) Assoc w R - Interim,2289232,ACG,CCT,pncA,p.A3E
+Pyrazinamide,pncA_p.Ala3Glu,p.Ala3Glu,2) Assoc w R - Interim,2289233,CG,TT,pncA,p.A3E
+Pyrazinamide,pncA_p.Ala3Glu,p.Ala3Glu,2) Assoc w R - Interim,2289234,G,T,pncA,p.A3E
+Pyrazinamide,pncA_p.Ala46Glu,p.Ala46Glu,2) Assoc w R - Interim,2289104,TG,CT,pncA,p.A46E
+Pyrazinamide,pncA_p.Ala46Glu,p.Ala46Glu,2) Assoc w R - Interim,2289105,G,T,pncA,p.A46E
+Pyrazinamide,pncA_p.Ala46Val,p.Ala46Val,2) Assoc w R - Interim,2289104,TG,CA,pncA,p.A46V
+Pyrazinamide,pncA_p.Ala46Val,p.Ala46Val,2) Assoc w R - Interim,2289104,TG,GA,pncA,p.A46V
+Pyrazinamide,pncA_p.Ala46Val,p.Ala46Val,2) Assoc w R - Interim,2289104,TG,AA,pncA,p.A46V
+Pyrazinamide,pncA_p.Ala46Val,p.Ala46Val,2) Assoc w R - Interim,2289105,G,A,pncA,p.A46V
+Pyrazinamide,pncA_p.Arg121Pro,p.Arg121Pro,2) Assoc w R - Interim,2288879,CC,AG,pncA,p.R121P
+Pyrazinamide,pncA_p.Arg121Pro,p.Arg121Pro,2) Assoc w R - Interim,2288879,CC,TG,pncA,p.R121P
+Pyrazinamide,pncA_p.Arg121Pro,p.Arg121Pro,2) Assoc w R - Interim,2288879,CC,GG,pncA,p.R121P
+Pyrazinamide,pncA_p.Arg121Pro,p.Arg121Pro,2) Assoc w R - Interim,2288880,C,G,pncA,p.R121P
+Pyrazinamide,pncA_p.Arg140Pro,p.Arg140Pro,2) Assoc w R - Interim,2288822,GC,TG,pncA,p.R140P
+Pyrazinamide,pncA_p.Arg140Pro,p.Arg140Pro,2) Assoc w R - Interim,2288822,GC,CG,pncA,p.R140P
+Pyrazinamide,pncA_p.Arg140Pro,p.Arg140Pro,2) Assoc w R - Interim,2288822,GC,AG,pncA,p.R140P
+Pyrazinamide,pncA_p.Arg140Pro,p.Arg140Pro,2) Assoc w R - Interim,2288823,C,G,pncA,p.R140P
+Pyrazinamide,pncA_p.Arg154Gly,p.Arg154Gly,1) Assoc w R,2288780,CCT,GCC,pncA,p.R154G
+Pyrazinamide,pncA_p.Arg154Gly,p.Arg154Gly,1) Assoc w R,2288780,CCT,ACC,pncA,p.R154G
+Pyrazinamide,pncA_p.Arg154Gly,p.Arg154Gly,1) Assoc w R,2288780,CCT,TCC,pncA,p.R154G
+Pyrazinamide,pncA_p.Arg154Gly,p.Arg154Gly,1) Assoc w R,2288782,T,C,pncA,p.R154G
+Pyrazinamide,pncA_p.Arg154Met,p.Arg154Met,1) Assoc w R,2288781,C,A,pncA,p.R154M
+Pyrazinamide,pncA_p.Asp129Asn,p.Asp129Asn,2) Assoc w R - Interim,2288855,ATC,GTT,pncA,p.D129N
+Pyrazinamide,pncA_p.Asp129Asn,p.Asp129Asn,2) Assoc w R - Interim,2288857,C,T,pncA,p.D129N
+Pyrazinamide,pncA_p.Asp12Ala,p.Asp12Ala,1) Assoc w R,2289206,GT,CG,pncA,p.D12A
+Pyrazinamide,pncA_p.Asp12Ala,p.Asp12Ala,1) Assoc w R,2289206,GT,AG,pncA,p.D12A
+Pyrazinamide,pncA_p.Asp12Ala,p.Asp12Ala,1) Assoc w R,2289206,GT,TG,pncA,p.D12A
+Pyrazinamide,pncA_p.Asp12Ala,p.Asp12Ala,1) Assoc w R,2289207,T,G,pncA,p.D12A
+Pyrazinamide,pncA_p.Asp12Asn,p.Asp12Asn,2) Assoc w R - Interim,2289206,GTC,ATT,pncA,p.D12N
+Pyrazinamide,pncA_p.Asp12Asn,p.Asp12Asn,2) Assoc w R - Interim,2289208,C,T,pncA,p.D12N
+Pyrazinamide,pncA_p.Asp12Glu,p.Asp12Glu,1) Assoc w R,2289206,G,C,pncA,p.D12E
+Pyrazinamide,pncA_p.Asp12Glu,p.Asp12Glu,1) Assoc w R,2289206,G,T,pncA,p.D12E
+Pyrazinamide,pncA_p.Asp12Gly,p.Asp12Gly,1) Assoc w R,2289206,GT,TC,pncA,p.D12G
+Pyrazinamide,pncA_p.Asp12Gly,p.Asp12Gly,1) Assoc w R,2289206,GT,AC,pncA,p.D12G
+Pyrazinamide,pncA_p.Asp12Gly,p.Asp12Gly,1) Assoc w R,2289206,GT,CC,pncA,p.D12G
+Pyrazinamide,pncA_p.Asp12Gly,p.Asp12Gly,1) Assoc w R,2289207,T,C,pncA,p.D12G
+Pyrazinamide,pncA_p.Asp136Gly,p.Asp136Gly,1) Assoc w R,2288834,AT,GC,pncA,p.D136G
+Pyrazinamide,pncA_p.Asp136Gly,p.Asp136Gly,1) Assoc w R,2288834,AT,CC,pncA,p.D136G
+Pyrazinamide,pncA_p.Asp136Gly,p.Asp136Gly,1) Assoc w R,2288834,AT,TC,pncA,p.D136G
+Pyrazinamide,pncA_p.Asp136Gly,p.Asp136Gly,1) Assoc w R,2288835,T,C,pncA,p.D136G
+Pyrazinamide,pncA_p.Asp136Val,p.Asp136Val,2) Assoc w R - Interim,2288834,AT,TA,pncA,p.D136V
+Pyrazinamide,pncA_p.Asp136Val,p.Asp136Val,2) Assoc w R - Interim,2288834,AT,GA,pncA,p.D136V
+Pyrazinamide,pncA_p.Asp136Val,p.Asp136Val,2) Assoc w R - Interim,2288834,AT,CA,pncA,p.D136V
+Pyrazinamide,pncA_p.Asp136Val,p.Asp136Val,2) Assoc w R - Interim,2288835,T,A,pncA,p.D136V
+Pyrazinamide,pncA_p.Asp49Ala,p.Asp49Ala,1) Assoc w R,2289095,GT,AG,pncA,p.D49A
+Pyrazinamide,pncA_p.Asp49Ala,p.Asp49Ala,1) Assoc w R,2289095,GT,TG,pncA,p.D49A
+Pyrazinamide,pncA_p.Asp49Ala,p.Asp49Ala,1) Assoc w R,2289095,GT,CG,pncA,p.D49A
+Pyrazinamide,pncA_p.Asp49Ala,p.Asp49Ala,1) Assoc w R,2289096,T,G,pncA,p.D49A
+Pyrazinamide,pncA_p.Asp49Asn,p.Asp49Asn,2) Assoc w R - Interim,2289095,GTC,ATT,pncA,p.D49N
+Pyrazinamide,pncA_p.Asp49Asn,p.Asp49Asn,2) Assoc w R - Interim,2289097,C,T,pncA,p.D49N
+Pyrazinamide,pncA_p.Asp49Glu,p.Asp49Glu,2) Assoc w R - Interim,2289095,G,T,pncA,p.D49E
+Pyrazinamide,pncA_p.Asp49Glu,p.Asp49Glu,2) Assoc w R - Interim,2289095,G,C,pncA,p.D49E
+Pyrazinamide,pncA_p.Asp49Gly,p.Asp49Gly,1) Assoc w R,2289095,GT,TC,pncA,p.D49G
+Pyrazinamide,pncA_p.Asp49Gly,p.Asp49Gly,1) Assoc w R,2289095,GT,AC,pncA,p.D49G
+Pyrazinamide,pncA_p.Asp49Gly,p.Asp49Gly,1) Assoc w R,2289095,GT,CC,pncA,p.D49G
+Pyrazinamide,pncA_p.Asp49Gly,p.Asp49Gly,1) Assoc w R,2289096,T,C,pncA,p.D49G
+Pyrazinamide,pncA_p.Asp63Ala,p.Asp63Ala,1) Assoc w R,2289053,GT,AG,pncA,p.D63A
+Pyrazinamide,pncA_p.Asp63Ala,p.Asp63Ala,1) Assoc w R,2289053,GT,CG,pncA,p.D63A
+Pyrazinamide,pncA_p.Asp63Ala,p.Asp63Ala,1) Assoc w R,2289053,GT,TG,pncA,p.D63A
+Pyrazinamide,pncA_p.Asp63Ala,p.Asp63Ala,1) Assoc w R,2289054,T,G,pncA,p.D63A
+Pyrazinamide,pncA_p.Asp63Gly,p.Asp63Gly,2) Assoc w R - Interim,2289053,GT,TC,pncA,p.D63G
+Pyrazinamide,pncA_p.Asp63Gly,p.Asp63Gly,2) Assoc w R - Interim,2289053,GT,CC,pncA,p.D63G
+Pyrazinamide,pncA_p.Asp63Gly,p.Asp63Gly,2) Assoc w R - Interim,2289053,GT,AC,pncA,p.D63G
+Pyrazinamide,pncA_p.Asp63Gly,p.Asp63Gly,2) Assoc w R - Interim,2289054,T,C,pncA,p.D63G
+Pyrazinamide,pncA_p.Asp8Ala,p.Asp8Ala,2) Assoc w R - Interim,2289218,GT,AG,pncA,p.D8A
+Pyrazinamide,pncA_p.Asp8Ala,p.Asp8Ala,2) Assoc w R - Interim,2289218,GT,CG,pncA,p.D8A
+Pyrazinamide,pncA_p.Asp8Ala,p.Asp8Ala,2) Assoc w R - Interim,2289218,GT,TG,pncA,p.D8A
+Pyrazinamide,pncA_p.Asp8Ala,p.Asp8Ala,2) Assoc w R - Interim,2289219,T,G,pncA,p.D8A
+Pyrazinamide,pncA_p.Asp8Asn,p.Asp8Asn,1) Assoc w R,2289218,GTC,ATT,pncA,p.D8N
+Pyrazinamide,pncA_p.Asp8Asn,p.Asp8Asn,1) Assoc w R,2289220,C,T,pncA,p.D8N
+Pyrazinamide,pncA_p.Asp8Glu,p.Asp8Glu,1) Assoc w R,2289218,G,C,pncA,p.D8E
+Pyrazinamide,pncA_p.Asp8Glu,p.Asp8Glu,1) Assoc w R,2289218,G,T,pncA,p.D8E
+Pyrazinamide,pncA_p.Asp8Gly,p.Asp8Gly,1) Assoc w R,2289218,GT,TC,pncA,p.D8G
+Pyrazinamide,pncA_p.Asp8Gly,p.Asp8Gly,1) Assoc w R,2289218,GT,AC,pncA,p.D8G
+Pyrazinamide,pncA_p.Asp8Gly,p.Asp8Gly,1) Assoc w R,2289218,GT,CC,pncA,p.D8G
+Pyrazinamide,pncA_p.Asp8Gly,p.Asp8Gly,1) Assoc w R,2289219,T,C,pncA,p.D8G
+Pyrazinamide,pncA_p.Asp8His,p.Asp8His,2) Assoc w R - Interim,2289218,GTC,ATG,pncA,p.D8H
+Pyrazinamide,pncA_p.Asp8His,p.Asp8His,2) Assoc w R - Interim,2289220,C,G,pncA,p.D8H
+Pyrazinamide,pncA_p.Asp8Tyr,p.Asp8Tyr,2) Assoc w R - Interim,2289218,GTC,ATA,pncA,p.D8Y
+Pyrazinamide,pncA_p.Asp8Tyr,p.Asp8Tyr,2) Assoc w R - Interim,2289220,C,A,pncA,p.D8Y
+Pyrazinamide,pncA_p.Cys138Arg,p.Cys138Arg,1) Assoc w R,2288828,ACA,TCT,pncA,p.C138R
+Pyrazinamide,pncA_p.Cys138Arg,p.Cys138Arg,1) Assoc w R,2288828,ACA,CCT,pncA,p.C138R
+Pyrazinamide,pncA_p.Cys138Arg,p.Cys138Arg,1) Assoc w R,2288828,ACA,GCG,pncA,p.C138R
+Pyrazinamide,pncA_p.Cys138Arg,p.Cys138Arg,1) Assoc w R,2288828,ACA,CCG,pncA,p.C138R
+Pyrazinamide,pncA_p.Cys138Arg,p.Cys138Arg,1) Assoc w R,2288828,ACA,TCG,pncA,p.C138R
+Pyrazinamide,pncA_p.Cys138Arg,p.Cys138Arg,1) Assoc w R,2288830,A,G,pncA,p.C138R
+Pyrazinamide,pncA_p.Cys14Arg,p.Cys14Arg,1) Assoc w R,2289200,GCA,TCG,pncA,p.C14R
+Pyrazinamide,pncA_p.Cys14Arg,p.Cys14Arg,1) Assoc w R,2289200,GCA,ACG,pncA,p.C14R
+Pyrazinamide,pncA_p.Cys14Arg,p.Cys14Arg,1) Assoc w R,2289200,GCA,TCT,pncA,p.C14R
+Pyrazinamide,pncA_p.Cys14Arg,p.Cys14Arg,1) Assoc w R,2289200,GCA,CCG,pncA,p.C14R
+Pyrazinamide,pncA_p.Cys14Arg,p.Cys14Arg,1) Assoc w R,2289200,GCA,CCT,pncA,p.C14R
+Pyrazinamide,pncA_p.Cys14Arg,p.Cys14Arg,1) Assoc w R,2289202,A,G,pncA,p.C14R
+Pyrazinamide,pncA_p.Cys14Trp,p.Cys14Trp,2) Assoc w R - Interim,2289200,G,C,pncA,p.C14W
+Pyrazinamide,pncA_p.Cys72Arg,p.Cys72Arg,1) Assoc w R,2289026,GCA,ACG,pncA,p.C72R
+Pyrazinamide,pncA_p.Cys72Arg,p.Cys72Arg,1) Assoc w R,2289026,GCA,TCG,pncA,p.C72R
+Pyrazinamide,pncA_p.Cys72Arg,p.Cys72Arg,1) Assoc w R,2289026,GCA,CCG,pncA,p.C72R
+Pyrazinamide,pncA_p.Cys72Arg,p.Cys72Arg,1) Assoc w R,2289026,GCA,TCT,pncA,p.C72R
+Pyrazinamide,pncA_p.Cys72Arg,p.Cys72Arg,1) Assoc w R,2289026,GCA,CCT,pncA,p.C72R
+Pyrazinamide,pncA_p.Cys72Arg,p.Cys72Arg,1) Assoc w R,2289028,A,G,pncA,p.C72R
+Pyrazinamide,pncA_p.Cys72Tyr,p.Cys72Tyr,2) Assoc w R - Interim,2289026,GC,AT,pncA,p.C72Y
+Pyrazinamide,pncA_p.Cys72Tyr,p.Cys72Tyr,2) Assoc w R - Interim,2289027,C,T,pncA,p.C72Y
+Pyrazinamide,pncA_p.Gln10Arg,p.Gln10Arg,1) Assoc w R,2289212,CT,TC,pncA,p.Q10R
+Pyrazinamide,pncA_p.Gln10Arg,p.Gln10Arg,1) Assoc w R,2289212,CTG,TCT,pncA,p.Q10R
+Pyrazinamide,pncA_p.Gln10Arg,p.Gln10Arg,1) Assoc w R,2289212,CT,AC,pncA,p.Q10R
+Pyrazinamide,pncA_p.Gln10Arg,p.Gln10Arg,1) Assoc w R,2289212,CT,GC,pncA,p.Q10R
+Pyrazinamide,pncA_p.Gln10Arg,p.Gln10Arg,1) Assoc w R,2289213,TG,CT,pncA,p.Q10R
+Pyrazinamide,pncA_p.Gln10Arg,p.Gln10Arg,1) Assoc w R,2289213,T,C,pncA,p.Q10R
+Pyrazinamide,pncA_p.Gln10His,p.Gln10His,1) Assoc w R,2289211,TC,GA,pncA,p.Q10H
+Pyrazinamide,pncA_p.Gln10His,p.Gln10His,1) Assoc w R,2289211,TC,AA,pncA,p.Q10H
+Pyrazinamide,pncA_p.Gln10His,p.Gln10His,1) Assoc w R,2289212,C,G,pncA,p.Q10H
+Pyrazinamide,pncA_p.Gln10His,p.Gln10His,1) Assoc w R,2289212,C,A,pncA,p.Q10H
+Pyrazinamide,pncA_p.Gln10Pro,p.Gln10Pro,1) Assoc w R,2289212,CT,TG,pncA,p.Q10P
+Pyrazinamide,pncA_p.Gln10Pro,p.Gln10Pro,1) Assoc w R,2289212,CT,AG,pncA,p.Q10P
+Pyrazinamide,pncA_p.Gln10Pro,p.Gln10Pro,1) Assoc w R,2289212,CT,GG,pncA,p.Q10P
+Pyrazinamide,pncA_p.Gln10Pro,p.Gln10Pro,1) Assoc w R,2289213,T,G,pncA,p.Q10P
+Pyrazinamide,pncA_p.Gln141Pro,p.Gln141Pro,1) Assoc w R,2288819,CT,AG,pncA,p.Q141P
+Pyrazinamide,pncA_p.Gln141Pro,p.Gln141Pro,1) Assoc w R,2288819,CT,TG,pncA,p.Q141P
+Pyrazinamide,pncA_p.Gln141Pro,p.Gln141Pro,1) Assoc w R,2288819,CT,GG,pncA,p.Q141P
+Pyrazinamide,pncA_p.Gln141Pro,p.Gln141Pro,1) Assoc w R,2288820,T,G,pncA,p.Q141P
+Pyrazinamide,pncA_p.Gly105Asp,p.Gly105Asp,1) Assoc w R,2288927,GC,AT,pncA,p.G105D
+Pyrazinamide,pncA_p.Gly105Asp,p.Gly105Asp,1) Assoc w R,2288928,C,T,pncA,p.G105D
+Pyrazinamide,pncA_p.Gly105Val,p.Gly105Val,2) Assoc w R - Interim,2288927,GC,TA,pncA,p.G105V
+Pyrazinamide,pncA_p.Gly105Val,p.Gly105Val,2) Assoc w R - Interim,2288927,GC,CA,pncA,p.G105V
+Pyrazinamide,pncA_p.Gly105Val,p.Gly105Val,2) Assoc w R - Interim,2288927,GC,AA,pncA,p.G105V
+Pyrazinamide,pncA_p.Gly105Val,p.Gly105Val,2) Assoc w R - Interim,2288928,C,A,pncA,p.G105V
+Pyrazinamide,pncA_p.Gly108Arg,p.Gly108Arg,1) Assoc w R,2288918,TCC,GCG,pncA,p.G108R
+Pyrazinamide,pncA_p.Gly108Arg,p.Gly108Arg,1) Assoc w R,2288918,TCC,CCG,pncA,p.G108R
+Pyrazinamide,pncA_p.Gly108Arg,p.Gly108Arg,1) Assoc w R,2288918,TCC,CCT,pncA,p.G108R
+Pyrazinamide,pncA_p.Gly108Arg,p.Gly108Arg,1) Assoc w R,2288918,TCC,ACG,pncA,p.G108R
+Pyrazinamide,pncA_p.Gly108Arg,p.Gly108Arg,1) Assoc w R,2288920,C,T,pncA,p.G108R
+Pyrazinamide,pncA_p.Gly108Arg,p.Gly108Arg,1) Assoc w R,2288920,C,G,pncA,p.G108R
+Pyrazinamide,pncA_p.Gly108Glu,p.Gly108Glu,2) Assoc w R - Interim,2288918,TC,CT,pncA,p.G108E
+Pyrazinamide,pncA_p.Gly108Glu,p.Gly108Glu,2) Assoc w R - Interim,2288919,C,T,pncA,p.G108E
+Pyrazinamide,pncA_p.Gly132Ala,p.Gly132Ala,1) Assoc w R,2288846,AC,GG,pncA,p.G132A
+Pyrazinamide,pncA_p.Gly132Ala,p.Gly132Ala,1) Assoc w R,2288846,AC,TG,pncA,p.G132A
+Pyrazinamide,pncA_p.Gly132Ala,p.Gly132Ala,1) Assoc w R,2288846,AC,CG,pncA,p.G132A
+Pyrazinamide,pncA_p.Gly132Ala,p.Gly132Ala,1) Assoc w R,2288847,C,G,pncA,p.G132A
+Pyrazinamide,pncA_p.Gly132Asp,p.Gly132Asp,2) Assoc w R - Interim,2288846,AC,GT,pncA,p.G132D
+Pyrazinamide,pncA_p.Gly132Asp,p.Gly132Asp,2) Assoc w R - Interim,2288847,C,T,pncA,p.G132D
+Pyrazinamide,pncA_p.Gly132Cys,p.Gly132Cys,2) Assoc w R - Interim,2288846,ACC,GCA,pncA,p.G132C
+Pyrazinamide,pncA_p.Gly132Cys,p.Gly132Cys,2) Assoc w R - Interim,2288848,C,A,pncA,p.G132C
+Pyrazinamide,pncA_p.Gly132Ser,p.Gly132Ser,1) Assoc w R,2288846,ACC,GGA,pncA,p.G132S
+Pyrazinamide,pncA_p.Gly132Ser,p.Gly132Ser,1) Assoc w R,2288846,ACC,GCT,pncA,p.G132S
+Pyrazinamide,pncA_p.Gly132Ser,p.Gly132Ser,1) Assoc w R,2288846,ACC,CGA,pncA,p.G132S
+Pyrazinamide,pncA_p.Gly132Ser,p.Gly132Ser,1) Assoc w R,2288846,ACC,TGA,pncA,p.G132S
+Pyrazinamide,pncA_p.Gly132Ser,p.Gly132Ser,1) Assoc w R,2288847,CC,GA,pncA,p.G132S
+Pyrazinamide,pncA_p.Gly132Ser,p.Gly132Ser,1) Assoc w R,2288848,C,T,pncA,p.G132S
+Pyrazinamide,pncA_p.Gly162Asp,p.Gly162Asp,2) Assoc w R - Interim,2288756,AC,GT,pncA,p.G162D
+Pyrazinamide,pncA_p.Gly162Asp,p.Gly162Asp,2) Assoc w R - Interim,2288757,C,T,pncA,p.G162D
+Pyrazinamide,pncA_p.Gly17Asp,p.Gly17Asp,2) Assoc w R - Interim,2289191,GC,AT,pncA,p.G17D
+Pyrazinamide,pncA_p.Gly17Asp,p.Gly17Asp,2) Assoc w R - Interim,2289192,C,T,pncA,p.G17D
+Pyrazinamide,pncA_p.Gly24Asp,p.Gly24Asp,1) Assoc w R,2289170,GC,AT,pncA,p.G24D
+Pyrazinamide,pncA_p.Gly24Asp,p.Gly24Asp,1) Assoc w R,2289171,C,T,pncA,p.G24D
+Pyrazinamide,pncA_p.Gly78Asp,p.Gly78Asp,2) Assoc w R - Interim,2289008,GC,AT,pncA,p.G78D
+Pyrazinamide,pncA_p.Gly78Asp,p.Gly78Asp,2) Assoc w R - Interim,2289009,C,T,pncA,p.G78D
+Pyrazinamide,pncA_p.Gly78Ser,p.Gly78Ser,2) Assoc w R - Interim,2289008,GCC,AGA,pncA,p.G78S
+Pyrazinamide,pncA_p.Gly78Ser,p.Gly78Ser,2) Assoc w R - Interim,2289008,GCC,CGA,pncA,p.G78S
+Pyrazinamide,pncA_p.Gly78Ser,p.Gly78Ser,2) Assoc w R - Interim,2289008,GCC,ACT,pncA,p.G78S
+Pyrazinamide,pncA_p.Gly78Ser,p.Gly78Ser,2) Assoc w R - Interim,2289008,GCC,TGA,pncA,p.G78S
+Pyrazinamide,pncA_p.Gly78Ser,p.Gly78Ser,2) Assoc w R - Interim,2289009,CC,GA,pncA,p.G78S
+Pyrazinamide,pncA_p.Gly78Ser,p.Gly78Ser,2) Assoc w R - Interim,2289010,C,T,pncA,p.G78S
+Pyrazinamide,pncA_p.Gly78Val,p.Gly78Val,2) Assoc w R - Interim,2289008,GC,AA,pncA,p.G78V
+Pyrazinamide,pncA_p.Gly78Val,p.Gly78Val,2) Assoc w R - Interim,2289008,GC,CA,pncA,p.G78V
+Pyrazinamide,pncA_p.Gly78Val,p.Gly78Val,2) Assoc w R - Interim,2289008,GC,TA,pncA,p.G78V
+Pyrazinamide,pncA_p.Gly78Val,p.Gly78Val,2) Assoc w R - Interim,2289009,C,A,pncA,p.G78V
+Pyrazinamide,pncA_p.Gly97Arg,p.Gly97Arg,1) Assoc w R,2288951,ACC,CCG,pncA,p.G97R
+Pyrazinamide,pncA_p.Gly97Arg,p.Gly97Arg,1) Assoc w R,2288951,ACC,CCT,pncA,p.G97R
+Pyrazinamide,pncA_p.Gly97Arg,p.Gly97Arg,1) Assoc w R,2288951,ACC,TCT,pncA,p.G97R
+Pyrazinamide,pncA_p.Gly97Arg,p.Gly97Arg,1) Assoc w R,2288951,ACC,GCG,pncA,p.G97R
+Pyrazinamide,pncA_p.Gly97Arg,p.Gly97Arg,1) Assoc w R,2288951,ACC,TCG,pncA,p.G97R
+Pyrazinamide,pncA_p.Gly97Arg,p.Gly97Arg,1) Assoc w R,2288953,C,G,pncA,p.G97R
+Pyrazinamide,pncA_p.Gly97Asp,p.Gly97Asp,1) Assoc w R,2288951,AC,GT,pncA,p.G97D
+Pyrazinamide,pncA_p.Gly97Asp,p.Gly97Asp,1) Assoc w R,2288952,C,T,pncA,p.G97D
+Pyrazinamide,pncA_p.Gly97Cys,p.Gly97Cys,1) Assoc w R,2288951,ACC,GCA,pncA,p.G97C
+Pyrazinamide,pncA_p.Gly97Cys,p.Gly97Cys,1) Assoc w R,2288953,C,A,pncA,p.G97C
+Pyrazinamide,pncA_p.Gly97Ser,p.Gly97Ser,1) Assoc w R,2288951,ACC,GCT,pncA,p.G97S
+Pyrazinamide,pncA_p.Gly97Ser,p.Gly97Ser,1) Assoc w R,2288951,ACC,GGA,pncA,p.G97S
+Pyrazinamide,pncA_p.Gly97Ser,p.Gly97Ser,1) Assoc w R,2288951,ACC,CGA,pncA,p.G97S
+Pyrazinamide,pncA_p.Gly97Ser,p.Gly97Ser,1) Assoc w R,2288951,ACC,TGA,pncA,p.G97S
+Pyrazinamide,pncA_p.Gly97Ser,p.Gly97Ser,1) Assoc w R,2288952,CC,GA,pncA,p.G97S
+Pyrazinamide,pncA_p.Gly97Ser,p.Gly97Ser,1) Assoc w R,2288953,C,T,pncA,p.G97S
+Pyrazinamide,pncA_p.Gly97Val,p.Gly97Val,2) Assoc w R - Interim,2288951,AC,GA,pncA,p.G97V
+Pyrazinamide,pncA_p.Gly97Val,p.Gly97Val,2) Assoc w R - Interim,2288951,AC,TA,pncA,p.G97V
+Pyrazinamide,pncA_p.Gly97Val,p.Gly97Val,2) Assoc w R - Interim,2288951,AC,CA,pncA,p.G97V
+Pyrazinamide,pncA_p.Gly97Val,p.Gly97Val,2) Assoc w R - Interim,2288952,C,A,pncA,p.G97V
+Pyrazinamide,pncA_p.His137Pro,p.His137Pro,2) Assoc w R - Interim,2288831,AT,TG,pncA,p.H137P
+Pyrazinamide,pncA_p.His137Pro,p.His137Pro,2) Assoc w R - Interim,2288831,AT,CG,pncA,p.H137P
+Pyrazinamide,pncA_p.His137Pro,p.His137Pro,2) Assoc w R - Interim,2288831,AT,GG,pncA,p.H137P
+Pyrazinamide,pncA_p.His137Pro,p.His137Pro,2) Assoc w R - Interim,2288832,T,G,pncA,p.H137P
+Pyrazinamide,pncA_p.His43Pro,p.His43Pro,2) Assoc w R - Interim,2289113,GT,TG,pncA,p.H43P
+Pyrazinamide,pncA_p.His43Pro,p.His43Pro,2) Assoc w R - Interim,2289113,GT,AG,pncA,p.H43P
+Pyrazinamide,pncA_p.His43Pro,p.His43Pro,2) Assoc w R - Interim,2289113,GT,CG,pncA,p.H43P
+Pyrazinamide,pncA_p.His43Pro,p.His43Pro,2) Assoc w R - Interim,2289114,T,G,pncA,p.H43P
+Pyrazinamide,pncA_p.His51Arg,p.His51Arg,1) Assoc w R,2289089,GTG,CCT,pncA,p.H51R
+Pyrazinamide,pncA_p.His51Arg,p.His51Arg,1) Assoc w R,2289089,GT,TC,pncA,p.H51R
+Pyrazinamide,pncA_p.His51Arg,p.His51Arg,1) Assoc w R,2289089,GTG,TCT,pncA,p.H51R
+Pyrazinamide,pncA_p.His51Arg,p.His51Arg,1) Assoc w R,2289089,GT,AC,pncA,p.H51R
+Pyrazinamide,pncA_p.His51Arg,p.His51Arg,1) Assoc w R,2289089,GT,CC,pncA,p.H51R
+Pyrazinamide,pncA_p.His51Arg,p.His51Arg,1) Assoc w R,2289090,T,C,pncA,p.H51R
+Pyrazinamide,pncA_p.His51Asp,p.His51Asp,1) Assoc w R,2289089,GTG,ATC,pncA,p.H51D
+Pyrazinamide,pncA_p.His51Asp,p.His51Asp,1) Assoc w R,2289091,G,C,pncA,p.H51D
+Pyrazinamide,pncA_p.His51Gln,p.His51Gln,1) Assoc w R,2289089,G,C,pncA,p.H51Q
+Pyrazinamide,pncA_p.His51Gln,p.His51Gln,1) Assoc w R,2289089,G,T,pncA,p.H51Q
+Pyrazinamide,pncA_p.His51Pro,p.His51Pro,1) Assoc w R,2289089,GT,CG,pncA,p.H51P
+Pyrazinamide,pncA_p.His51Pro,p.His51Pro,1) Assoc w R,2289089,GT,TG,pncA,p.H51P
+Pyrazinamide,pncA_p.His51Pro,p.His51Pro,1) Assoc w R,2289089,GT,AG,pncA,p.H51P
+Pyrazinamide,pncA_p.His51Pro,p.His51Pro,1) Assoc w R,2289090,T,G,pncA,p.H51P
+Pyrazinamide,pncA_p.His51Tyr,p.His51Tyr,1) Assoc w R,2289089,GTG,ATA,pncA,p.H51Y
+Pyrazinamide,pncA_p.His51Tyr,p.His51Tyr,1) Assoc w R,2289091,G,A,pncA,p.H51Y
+Pyrazinamide,pncA_p.His57Arg,p.His57Arg,1) Assoc w R,2289071,GT,CC,pncA,p.H57R
+Pyrazinamide,pncA_p.His57Arg,p.His57Arg,1) Assoc w R,2289071,GTG,TCT,pncA,p.H57R
+Pyrazinamide,pncA_p.His57Arg,p.His57Arg,1) Assoc w R,2289071,GT,AC,pncA,p.H57R
+Pyrazinamide,pncA_p.His57Arg,p.His57Arg,1) Assoc w R,2289071,GT,TC,pncA,p.H57R
+Pyrazinamide,pncA_p.His57Arg,p.His57Arg,1) Assoc w R,2289071,GTG,CCT,pncA,p.H57R
+Pyrazinamide,pncA_p.His57Arg,p.His57Arg,1) Assoc w R,2289072,T,C,pncA,p.H57R
+Pyrazinamide,pncA_p.His57Asp,p.His57Asp,1) Assoc w R,2289071,GTG,ATC,pncA,p.H57D
+Pyrazinamide,pncA_p.His57Asp,p.His57Asp,1) Assoc w R,2289073,G,C,pncA,p.H57D
+Pyrazinamide,pncA_p.His57Gln,p.His57Gln,2) Assoc w R - Interim,2289071,G,T,pncA,p.H57Q
+Pyrazinamide,pncA_p.His57Gln,p.His57Gln,2) Assoc w R - Interim,2289071,G,C,pncA,p.H57Q
+Pyrazinamide,pncA_p.His57Leu,p.His57Leu,2) Assoc w R - Interim,2289071,GT,TA,pncA,p.H57L
+Pyrazinamide,pncA_p.His57Leu,p.His57Leu,2) Assoc w R - Interim,2289071,GT,AA,pncA,p.H57L
+Pyrazinamide,pncA_p.His57Leu,p.His57Leu,2) Assoc w R - Interim,2289071,GTG,TAA,pncA,p.H57L
+Pyrazinamide,pncA_p.His57Leu,p.His57Leu,2) Assoc w R - Interim,2289071,GT,CA,pncA,p.H57L
+Pyrazinamide,pncA_p.His57Leu,p.His57Leu,2) Assoc w R - Interim,2289071,GTG,CAA,pncA,p.H57L
+Pyrazinamide,pncA_p.His57Leu,p.His57Leu,2) Assoc w R - Interim,2289072,T,A,pncA,p.H57L
+Pyrazinamide,pncA_p.His57Tyr,p.His57Tyr,1) Assoc w R,2289071,GTG,ATA,pncA,p.H57Y
+Pyrazinamide,pncA_p.His57Tyr,p.His57Tyr,1) Assoc w R,2289073,G,A,pncA,p.H57Y
+Pyrazinamide,pncA_p.His71Arg,p.His71Arg,1) Assoc w R,2289029,ATG,CCT,pncA,p.H71R
+Pyrazinamide,pncA_p.His71Arg,p.His71Arg,1) Assoc w R,2289029,ATG,TCT,pncA,p.H71R
+Pyrazinamide,pncA_p.His71Arg,p.His71Arg,1) Assoc w R,2289029,AT,TC,pncA,p.H71R
+Pyrazinamide,pncA_p.His71Arg,p.His71Arg,1) Assoc w R,2289029,AT,CC,pncA,p.H71R
+Pyrazinamide,pncA_p.His71Arg,p.His71Arg,1) Assoc w R,2289029,AT,GC,pncA,p.H71R
+Pyrazinamide,pncA_p.His71Arg,p.His71Arg,1) Assoc w R,2289030,T,C,pncA,p.H71R
+Pyrazinamide,pncA_p.His71Pro,p.His71Pro,1) Assoc w R,2289029,AT,TG,pncA,p.H71P
+Pyrazinamide,pncA_p.His71Pro,p.His71Pro,1) Assoc w R,2289029,AT,GG,pncA,p.H71P
+Pyrazinamide,pncA_p.His71Pro,p.His71Pro,1) Assoc w R,2289029,AT,CG,pncA,p.H71P
+Pyrazinamide,pncA_p.His71Pro,p.His71Pro,1) Assoc w R,2289030,T,G,pncA,p.H71P
+Pyrazinamide,pncA_p.His71Tyr,p.His71Tyr,1) Assoc w R,2289029,ATG,GTA,pncA,p.H71Y
+Pyrazinamide,pncA_p.His71Tyr,p.His71Tyr,1) Assoc w R,2289031,G,A,pncA,p.H71Y
+Pyrazinamide,pncA_p.His82Arg,p.His82Arg,1) Assoc w R,2288996,AT,GC,pncA,p.H82R
+Pyrazinamide,pncA_p.His82Arg,p.His82Arg,1) Assoc w R,2288996,ATG,CCT,pncA,p.H82R
+Pyrazinamide,pncA_p.His82Arg,p.His82Arg,1) Assoc w R,2288996,AT,TC,pncA,p.H82R
+Pyrazinamide,pncA_p.His82Arg,p.His82Arg,1) Assoc w R,2288996,ATG,TCT,pncA,p.H82R
+Pyrazinamide,pncA_p.His82Arg,p.His82Arg,1) Assoc w R,2288996,AT,CC,pncA,p.H82R
+Pyrazinamide,pncA_p.His82Arg,p.His82Arg,1) Assoc w R,2288997,T,C,pncA,p.H82R
+Pyrazinamide,pncA_p.Ile133Thr,p.Ile133Thr,1) Assoc w R,2288843,AA,TG,pncA,p.I133T
+Pyrazinamide,pncA_p.Ile133Thr,p.Ile133Thr,1) Assoc w R,2288843,AA,GG,pncA,p.I133T
+Pyrazinamide,pncA_p.Ile133Thr,p.Ile133Thr,1) Assoc w R,2288843,AA,CG,pncA,p.I133T
+Pyrazinamide,pncA_p.Ile133Thr,p.Ile133Thr,1) Assoc w R,2288844,A,G,pncA,p.I133T
+Pyrazinamide,pncA_p.Ile31Ser,p.Ile31Ser,1) Assoc w R,2289149,GA,AC,pncA,p.I31S
+Pyrazinamide,pncA_p.Ile31Ser,p.Ile31Ser,1) Assoc w R,2289149,GAT,TGA,pncA,p.I31S
+Pyrazinamide,pncA_p.Ile31Ser,p.Ile31Ser,1) Assoc w R,2289149,GAT,AGA,pncA,p.I31S
+Pyrazinamide,pncA_p.Ile31Ser,p.Ile31Ser,1) Assoc w R,2289149,GAT,CGA,pncA,p.I31S
+Pyrazinamide,pncA_p.Ile31Ser,p.Ile31Ser,1) Assoc w R,2289150,AT,GA,pncA,p.I31S
+Pyrazinamide,pncA_p.Ile31Ser,p.Ile31Ser,1) Assoc w R,2289150,A,C,pncA,p.I31S
+Pyrazinamide,pncA_p.Ile31Thr,p.Ile31Thr,2) Assoc w R - Interim,2289149,GA,CG,pncA,p.I31T
+Pyrazinamide,pncA_p.Ile31Thr,p.Ile31Thr,2) Assoc w R - Interim,2289149,GA,AG,pncA,p.I31T
+Pyrazinamide,pncA_p.Ile31Thr,p.Ile31Thr,2) Assoc w R - Interim,2289149,GA,TG,pncA,p.I31T
+Pyrazinamide,pncA_p.Ile31Thr,p.Ile31Thr,2) Assoc w R - Interim,2289150,A,G,pncA,p.I31T
+Pyrazinamide,pncA_p.Ile5Ser,p.Ile5Ser,1) Assoc w R,2289227,GAT,AGA,pncA,p.I5S
+Pyrazinamide,pncA_p.Ile5Ser,p.Ile5Ser,1) Assoc w R,2289227,GAT,CGA,pncA,p.I5S
+Pyrazinamide,pncA_p.Ile5Ser,p.Ile5Ser,1) Assoc w R,2289227,GAT,TGA,pncA,p.I5S
+Pyrazinamide,pncA_p.Ile5Ser,p.Ile5Ser,1) Assoc w R,2289227,GA,AC,pncA,p.I5S
+Pyrazinamide,pncA_p.Ile5Ser,p.Ile5Ser,1) Assoc w R,2289228,A,C,pncA,p.I5S
+Pyrazinamide,pncA_p.Ile5Ser,p.Ile5Ser,1) Assoc w R,2289228,AT,GA,pncA,p.I5S
+Pyrazinamide,pncA_p.Ile6Thr,p.Ile6Thr,1) Assoc w R,2289224,GA,AG,pncA,p.I6T
+Pyrazinamide,pncA_p.Ile6Thr,p.Ile6Thr,1) Assoc w R,2289224,GA,TG,pncA,p.I6T
+Pyrazinamide,pncA_p.Ile6Thr,p.Ile6Thr,1) Assoc w R,2289224,GA,CG,pncA,p.I6T
+Pyrazinamide,pncA_p.Ile6Thr,p.Ile6Thr,1) Assoc w R,2289225,A,G,pncA,p.I6T
+Pyrazinamide,pncA_p.Ile90Asn,p.Ile90Asn,2) Assoc w R - Interim,2288972,GA,AT,pncA,p.I90N
+Pyrazinamide,pncA_p.Ile90Asn,p.Ile90Asn,2) Assoc w R - Interim,2288973,A,T,pncA,p.I90N
+Pyrazinamide,pncA_p.Ile90Ser,p.Ile90Ser,1) Assoc w R,2288972,GAT,CGA,pncA,p.I90S
+Pyrazinamide,pncA_p.Ile90Ser,p.Ile90Ser,1) Assoc w R,2288972,GA,AC,pncA,p.I90S
+Pyrazinamide,pncA_p.Ile90Ser,p.Ile90Ser,1) Assoc w R,2288972,GAT,AGA,pncA,p.I90S
+Pyrazinamide,pncA_p.Ile90Ser,p.Ile90Ser,1) Assoc w R,2288972,GAT,TGA,pncA,p.I90S
+Pyrazinamide,pncA_p.Ile90Ser,p.Ile90Ser,1) Assoc w R,2288973,A,C,pncA,p.I90S
+Pyrazinamide,pncA_p.Ile90Ser,p.Ile90Ser,1) Assoc w R,2288973,AT,GA,pncA,p.I90S
+Pyrazinamide,pncA_p.Ile90Thr,p.Ile90Thr,2) Assoc w R - Interim,2288972,GA,TG,pncA,p.I90T
+Pyrazinamide,pncA_p.Ile90Thr,p.Ile90Thr,2) Assoc w R - Interim,2288972,GA,CG,pncA,p.I90T
+Pyrazinamide,pncA_p.Ile90Thr,p.Ile90Thr,2) Assoc w R - Interim,2288972,GA,AG,pncA,p.I90T
+Pyrazinamide,pncA_p.Ile90Thr,p.Ile90Thr,2) Assoc w R - Interim,2288973,A,G,pncA,p.I90T
+Pyrazinamide,pncA_p.Leu116Arg,p.Leu116Arg,2) Assoc w R - Interim,2288894,CA,AC,pncA,p.L116R
+Pyrazinamide,pncA_p.Leu116Arg,p.Leu116Arg,2) Assoc w R - Interim,2288894,CA,TC,pncA,p.L116R
+Pyrazinamide,pncA_p.Leu116Arg,p.Leu116Arg,2) Assoc w R - Interim,2288894,CAG,TCT,pncA,p.L116R
+Pyrazinamide,pncA_p.Leu116Arg,p.Leu116Arg,2) Assoc w R - Interim,2288894,CA,GC,pncA,p.L116R
+Pyrazinamide,pncA_p.Leu116Arg,p.Leu116Arg,2) Assoc w R - Interim,2288895,A,C,pncA,p.L116R
+Pyrazinamide,pncA_p.Leu116Arg,p.Leu116Arg,2) Assoc w R - Interim,2288895,AG,CT,pncA,p.L116R
+Pyrazinamide,pncA_p.Leu116Pro,p.Leu116Pro,2) Assoc w R - Interim,2288894,CA,TG,pncA,p.L116P
+Pyrazinamide,pncA_p.Leu116Pro,p.Leu116Pro,2) Assoc w R - Interim,2288894,CA,GG,pncA,p.L116P
+Pyrazinamide,pncA_p.Leu116Pro,p.Leu116Pro,2) Assoc w R - Interim,2288894,CA,AG,pncA,p.L116P
+Pyrazinamide,pncA_p.Leu116Pro,p.Leu116Pro,2) Assoc w R - Interim,2288895,A,G,pncA,p.L116P
+Pyrazinamide,pncA_p.Leu120Arg,p.Leu120Arg,1) Assoc w R,2288882,CA,AC,pncA,p.L120R
+Pyrazinamide,pncA_p.Leu120Arg,p.Leu120Arg,1) Assoc w R,2288882,CAG,TCT,pncA,p.L120R
+Pyrazinamide,pncA_p.Leu120Arg,p.Leu120Arg,1) Assoc w R,2288882,CA,GC,pncA,p.L120R
+Pyrazinamide,pncA_p.Leu120Arg,p.Leu120Arg,1) Assoc w R,2288882,CA,TC,pncA,p.L120R
+Pyrazinamide,pncA_p.Leu120Arg,p.Leu120Arg,1) Assoc w R,2288883,AG,CT,pncA,p.L120R
+Pyrazinamide,pncA_p.Leu120Arg,p.Leu120Arg,1) Assoc w R,2288883,A,C,pncA,p.L120R
+Pyrazinamide,pncA_p.Leu120Gln,p.Leu120Gln,2) Assoc w R - Interim,2288882,CA,TT,pncA,p.L120Q
+Pyrazinamide,pncA_p.Leu120Gln,p.Leu120Gln,2) Assoc w R - Interim,2288883,A,T,pncA,p.L120Q
+Pyrazinamide,pncA_p.Leu120Pro,p.Leu120Pro,1) Assoc w R,2288882,CA,TG,pncA,p.L120P
+Pyrazinamide,pncA_p.Leu120Pro,p.Leu120Pro,1) Assoc w R,2288882,CA,AG,pncA,p.L120P
+Pyrazinamide,pncA_p.Leu120Pro,p.Leu120Pro,1) Assoc w R,2288882,CA,GG,pncA,p.L120P
+Pyrazinamide,pncA_p.Leu120Pro,p.Leu120Pro,1) Assoc w R,2288883,A,G,pncA,p.L120P
+Pyrazinamide,pncA_p.Leu151Ser,p.Leu151Ser,1) Assoc w R,2288789,CA,GG,pncA,p.L151S
+Pyrazinamide,pncA_p.Leu151Ser,p.Leu151Ser,1) Assoc w R,2288789,CA,AG,pncA,p.L151S
+Pyrazinamide,pncA_p.Leu151Ser,p.Leu151Ser,1) Assoc w R,2288789,CA,TG,pncA,p.L151S
+Pyrazinamide,pncA_p.Leu151Ser,p.Leu151Ser,1) Assoc w R,2288789,CAA,ACT,pncA,p.L151S
+Pyrazinamide,pncA_p.Leu151Ser,p.Leu151Ser,1) Assoc w R,2288789,CAA,GCT,pncA,p.L151S
+Pyrazinamide,pncA_p.Leu151Ser,p.Leu151Ser,1) Assoc w R,2288790,A,G,pncA,p.L151S
+Pyrazinamide,pncA_p.Leu159Arg,p.Leu159Arg,1) Assoc w R,2288765,CAG,TCT,pncA,p.L159R
+Pyrazinamide,pncA_p.Leu159Arg,p.Leu159Arg,1) Assoc w R,2288765,CA,TC,pncA,p.L159R
+Pyrazinamide,pncA_p.Leu159Arg,p.Leu159Arg,1) Assoc w R,2288765,CA,AC,pncA,p.L159R
+Pyrazinamide,pncA_p.Leu159Arg,p.Leu159Arg,1) Assoc w R,2288765,CA,GC,pncA,p.L159R
+Pyrazinamide,pncA_p.Leu159Arg,p.Leu159Arg,1) Assoc w R,2288766,AG,CT,pncA,p.L159R
+Pyrazinamide,pncA_p.Leu159Arg,p.Leu159Arg,1) Assoc w R,2288766,A,C,pncA,p.L159R
+Pyrazinamide,pncA_p.Leu159Pro,p.Leu159Pro,2) Assoc w R - Interim,2288765,CA,GG,pncA,p.L159P
+Pyrazinamide,pncA_p.Leu159Pro,p.Leu159Pro,2) Assoc w R - Interim,2288765,CA,AG,pncA,p.L159P
+Pyrazinamide,pncA_p.Leu159Pro,p.Leu159Pro,2) Assoc w R - Interim,2288765,CA,TG,pncA,p.L159P
+Pyrazinamide,pncA_p.Leu159Pro,p.Leu159Pro,2) Assoc w R - Interim,2288766,A,G,pncA,p.L159P
+Pyrazinamide,pncA_p.Leu159Val,p.Leu159Val,2) Assoc w R - Interim,2288765,CAG,GAC,pncA,p.L159V
+Pyrazinamide,pncA_p.Leu159Val,p.Leu159Val,2) Assoc w R - Interim,2288765,CAG,TAC,pncA,p.L159V
+Pyrazinamide,pncA_p.Leu159Val,p.Leu159Val,2) Assoc w R - Interim,2288765,CAG,AAC,pncA,p.L159V
+Pyrazinamide,pncA_p.Leu159Val,p.Leu159Val,2) Assoc w R - Interim,2288767,G,C,pncA,p.L159V
+Pyrazinamide,pncA_p.Leu172Pro,p.Leu172Pro,1) Assoc w R,2288726,CA,AG,pncA,p.L172P
+Pyrazinamide,pncA_p.Leu172Pro,p.Leu172Pro,1) Assoc w R,2288726,CA,GG,pncA,p.L172P
+Pyrazinamide,pncA_p.Leu172Pro,p.Leu172Pro,1) Assoc w R,2288726,CA,TG,pncA,p.L172P
+Pyrazinamide,pncA_p.Leu172Pro,p.Leu172Pro,1) Assoc w R,2288727,A,G,pncA,p.L172P
+Pyrazinamide,pncA_p.Leu182Ser,p.Leu182Ser,1) Assoc w R,2288696,CAA,ACT,pncA,p.L182S
+Pyrazinamide,pncA_p.Leu182Ser,p.Leu182Ser,1) Assoc w R,2288696,CA,AG,pncA,p.L182S
+Pyrazinamide,pncA_p.Leu182Ser,p.Leu182Ser,1) Assoc w R,2288696,CA,GG,pncA,p.L182S
+Pyrazinamide,pncA_p.Leu182Ser,p.Leu182Ser,1) Assoc w R,2288696,CA,TG,pncA,p.L182S
+Pyrazinamide,pncA_p.Leu182Ser,p.Leu182Ser,1) Assoc w R,2288696,CAA,GCT,pncA,p.L182S
+Pyrazinamide,pncA_p.Leu182Ser,p.Leu182Ser,1) Assoc w R,2288697,A,G,pncA,p.L182S
+Pyrazinamide,pncA_p.Leu182Trp,p.Leu182Trp,1) Assoc w R,2288697,A,C,pncA,p.L182W
+Pyrazinamide,pncA_p.Leu19Pro,p.Leu19Pro,1) Assoc w R,2289185,CA,AG,pncA,p.L19P
+Pyrazinamide,pncA_p.Leu19Pro,p.Leu19Pro,1) Assoc w R,2289185,CA,TG,pncA,p.L19P
+Pyrazinamide,pncA_p.Leu19Pro,p.Leu19Pro,1) Assoc w R,2289185,CA,GG,pncA,p.L19P
+Pyrazinamide,pncA_p.Leu19Pro,p.Leu19Pro,1) Assoc w R,2289186,A,G,pncA,p.L19P
+Pyrazinamide,pncA_p.Leu27Pro,p.Leu27Pro,1) Assoc w R,2289161,CA,TG,pncA,p.L27P
+Pyrazinamide,pncA_p.Leu27Pro,p.Leu27Pro,1) Assoc w R,2289161,CA,GG,pncA,p.L27P
+Pyrazinamide,pncA_p.Leu27Pro,p.Leu27Pro,1) Assoc w R,2289161,CA,AG,pncA,p.L27P
+Pyrazinamide,pncA_p.Leu27Pro,p.Leu27Pro,1) Assoc w R,2289162,A,G,pncA,p.L27P
+Pyrazinamide,pncA_p.Leu35Pro,p.Leu35Pro,2) Assoc w R - Interim,2289137,CA,TG,pncA,p.L35P
+Pyrazinamide,pncA_p.Leu35Pro,p.Leu35Pro,2) Assoc w R - Interim,2289137,CA,AG,pncA,p.L35P
+Pyrazinamide,pncA_p.Leu35Pro,p.Leu35Pro,2) Assoc w R - Interim,2289137,CA,GG,pncA,p.L35P
+Pyrazinamide,pncA_p.Leu35Pro,p.Leu35Pro,2) Assoc w R - Interim,2289138,AGGT,GGGA,pncA,p.L35P
+Pyrazinamide,pncA_p.Leu35Pro,p.Leu35Pro,2) Assoc w R - Interim,2289138,A,G,pncA,p.L35P
+Pyrazinamide,pncA_p.Leu4Ser,p.Leu4Ser,1) Assoc w R,2289230,CAA,ACT,pncA,p.L4S
+Pyrazinamide,pncA_p.Leu4Ser,p.Leu4Ser,1) Assoc w R,2289230,CA,TG,pncA,p.L4S
+Pyrazinamide,pncA_p.Leu4Ser,p.Leu4Ser,1) Assoc w R,2289230,CAA,GCT,pncA,p.L4S
+Pyrazinamide,pncA_p.Leu4Ser,p.Leu4Ser,1) Assoc w R,2289230,CA,AG,pncA,p.L4S
+Pyrazinamide,pncA_p.Leu4Ser,p.Leu4Ser,1) Assoc w R,2289230,CA,GG,pncA,p.L4S
+Pyrazinamide,pncA_p.Leu4Ser,p.Leu4Ser,1) Assoc w R,2289231,A,G,pncA,p.L4S
+Pyrazinamide,pncA_p.Leu4Trp,p.Leu4Trp,1) Assoc w R,2289231,A,C,pncA,p.L4W
+Pyrazinamide,pncA_p.Leu85Arg,p.Leu85Arg,1) Assoc w R,2288987,CA,TC,pncA,p.L85R
+Pyrazinamide,pncA_p.Leu85Arg,p.Leu85Arg,1) Assoc w R,2288987,CA,GC,pncA,p.L85R
+Pyrazinamide,pncA_p.Leu85Arg,p.Leu85Arg,1) Assoc w R,2288987,CA,AC,pncA,p.L85R
+Pyrazinamide,pncA_p.Leu85Arg,p.Leu85Arg,1) Assoc w R,2288987,CAG,TCT,pncA,p.L85R
+Pyrazinamide,pncA_p.Leu85Arg,p.Leu85Arg,1) Assoc w R,2288988,AG,CT,pncA,p.L85R
+Pyrazinamide,pncA_p.Leu85Arg,p.Leu85Arg,1) Assoc w R,2288988,A,C,pncA,p.L85R
+Pyrazinamide,pncA_p.Leu85Pro,p.Leu85Pro,1) Assoc w R,2288987,CA,GG,pncA,p.L85P
+Pyrazinamide,pncA_p.Leu85Pro,p.Leu85Pro,1) Assoc w R,2288987,CA,AG,pncA,p.L85P
+Pyrazinamide,pncA_p.Leu85Pro,p.Leu85Pro,1) Assoc w R,2288987,CA,TG,pncA,p.L85P
+Pyrazinamide,pncA_p.Leu85Pro,p.Leu85Pro,1) Assoc w R,2288988,A,G,pncA,p.L85P
+Pyrazinamide,pncA_p.Lys48Glu,p.Lys48Glu,2) Assoc w R - Interim,2289098,CTT,TTC,pncA,p.K48E
+Pyrazinamide,pncA_p.Lys48Glu,p.Lys48Glu,2) Assoc w R - Interim,2289100,T,C,pncA,p.K48E
+Pyrazinamide,pncA_p.Lys48Thr,p.Lys48Thr,2) Assoc w R - Interim,2289098,CT,GG,pncA,p.K48T
+Pyrazinamide,pncA_p.Lys48Thr,p.Lys48Thr,2) Assoc w R - Interim,2289098,CT,AG,pncA,p.K48T
+Pyrazinamide,pncA_p.Lys48Thr,p.Lys48Thr,2) Assoc w R - Interim,2289098,CT,TG,pncA,p.K48T
+Pyrazinamide,pncA_p.Lys48Thr,p.Lys48Thr,2) Assoc w R - Interim,2289099,T,G,pncA,p.K48T
+Pyrazinamide,pncA_p.Lys96Arg,p.Lys96Arg,1) Assoc w R,2288954,CTT,ACG,pncA,p.K96R
+Pyrazinamide,pncA_p.Lys96Arg,p.Lys96Arg,1) Assoc w R,2288954,CTT,GCG,pncA,p.K96R
+Pyrazinamide,pncA_p.Lys96Arg,p.Lys96Arg,1) Assoc w R,2288954,CTT,TCG,pncA,p.K96R
+Pyrazinamide,pncA_p.Lys96Arg,p.Lys96Arg,1) Assoc w R,2288954,CT,TC,pncA,p.K96R
+Pyrazinamide,pncA_p.Lys96Arg,p.Lys96Arg,1) Assoc w R,2288955,TT,CG,pncA,p.K96R
+Pyrazinamide,pncA_p.Lys96Arg,p.Lys96Arg,1) Assoc w R,2288955,T,C,pncA,p.K96R
+Pyrazinamide,pncA_p.Lys96Asn,p.Lys96Asn,2) Assoc w R - Interim,2288954,C,G,pncA,p.K96N
+Pyrazinamide,pncA_p.Lys96Asn,p.Lys96Asn,2) Assoc w R - Interim,2288954,C,A,pncA,p.K96N
+Pyrazinamide,pncA_p.Lys96Gln,p.Lys96Gln,1) Assoc w R,2288954,CTT,TTG,pncA,p.K96Q
+Pyrazinamide,pncA_p.Lys96Gln,p.Lys96Gln,1) Assoc w R,2288956,T,G,pncA,p.K96Q
+Pyrazinamide,pncA_p.Lys96Glu,p.Lys96Glu,1) Assoc w R,2288954,CTT,TTC,pncA,p.K96E
+Pyrazinamide,pncA_p.Lys96Glu,p.Lys96Glu,1) Assoc w R,2288956,T,C,pncA,p.K96E
+Pyrazinamide,pncA_p.Lys96Thr,p.Lys96Thr,1) Assoc w R,2288954,CT,TG,pncA,p.K96T
+Pyrazinamide,pncA_p.Lys96Thr,p.Lys96Thr,1) Assoc w R,2288954,CT,GG,pncA,p.K96T
+Pyrazinamide,pncA_p.Lys96Thr,p.Lys96Thr,1) Assoc w R,2288954,CT,AG,pncA,p.K96T
+Pyrazinamide,pncA_p.Lys96Thr,p.Lys96Thr,1) Assoc w R,2288955,T,G,pncA,p.K96T
+Pyrazinamide,pncA_p.Met175Arg,p.Met175Arg,1) Assoc w R,2288717,CAT,TCG,pncA,p.M175R
+Pyrazinamide,pncA_p.Met175Arg,p.Met175Arg,1) Assoc w R,2288717,CAT,GCG,pncA,p.M175R
+Pyrazinamide,pncA_p.Met175Arg,p.Met175Arg,1) Assoc w R,2288717,CA,TC,pncA,p.M175R
+Pyrazinamide,pncA_p.Met175Arg,p.Met175Arg,1) Assoc w R,2288717,CAT,ACG,pncA,p.M175R
+Pyrazinamide,pncA_p.Met175Arg,p.Met175Arg,1) Assoc w R,2288718,AT,CG,pncA,p.M175R
+Pyrazinamide,pncA_p.Met175Arg,p.Met175Arg,1) Assoc w R,2288718,A,C,pncA,p.M175R
+Pyrazinamide,pncA_p.Met175Ile,p.Met175Ile,2) Assoc w R - Interim,2288717,C,A,pncA,p.M175I
+Pyrazinamide,pncA_p.Met175Ile,p.Met175Ile,2) Assoc w R - Interim,2288717,C,T,pncA,p.M175I
+Pyrazinamide,pncA_p.Met175Ile,p.Met175Ile,2) Assoc w R - Interim,2288717,C,G,pncA,p.M175I
+Pyrazinamide,pncA_p.Met175Thr,p.Met175Thr,2) Assoc w R - Interim,2288717,CA,GG,pncA,p.M175T
+Pyrazinamide,pncA_p.Met175Thr,p.Met175Thr,2) Assoc w R - Interim,2288717,CA,TG,pncA,p.M175T
+Pyrazinamide,pncA_p.Met175Thr,p.Met175Thr,2) Assoc w R - Interim,2288717,CA,AG,pncA,p.M175T
+Pyrazinamide,pncA_p.Met175Thr,p.Met175Thr,2) Assoc w R - Interim,2288718,A,G,pncA,p.M175T
+Pyrazinamide,pncA_p.Met175Val,p.Met175Val,1) Assoc w R,2288717,CAT,AAC,pncA,p.M175V
+Pyrazinamide,pncA_p.Met175Val,p.Met175Val,1) Assoc w R,2288717,CAT,TAC,pncA,p.M175V
+Pyrazinamide,pncA_p.Met175Val,p.Met175Val,1) Assoc w R,2288717,CAT,GAC,pncA,p.M175V
+Pyrazinamide,pncA_p.Met175Val,p.Met175Val,1) Assoc w R,2288719,T,C,pncA,p.M175V
+Pyrazinamide,pncA_p.Met175Val,p.Met175Val,1) Assoc w R,2288719,TC,CA,pncA,p.M175V
+Pyrazinamide,pncA_p.Phe106Leu,p.Phe106Leu,2) Assoc w R - Interim,2288924,GAA,AAG,pncA,p.F106L
+Pyrazinamide,pncA_p.Phe106Leu,p.Phe106Leu,2) Assoc w R - Interim,2288924,GAA,CAG,pncA,p.F106L
+Pyrazinamide,pncA_p.Phe106Leu,p.Phe106Leu,2) Assoc w R - Interim,2288924,GAA,TAG,pncA,p.F106L
+Pyrazinamide,pncA_p.Phe106Leu,p.Phe106Leu,2) Assoc w R - Interim,2288924,G,C,pncA,p.F106L
+Pyrazinamide,pncA_p.Phe106Leu,p.Phe106Leu,2) Assoc w R - Interim,2288924,G,T,pncA,p.F106L
+Pyrazinamide,pncA_p.Phe106Leu,p.Phe106Leu,2) Assoc w R - Interim,2288926,A,G,pncA,p.F106L
+Pyrazinamide,pncA_p.Phe106Ser,p.Phe106Ser,2) Assoc w R - Interim,2288924,GA,CG,pncA,p.F106S
+Pyrazinamide,pncA_p.Phe106Ser,p.Phe106Ser,2) Assoc w R - Interim,2288924,GA,AG,pncA,p.F106S
+Pyrazinamide,pncA_p.Phe106Ser,p.Phe106Ser,2) Assoc w R - Interim,2288924,GAA,ACT,pncA,p.F106S
+Pyrazinamide,pncA_p.Phe106Ser,p.Phe106Ser,2) Assoc w R - Interim,2288924,GA,TG,pncA,p.F106S
+Pyrazinamide,pncA_p.Phe106Ser,p.Phe106Ser,2) Assoc w R - Interim,2288925,AA,CT,pncA,p.F106S
+Pyrazinamide,pncA_p.Phe106Ser,p.Phe106Ser,2) Assoc w R - Interim,2288925,A,G,pncA,p.F106S
+Pyrazinamide,pncA_p.Phe13Ile,p.Phe13Ile,1) Assoc w R,2289203,GAA,AAT,pncA,p.F13I
+Pyrazinamide,pncA_p.Phe13Ile,p.Phe13Ile,1) Assoc w R,2289203,GAA,TAT,pncA,p.F13I
+Pyrazinamide,pncA_p.Phe13Ile,p.Phe13Ile,1) Assoc w R,2289205,A,T,pncA,p.F13I
+Pyrazinamide,pncA_p.Phe13Leu,p.Phe13Leu,2) Assoc w R - Interim,2289203,GAA,CAG,pncA,p.F13L
+Pyrazinamide,pncA_p.Phe13Leu,p.Phe13Leu,2) Assoc w R - Interim,2289203,GAA,TAG,pncA,p.F13L
+Pyrazinamide,pncA_p.Phe13Leu,p.Phe13Leu,2) Assoc w R - Interim,2289203,GAA,AAG,pncA,p.F13L
+Pyrazinamide,pncA_p.Phe13Leu,p.Phe13Leu,2) Assoc w R - Interim,2289203,G,C,pncA,p.F13L
+Pyrazinamide,pncA_p.Phe13Leu,p.Phe13Leu,2) Assoc w R - Interim,2289203,G,T,pncA,p.F13L
+Pyrazinamide,pncA_p.Phe13Leu,p.Phe13Leu,2) Assoc w R - Interim,2289205,A,G,pncA,p.F13L
+Pyrazinamide,pncA_p.Phe13Ser,p.Phe13Ser,1) Assoc w R,2289203,GAA,ACT,pncA,p.F13S
+Pyrazinamide,pncA_p.Phe13Ser,p.Phe13Ser,1) Assoc w R,2289203,GA,CG,pncA,p.F13S
+Pyrazinamide,pncA_p.Phe13Ser,p.Phe13Ser,1) Assoc w R,2289203,GA,TG,pncA,p.F13S
+Pyrazinamide,pncA_p.Phe13Ser,p.Phe13Ser,1) Assoc w R,2289203,GA,AG,pncA,p.F13S
+Pyrazinamide,pncA_p.Phe13Ser,p.Phe13Ser,1) Assoc w R,2289204,AA,CT,pncA,p.F13S
+Pyrazinamide,pncA_p.Phe13Ser,p.Phe13Ser,1) Assoc w R,2289204,A,G,pncA,p.F13S
+Pyrazinamide,pncA_p.Phe58Cys,p.Phe58Cys,2) Assoc w R - Interim,2289068,GA,AC,pncA,p.F58C
+Pyrazinamide,pncA_p.Phe58Cys,p.Phe58Cys,2) Assoc w R - Interim,2289069,A,C,pncA,p.F58C
+Pyrazinamide,pncA_p.Phe58Leu,p.Phe58Leu,1) Assoc w R,2289068,GAA,CAG,pncA,p.F58L
+Pyrazinamide,pncA_p.Phe58Leu,p.Phe58Leu,1) Assoc w R,2289068,GAA,AAG,pncA,p.F58L
+Pyrazinamide,pncA_p.Phe58Leu,p.Phe58Leu,1) Assoc w R,2289068,G,T,pncA,p.F58L
+Pyrazinamide,pncA_p.Phe58Leu,p.Phe58Leu,1) Assoc w R,2289068,GAA,TAG,pncA,p.F58L
+Pyrazinamide,pncA_p.Phe58Leu,p.Phe58Leu,1) Assoc w R,2289068,G,C,pncA,p.F58L
+Pyrazinamide,pncA_p.Phe58Leu,p.Phe58Leu,1) Assoc w R,2289070,A,G,pncA,p.F58L
+Pyrazinamide,pncA_p.Phe58Ser,p.Phe58Ser,2) Assoc w R - Interim,2289068,GA,AG,pncA,p.F58S
+Pyrazinamide,pncA_p.Phe58Ser,p.Phe58Ser,2) Assoc w R - Interim,2289068,GAA,ACT,pncA,p.F58S
+Pyrazinamide,pncA_p.Phe58Ser,p.Phe58Ser,2) Assoc w R - Interim,2289068,GA,CG,pncA,p.F58S
+Pyrazinamide,pncA_p.Phe58Ser,p.Phe58Ser,2) Assoc w R - Interim,2289068,GA,TG,pncA,p.F58S
+Pyrazinamide,pncA_p.Phe58Ser,p.Phe58Ser,2) Assoc w R - Interim,2289069,AA,CT,pncA,p.F58S
+Pyrazinamide,pncA_p.Phe58Ser,p.Phe58Ser,2) Assoc w R - Interim,2289069,A,G,pncA,p.F58S
+Pyrazinamide,pncA_p.Phe94Cys,p.Phe94Cys,1) Assoc w R,2288960,GA,AC,pncA,p.F94C
+Pyrazinamide,pncA_p.Phe94Cys,p.Phe94Cys,1) Assoc w R,2288961,A,C,pncA,p.F94C
+Pyrazinamide,pncA_p.Phe94Leu,p.Phe94Leu,1) Assoc w R,2288960,G,T,pncA,p.F94L
+Pyrazinamide,pncA_p.Phe94Leu,p.Phe94Leu,1) Assoc w R,2288960,GAA,TAG,pncA,p.F94L
+Pyrazinamide,pncA_p.Phe94Leu,p.Phe94Leu,1) Assoc w R,2288960,GAA,CAG,pncA,p.F94L
+Pyrazinamide,pncA_p.Phe94Leu,p.Phe94Leu,1) Assoc w R,2288960,GAA,AAG,pncA,p.F94L
+Pyrazinamide,pncA_p.Phe94Leu,p.Phe94Leu,1) Assoc w R,2288960,G,C,pncA,p.F94L
+Pyrazinamide,pncA_p.Phe94Leu,p.Phe94Leu,1) Assoc w R,2288962,A,G,pncA,p.F94L
+Pyrazinamide,pncA_p.Phe94Ser,p.Phe94Ser,2) Assoc w R - Interim,2288960,GA,CG,pncA,p.F94S
+Pyrazinamide,pncA_p.Phe94Ser,p.Phe94Ser,2) Assoc w R - Interim,2288960,GA,TG,pncA,p.F94S
+Pyrazinamide,pncA_p.Phe94Ser,p.Phe94Ser,2) Assoc w R - Interim,2288960,GAA,ACT,pncA,p.F94S
+Pyrazinamide,pncA_p.Phe94Ser,p.Phe94Ser,2) Assoc w R - Interim,2288960,GA,AG,pncA,p.F94S
+Pyrazinamide,pncA_p.Phe94Ser,p.Phe94Ser,2) Assoc w R - Interim,2288961,AA,CT,pncA,p.F94S
+Pyrazinamide,pncA_p.Phe94Ser,p.Phe94Ser,2) Assoc w R - Interim,2288961,A,G,pncA,p.F94S
+Pyrazinamide,pncA_p.Pro54Arg,p.Pro54Arg,1) Assoc w R,2289080,CGG,TCT,pncA,p.P54R
+Pyrazinamide,pncA_p.Pro54Arg,p.Pro54Arg,1) Assoc w R,2289080,CG,TC,pncA,p.P54R
+Pyrazinamide,pncA_p.Pro54Arg,p.Pro54Arg,1) Assoc w R,2289080,CG,GC,pncA,p.P54R
+Pyrazinamide,pncA_p.Pro54Arg,p.Pro54Arg,1) Assoc w R,2289080,CG,AC,pncA,p.P54R
+Pyrazinamide,pncA_p.Pro54Arg,p.Pro54Arg,1) Assoc w R,2289081,G,C,pncA,p.P54R
+Pyrazinamide,pncA_p.Pro54Arg,p.Pro54Arg,1) Assoc w R,2289081,GG,CT,pncA,p.P54R
+Pyrazinamide,pncA_p.Pro54Gln,p.Pro54Gln,2) Assoc w R - Interim,2289080,CG,TT,pncA,p.P54Q
+Pyrazinamide,pncA_p.Pro54Gln,p.Pro54Gln,2) Assoc w R - Interim,2289081,G,T,pncA,p.P54Q
+Pyrazinamide,pncA_p.Pro54Leu,p.Pro54Leu,1) Assoc w R,2289080,CG,TA,pncA,p.P54L
+Pyrazinamide,pncA_p.Pro54Leu,p.Pro54Leu,1) Assoc w R,2289080,CGG,TAA,pncA,p.P54L
+Pyrazinamide,pncA_p.Pro54Leu,p.Pro54Leu,1) Assoc w R,2289080,CG,AA,pncA,p.P54L
+Pyrazinamide,pncA_p.Pro54Leu,p.Pro54Leu,1) Assoc w R,2289080,CG,GA,pncA,p.P54L
+Pyrazinamide,pncA_p.Pro54Leu,p.Pro54Leu,1) Assoc w R,2289081,G,A,pncA,p.P54L
+Pyrazinamide,pncA_p.Pro54Leu,p.Pro54Leu,1) Assoc w R,2289081,GG,AA,pncA,p.P54L
+Pyrazinamide,pncA_p.Pro54Ser,p.Pro54Ser,2) Assoc w R - Interim,2289080,CGG,TGA,pncA,p.P54S
+Pyrazinamide,pncA_p.Pro54Ser,p.Pro54Ser,2) Assoc w R - Interim,2289080,CGG,ACT,pncA,p.P54S
+Pyrazinamide,pncA_p.Pro54Ser,p.Pro54Ser,2) Assoc w R - Interim,2289080,CGG,GGA,pncA,p.P54S
+Pyrazinamide,pncA_p.Pro54Ser,p.Pro54Ser,2) Assoc w R - Interim,2289080,CGG,AGA,pncA,p.P54S
+Pyrazinamide,pncA_p.Pro54Ser,p.Pro54Ser,2) Assoc w R - Interim,2289080,CGG,GCT,pncA,p.P54S
+Pyrazinamide,pncA_p.Pro54Ser,p.Pro54Ser,2) Assoc w R - Interim,2289082,G,A,pncA,p.P54S
+Pyrazinamide,pncA_p.Pro54Thr,p.Pro54Thr,2) Assoc w R - Interim,2289080,CGG,TGT,pncA,p.P54T
+Pyrazinamide,pncA_p.Pro54Thr,p.Pro54Thr,2) Assoc w R - Interim,2289080,CGG,GGT,pncA,p.P54T
+Pyrazinamide,pncA_p.Pro54Thr,p.Pro54Thr,2) Assoc w R - Interim,2289080,CGG,AGT,pncA,p.P54T
+Pyrazinamide,pncA_p.Pro54Thr,p.Pro54Thr,2) Assoc w R - Interim,2289082,G,T,pncA,p.P54T
+Pyrazinamide,pncA_p.Pro62Arg,p.Pro62Arg,2) Assoc w R - Interim,2289056,CG,AC,pncA,p.P62R
+Pyrazinamide,pncA_p.Pro62Arg,p.Pro62Arg,2) Assoc w R - Interim,2289056,CG,GC,pncA,p.P62R
+Pyrazinamide,pncA_p.Pro62Arg,p.Pro62Arg,2) Assoc w R - Interim,2289056,CGG,TCT,pncA,p.P62R
+Pyrazinamide,pncA_p.Pro62Arg,p.Pro62Arg,2) Assoc w R - Interim,2289056,CG,TC,pncA,p.P62R
+Pyrazinamide,pncA_p.Pro62Arg,p.Pro62Arg,2) Assoc w R - Interim,2289057,GG,CT,pncA,p.P62R
+Pyrazinamide,pncA_p.Pro62Arg,p.Pro62Arg,2) Assoc w R - Interim,2289057,G,C,pncA,p.P62R
+Pyrazinamide,pncA_p.Pro62Leu,p.Pro62Leu,1) Assoc w R,2289056,CG,GA,pncA,p.P62L
+Pyrazinamide,pncA_p.Pro62Leu,p.Pro62Leu,1) Assoc w R,2289056,CG,TA,pncA,p.P62L
+Pyrazinamide,pncA_p.Pro62Leu,p.Pro62Leu,1) Assoc w R,2289056,CG,AA,pncA,p.P62L
+Pyrazinamide,pncA_p.Pro62Leu,p.Pro62Leu,1) Assoc w R,2289056,CGG,TAA,pncA,p.P62L
+Pyrazinamide,pncA_p.Pro62Leu,p.Pro62Leu,1) Assoc w R,2289057,G,A,pncA,p.P62L
+Pyrazinamide,pncA_p.Pro62Leu,p.Pro62Leu,1) Assoc w R,2289057,GG,AA,pncA,p.P62L
+Pyrazinamide,pncA_p.Pro62Ser,p.Pro62Ser,2) Assoc w R - Interim,2289056,CGG,TGA,pncA,p.P62S
+Pyrazinamide,pncA_p.Pro62Ser,p.Pro62Ser,2) Assoc w R - Interim,2289056,CGG,ACT,pncA,p.P62S
+Pyrazinamide,pncA_p.Pro62Ser,p.Pro62Ser,2) Assoc w R - Interim,2289056,CGG,AGA,pncA,p.P62S
+Pyrazinamide,pncA_p.Pro62Ser,p.Pro62Ser,2) Assoc w R - Interim,2289056,CGG,GGA,pncA,p.P62S
+Pyrazinamide,pncA_p.Pro62Ser,p.Pro62Ser,2) Assoc w R - Interim,2289056,CGG,GCT,pncA,p.P62S
+Pyrazinamide,pncA_p.Pro62Ser,p.Pro62Ser,2) Assoc w R - Interim,2289058,G,A,pncA,p.P62S
+Pyrazinamide,pncA_p.Pro62Thr,p.Pro62Thr,2) Assoc w R - Interim,2289056,CGG,TGT,pncA,p.P62T
+Pyrazinamide,pncA_p.Pro62Thr,p.Pro62Thr,2) Assoc w R - Interim,2289056,CGG,GGT,pncA,p.P62T
+Pyrazinamide,pncA_p.Pro62Thr,p.Pro62Thr,2) Assoc w R - Interim,2289056,CGG,AGT,pncA,p.P62T
+Pyrazinamide,pncA_p.Pro62Thr,p.Pro62Thr,2) Assoc w R - Interim,2289058,G,T,pncA,p.P62T
+Pyrazinamide,pncA_p.Pro69Leu,p.Pro69Leu,1) Assoc w R,2289035,TG,GA,pncA,p.P69L
+Pyrazinamide,pncA_p.Pro69Leu,p.Pro69Leu,1) Assoc w R,2289035,TG,CA,pncA,p.P69L
+Pyrazinamide,pncA_p.Pro69Leu,p.Pro69Leu,1) Assoc w R,2289035,TG,AA,pncA,p.P69L
+Pyrazinamide,pncA_p.Pro69Leu,p.Pro69Leu,1) Assoc w R,2289035,TGG,CAA,pncA,p.P69L
+Pyrazinamide,pncA_p.Pro69Leu,p.Pro69Leu,1) Assoc w R,2289036,G,A,pncA,p.P69L
+Pyrazinamide,pncA_p.Pro69Leu,p.Pro69Leu,1) Assoc w R,2289036,GG,AA,pncA,p.P69L
+Pyrazinamide,pncA_p.Ser104Arg,p.Ser104Arg,1) Assoc w R,2288930,G,T,pncA,p.S104R
+Pyrazinamide,pncA_p.Ser104Arg,p.Ser104Arg,1) Assoc w R,2288930,GCT,ACG,pncA,p.S104R
+Pyrazinamide,pncA_p.Ser104Arg,p.Ser104Arg,1) Assoc w R,2288930,G,C,pncA,p.S104R
+Pyrazinamide,pncA_p.Ser104Arg,p.Ser104Arg,1) Assoc w R,2288930,GCT,TCG,pncA,p.S104R
+Pyrazinamide,pncA_p.Ser104Arg,p.Ser104Arg,1) Assoc w R,2288930,GCT,CCG,pncA,p.S104R
+Pyrazinamide,pncA_p.Ser104Arg,p.Ser104Arg,1) Assoc w R,2288932,T,G,pncA,p.S104R
+Pyrazinamide,pncA_p.Ser104Gly,p.Ser104Gly,2) Assoc w R - Interim,2288930,GCT,ACC,pncA,p.S104G
+Pyrazinamide,pncA_p.Ser104Gly,p.Ser104Gly,2) Assoc w R - Interim,2288930,GCT,CCC,pncA,p.S104G
+Pyrazinamide,pncA_p.Ser104Gly,p.Ser104Gly,2) Assoc w R - Interim,2288930,GCT,TCC,pncA,p.S104G
+Pyrazinamide,pncA_p.Ser104Gly,p.Ser104Gly,2) Assoc w R - Interim,2288932,T,C,pncA,p.S104G
+Pyrazinamide,pncA_p.Ser104Ile,p.Ser104Ile,2) Assoc w R - Interim,2288930,GC,AA,pncA,p.S104I
+Pyrazinamide,pncA_p.Ser104Ile,p.Ser104Ile,2) Assoc w R - Interim,2288930,GC,TA,pncA,p.S104I
+Pyrazinamide,pncA_p.Ser104Ile,p.Ser104Ile,2) Assoc w R - Interim,2288931,C,A,pncA,p.S104I
+Pyrazinamide,pncA_p.Ser164Pro,p.Ser164Pro,1) Assoc w R,2288750,CGA,TGG,pncA,p.S164P
+Pyrazinamide,pncA_p.Ser164Pro,p.Ser164Pro,1) Assoc w R,2288750,CGA,AGG,pncA,p.S164P
+Pyrazinamide,pncA_p.Ser164Pro,p.Ser164Pro,1) Assoc w R,2288750,CGA,GGG,pncA,p.S164P
+Pyrazinamide,pncA_p.Ser164Pro,p.Ser164Pro,1) Assoc w R,2288752,A,G,pncA,p.S164P
+Pyrazinamide,pncA_p.Ser59Pro,p.Ser59Pro,1) Assoc w R,2289065,GGA,CGG,pncA,p.S59P
+Pyrazinamide,pncA_p.Ser59Pro,p.Ser59Pro,1) Assoc w R,2289065,GGA,AGG,pncA,p.S59P
+Pyrazinamide,pncA_p.Ser59Pro,p.Ser59Pro,1) Assoc w R,2289065,GGA,TGG,pncA,p.S59P
+Pyrazinamide,pncA_p.Ser59Pro,p.Ser59Pro,1) Assoc w R,2289067,A,G,pncA,p.S59P
+Pyrazinamide,pncA_p.Ser66Pro,p.Ser66Pro,1) Assoc w R,2289044,CGA,GGG,pncA,p.S66P
+Pyrazinamide,pncA_p.Ser66Pro,p.Ser66Pro,1) Assoc w R,2289044,CGA,AGG,pncA,p.S66P
+Pyrazinamide,pncA_p.Ser66Pro,p.Ser66Pro,1) Assoc w R,2289044,CGA,TGG,pncA,p.S66P
+Pyrazinamide,pncA_p.Ser66Pro,p.Ser66Pro,1) Assoc w R,2289046,A,G,pncA,p.S66P
+Pyrazinamide,pncA_p.Ser67Pro,p.Ser67Pro,1) Assoc w R,2289041,CGA,AGG,pncA,p.S67P
+Pyrazinamide,pncA_p.Ser67Pro,p.Ser67Pro,1) Assoc w R,2289041,CGA,GGG,pncA,p.S67P
+Pyrazinamide,pncA_p.Ser67Pro,p.Ser67Pro,1) Assoc w R,2289041,CGA,TGG,pncA,p.S67P
+Pyrazinamide,pncA_p.Ser67Pro,p.Ser67Pro,1) Assoc w R,2289043,A,G,pncA,p.S67P
+Pyrazinamide,pncA_p.Thr100Pro,p.Thr100Pro,2) Assoc w R - Interim,2288942,GGT,TGG,pncA,p.T100P
+Pyrazinamide,pncA_p.Thr100Pro,p.Thr100Pro,2) Assoc w R - Interim,2288942,GGT,AGG,pncA,p.T100P
+Pyrazinamide,pncA_p.Thr100Pro,p.Thr100Pro,2) Assoc w R - Interim,2288942,GGT,CGG,pncA,p.T100P
+Pyrazinamide,pncA_p.Thr100Pro,p.Thr100Pro,2) Assoc w R - Interim,2288944,T,G,pncA,p.T100P
+Pyrazinamide,pncA_p.Thr114Pro,p.Thr114Pro,2) Assoc w R - Interim,2288900,CGT,AGG,pncA,p.T114P
+Pyrazinamide,pncA_p.Thr114Pro,p.Thr114Pro,2) Assoc w R - Interim,2288900,CGT,GGG,pncA,p.T114P
+Pyrazinamide,pncA_p.Thr114Pro,p.Thr114Pro,2) Assoc w R - Interim,2288900,CGT,TGG,pncA,p.T114P
+Pyrazinamide,pncA_p.Thr114Pro,p.Thr114Pro,2) Assoc w R - Interim,2288902,T,G,pncA,p.T114P
+Pyrazinamide,pncA_p.Thr135Asn,p.Thr135Asn,2) Assoc w R - Interim,2288837,GG,AT,pncA,p.T135N
+Pyrazinamide,pncA_p.Thr135Asn,p.Thr135Asn,2) Assoc w R - Interim,2288838,G,T,pncA,p.T135N
+Pyrazinamide,pncA_p.Thr135Pro,p.Thr135Pro,1) Assoc w R,2288837,GGT,TGG,pncA,p.T135P
+Pyrazinamide,pncA_p.Thr135Pro,p.Thr135Pro,1) Assoc w R,2288837,GGT,CGG,pncA,p.T135P
+Pyrazinamide,pncA_p.Thr135Pro,p.Thr135Pro,1) Assoc w R,2288837,GGT,AGG,pncA,p.T135P
+Pyrazinamide,pncA_p.Thr135Pro,p.Thr135Pro,1) Assoc w R,2288839,T,G,pncA,p.T135P
+Pyrazinamide,pncA_p.Thr142Ala,p.Thr142Ala,1) Assoc w R,2288816,CGT,TGC,pncA,p.T142A
+Pyrazinamide,pncA_p.Thr142Ala,p.Thr142Ala,1) Assoc w R,2288816,CGT,GGC,pncA,p.T142A
+Pyrazinamide,pncA_p.Thr142Ala,p.Thr142Ala,1) Assoc w R,2288816,CGT,AGC,pncA,p.T142A
+Pyrazinamide,pncA_p.Thr142Ala,p.Thr142Ala,1) Assoc w R,2288818,T,C,pncA,p.T142A
+Pyrazinamide,pncA_p.Thr142Lys,p.Thr142Lys,2) Assoc w R - Interim,2288816,CG,TT,pncA,p.T142K
+Pyrazinamide,pncA_p.Thr142Lys,p.Thr142Lys,2) Assoc w R - Interim,2288817,G,T,pncA,p.T142K
+Pyrazinamide,pncA_p.Thr142Met,p.Thr142Met,1) Assoc w R,2288817,G,A,pncA,p.T142M
+Pyrazinamide,pncA_p.Thr142Pro,p.Thr142Pro,2) Assoc w R - Interim,2288816,CGT,AGG,pncA,p.T142P
+Pyrazinamide,pncA_p.Thr142Pro,p.Thr142Pro,2) Assoc w R - Interim,2288816,CGT,TGG,pncA,p.T142P
+Pyrazinamide,pncA_p.Thr142Pro,p.Thr142Pro,2) Assoc w R - Interim,2288816,CGT,GGG,pncA,p.T142P
+Pyrazinamide,pncA_p.Thr142Pro,p.Thr142Pro,2) Assoc w R - Interim,2288818,T,G,pncA,p.T142P
+Pyrazinamide,pncA_p.Thr160Lys,p.Thr160Lys,2) Assoc w R - Interim,2288762,TG,CT,pncA,p.T160K
+Pyrazinamide,pncA_p.Thr160Lys,p.Thr160Lys,2) Assoc w R - Interim,2288763,G,T,pncA,p.T160K
+Pyrazinamide,pncA_p.Thr160Pro,p.Thr160Pro,1) Assoc w R,2288762,TGT,AGG,pncA,p.T160P
+Pyrazinamide,pncA_p.Thr160Pro,p.Thr160Pro,1) Assoc w R,2288762,TGT,CGG,pncA,p.T160P
+Pyrazinamide,pncA_p.Thr160Pro,p.Thr160Pro,1) Assoc w R,2288762,TGT,GGG,pncA,p.T160P
+Pyrazinamide,pncA_p.Thr160Pro,p.Thr160Pro,1) Assoc w R,2288764,T,G,pncA,p.T160P
+Pyrazinamide,pncA_p.Thr168Pro,p.Thr168Pro,2) Assoc w R - Interim,2288738,GGT,TGG,pncA,p.T168P
+Pyrazinamide,pncA_p.Thr168Pro,p.Thr168Pro,2) Assoc w R - Interim,2288738,GGT,AGG,pncA,p.T168P
+Pyrazinamide,pncA_p.Thr168Pro,p.Thr168Pro,2) Assoc w R - Interim,2288738,GGT,CGG,pncA,p.T168P
+Pyrazinamide,pncA_p.Thr168Pro,p.Thr168Pro,2) Assoc w R - Interim,2288740,TGGT,GGGG,pncA,p.T168P
+Pyrazinamide,pncA_p.Thr168Pro,p.Thr168Pro,2) Assoc w R - Interim,2288740,T,G,pncA,p.T168P
+Pyrazinamide,pncA_p.Thr177Pro,p.Thr177Pro,1) Assoc w R,2288711,GGT,TGG,pncA,p.T177P
+Pyrazinamide,pncA_p.Thr177Pro,p.Thr177Pro,1) Assoc w R,2288711,GGT,CGG,pncA,p.T177P
+Pyrazinamide,pncA_p.Thr177Pro,p.Thr177Pro,1) Assoc w R,2288711,GGT,AGG,pncA,p.T177P
+Pyrazinamide,pncA_p.Thr177Pro,p.Thr177Pro,1) Assoc w R,2288713,T,G,pncA,p.T177P
+Pyrazinamide,pncA_p.Thr47Ala,p.Thr47Ala,1) Assoc w R,2289101,GGT,TGC,pncA,p.T47A
+Pyrazinamide,pncA_p.Thr47Ala,p.Thr47Ala,1) Assoc w R,2289101,GGT,CGC,pncA,p.T47A
+Pyrazinamide,pncA_p.Thr47Ala,p.Thr47Ala,1) Assoc w R,2289101,GGT,AGC,pncA,p.T47A
+Pyrazinamide,pncA_p.Thr47Ala,p.Thr47Ala,1) Assoc w R,2289103,T,C,pncA,p.T47A
+Pyrazinamide,pncA_p.Thr47Pro,p.Thr47Pro,1) Assoc w R,2289101,GGT,TGG,pncA,p.T47P
+Pyrazinamide,pncA_p.Thr47Pro,p.Thr47Pro,1) Assoc w R,2289101,GGT,AGG,pncA,p.T47P
+Pyrazinamide,pncA_p.Thr47Pro,p.Thr47Pro,1) Assoc w R,2289101,GGT,CGG,pncA,p.T47P
+Pyrazinamide,pncA_p.Thr47Pro,p.Thr47Pro,1) Assoc w R,2289103,T,G,pncA,p.T47P
+Pyrazinamide,pncA_p.Thr61Pro,p.Thr61Pro,2) Assoc w R - Interim,2289059,TGT,GGG,pncA,p.T61P
+Pyrazinamide,pncA_p.Thr61Pro,p.Thr61Pro,2) Assoc w R - Interim,2289059,TGT,CGG,pncA,p.T61P
+Pyrazinamide,pncA_p.Thr61Pro,p.Thr61Pro,2) Assoc w R - Interim,2289059,TGT,AGG,pncA,p.T61P
+Pyrazinamide,pncA_p.Thr61Pro,p.Thr61Pro,2) Assoc w R - Interim,2289061,T,G,pncA,p.T61P
+Pyrazinamide,pncA_p.Thr76Ile,p.Thr76Ile,1) Assoc w R,2289014,AG,TA,pncA,p.T76I
+Pyrazinamide,pncA_p.Thr76Ile,p.Thr76Ile,1) Assoc w R,2289014,AG,GA,pncA,p.T76I
+Pyrazinamide,pncA_p.Thr76Ile,p.Thr76Ile,1) Assoc w R,2289015,G,A,pncA,p.T76I
+Pyrazinamide,pncA_p.Thr76Pro,p.Thr76Pro,1) Assoc w R,2289014,AGT,CGG,pncA,p.T76P
+Pyrazinamide,pncA_p.Thr76Pro,p.Thr76Pro,1) Assoc w R,2289014,AGT,TGG,pncA,p.T76P
+Pyrazinamide,pncA_p.Thr76Pro,p.Thr76Pro,1) Assoc w R,2289014,AGT,GGG,pncA,p.T76P
+Pyrazinamide,pncA_p.Thr76Pro,p.Thr76Pro,1) Assoc w R,2289016,T,G,pncA,p.T76P
+Pyrazinamide,pncA_p.Thr76Pro,p.Thr76Pro,1) Assoc w R,2289016,TA,GG,pncA,p.T76P
+Pyrazinamide,pncA_p.Trp119Arg,p.Trp119Arg,2) Assoc w R - Interim,2288885,CCA,TCG,pncA,p.W119R
+Pyrazinamide,pncA_p.Trp119Arg,p.Trp119Arg,2) Assoc w R - Interim,2288885,CCA,TCT,pncA,p.W119R
+Pyrazinamide,pncA_p.Trp119Arg,p.Trp119Arg,2) Assoc w R - Interim,2288885,CCA,ACG,pncA,p.W119R
+Pyrazinamide,pncA_p.Trp119Arg,p.Trp119Arg,2) Assoc w R - Interim,2288885,CCA,GCG,pncA,p.W119R
+Pyrazinamide,pncA_p.Trp119Arg,p.Trp119Arg,2) Assoc w R - Interim,2288887,A,G,pncA,p.W119R
+Pyrazinamide,pncA_p.Trp119Arg,p.Trp119Arg,2) Assoc w R - Interim,2288887,A,T,pncA,p.W119R
+Pyrazinamide,pncA_p.Trp119Cys,p.Trp119Cys,2) Assoc w R - Interim,2288885,C,A,pncA,p.W119C
+Pyrazinamide,pncA_p.Trp119Cys,p.Trp119Cys,2) Assoc w R - Interim,2288885,C,G,pncA,p.W119C
+Pyrazinamide,pncA_p.Trp119Gly,p.Trp119Gly,2) Assoc w R - Interim,2288885,CCA,TCC,pncA,p.W119G
+Pyrazinamide,pncA_p.Trp119Gly,p.Trp119Gly,2) Assoc w R - Interim,2288885,CCA,ACC,pncA,p.W119G
+Pyrazinamide,pncA_p.Trp119Gly,p.Trp119Gly,2) Assoc w R - Interim,2288885,CCA,GCC,pncA,p.W119G
+Pyrazinamide,pncA_p.Trp119Gly,p.Trp119Gly,2) Assoc w R - Interim,2288887,A,C,pncA,p.W119G
+Pyrazinamide,pncA_p.Trp119Leu,p.Trp119Leu,2) Assoc w R - Interim,2288885,CCA,TAG,pncA,p.W119L
+Pyrazinamide,pncA_p.Trp119Leu,p.Trp119Leu,2) Assoc w R - Interim,2288885,CC,TA,pncA,p.W119L
+Pyrazinamide,pncA_p.Trp119Leu,p.Trp119Leu,2) Assoc w R - Interim,2288885,CCA,AAG,pncA,p.W119L
+Pyrazinamide,pncA_p.Trp119Leu,p.Trp119Leu,2) Assoc w R - Interim,2288885,CCA,GAG,pncA,p.W119L
+Pyrazinamide,pncA_p.Trp119Leu,p.Trp119Leu,2) Assoc w R - Interim,2288886,CA,AG,pncA,p.W119L
+Pyrazinamide,pncA_p.Trp119Leu,p.Trp119Leu,2) Assoc w R - Interim,2288886,C,A,pncA,p.W119L
+Pyrazinamide,pncA_p.Trp68Arg,p.Trp68Arg,1) Assoc w R,2289038,CCA,ACG,pncA,p.W68R
+Pyrazinamide,pncA_p.Trp68Arg,p.Trp68Arg,1) Assoc w R,2289038,CCA,TCG,pncA,p.W68R
+Pyrazinamide,pncA_p.Trp68Arg,p.Trp68Arg,1) Assoc w R,2289038,CCA,GCG,pncA,p.W68R
+Pyrazinamide,pncA_p.Trp68Arg,p.Trp68Arg,1) Assoc w R,2289038,CCA,TCT,pncA,p.W68R
+Pyrazinamide,pncA_p.Trp68Arg,p.Trp68Arg,1) Assoc w R,2289040,A,T,pncA,p.W68R
+Pyrazinamide,pncA_p.Trp68Arg,p.Trp68Arg,1) Assoc w R,2289040,A,G,pncA,p.W68R
+Pyrazinamide,pncA_p.Trp68Cys,p.Trp68Cys,1) Assoc w R,2289038,C,A,pncA,p.W68C
+Pyrazinamide,pncA_p.Trp68Cys,p.Trp68Cys,1) Assoc w R,2289038,C,G,pncA,p.W68C
+Pyrazinamide,pncA_p.Trp68Gly,p.Trp68Gly,1) Assoc w R,2289038,CCA,ACC,pncA,p.W68G
+Pyrazinamide,pncA_p.Trp68Gly,p.Trp68Gly,1) Assoc w R,2289038,CCA,TCC,pncA,p.W68G
+Pyrazinamide,pncA_p.Trp68Gly,p.Trp68Gly,1) Assoc w R,2289038,CCA,GCC,pncA,p.W68G
+Pyrazinamide,pncA_p.Trp68Gly,p.Trp68Gly,1) Assoc w R,2289040,A,C,pncA,p.W68G
+Pyrazinamide,pncA_p.Trp68Leu,p.Trp68Leu,2) Assoc w R - Interim,2289038,CC,TA,pncA,p.W68L
+Pyrazinamide,pncA_p.Trp68Leu,p.Trp68Leu,2) Assoc w R - Interim,2289038,CCA,GAG,pncA,p.W68L
+Pyrazinamide,pncA_p.Trp68Leu,p.Trp68Leu,2) Assoc w R - Interim,2289038,CCA,AAG,pncA,p.W68L
+Pyrazinamide,pncA_p.Trp68Leu,p.Trp68Leu,2) Assoc w R - Interim,2289038,CCA,TAG,pncA,p.W68L
+Pyrazinamide,pncA_p.Trp68Leu,p.Trp68Leu,2) Assoc w R - Interim,2289039,CA,AG,pncA,p.W68L
+Pyrazinamide,pncA_p.Trp68Leu,p.Trp68Leu,2) Assoc w R - Interim,2289039,C,A,pncA,p.W68L
+Pyrazinamide,pncA_p.Tyr103Asp,p.Tyr103Asp,2) Assoc w R - Interim,2288933,GTA,ATC,pncA,p.Y103D
+Pyrazinamide,pncA_p.Tyr103Asp,p.Tyr103Asp,2) Assoc w R - Interim,2288935,A,C,pncA,p.Y103D
+Pyrazinamide,pncA_p.Tyr103Cys,p.Tyr103Cys,1) Assoc w R,2288933,GT,AC,pncA,p.Y103C
+Pyrazinamide,pncA_p.Tyr103Cys,p.Tyr103Cys,1) Assoc w R,2288934,T,C,pncA,p.Y103C
+Pyrazinamide,pncA_p.Tyr103His,p.Tyr103His,1) Assoc w R,2288933,GTA,ATG,pncA,p.Y103H
+Pyrazinamide,pncA_p.Tyr103His,p.Tyr103His,1) Assoc w R,2288935,A,G,pncA,p.Y103H
+Pyrazinamide,pncA_p.Tyr34Asp,p.Tyr34Asp,1) Assoc w R,2289140,GTA,ATC,pncA,p.Y34D
+Pyrazinamide,pncA_p.Tyr34Asp,p.Tyr34Asp,1) Assoc w R,2289142,A,C,pncA,p.Y34D
+Pyrazinamide,pncA_p.Tyr34Ser,p.Tyr34Ser,2) Assoc w R - Interim,2289140,GT,AG,pncA,p.Y34S
+Pyrazinamide,pncA_p.Tyr34Ser,p.Tyr34Ser,2) Assoc w R - Interim,2289140,GTA,ACT,pncA,p.Y34S
+Pyrazinamide,pncA_p.Tyr34Ser,p.Tyr34Ser,2) Assoc w R - Interim,2289140,GT,TG,pncA,p.Y34S
+Pyrazinamide,pncA_p.Tyr34Ser,p.Tyr34Ser,2) Assoc w R - Interim,2289140,GT,CG,pncA,p.Y34S
+Pyrazinamide,pncA_p.Tyr34Ser,p.Tyr34Ser,2) Assoc w R - Interim,2289141,T,G,pncA,p.Y34S
+Pyrazinamide,pncA_p.Tyr34Ser,p.Tyr34Ser,2) Assoc w R - Interim,2289141,TA,CT,pncA,p.Y34S
+Pyrazinamide,pncA_p.Tyr64Asp,p.Tyr64Asp,2) Assoc w R - Interim,2289050,ATA,GTC,pncA,p.Y64D
+Pyrazinamide,pncA_p.Tyr64Asp,p.Tyr64Asp,2) Assoc w R - Interim,2289052,A,C,pncA,p.Y64D
+Pyrazinamide,pncA_p.Tyr95Asp,p.Tyr95Asp,2) Assoc w R - Interim,2288957,GTA,ATC,pncA,p.Y95D
+Pyrazinamide,pncA_p.Tyr95Asp,p.Tyr95Asp,2) Assoc w R - Interim,2288959,A,C,pncA,p.Y95D
+Pyrazinamide,pncA_p.Val125Gly,p.Val125Gly,1) Assoc w R,2288867,GA,TC,pncA,p.V125G
+Pyrazinamide,pncA_p.Val125Gly,p.Val125Gly,1) Assoc w R,2288867,GA,AC,pncA,p.V125G
+Pyrazinamide,pncA_p.Val125Gly,p.Val125Gly,1) Assoc w R,2288867,GA,CC,pncA,p.V125G
+Pyrazinamide,pncA_p.Val125Gly,p.Val125Gly,1) Assoc w R,2288868,A,C,pncA,p.V125G
+Pyrazinamide,pncA_p.Val125Phe,p.Val125Phe,2) Assoc w R - Interim,2288867,GAC,AAA,pncA,p.V125F
+Pyrazinamide,pncA_p.Val125Phe,p.Val125Phe,2) Assoc w R - Interim,2288869,C,A,pncA,p.V125F
+Pyrazinamide,pncA_p.Val128Gly,p.Val128Gly,1) Assoc w R,2288858,GA,TC,pncA,p.V128G
+Pyrazinamide,pncA_p.Val128Gly,p.Val128Gly,1) Assoc w R,2288858,GA,AC,pncA,p.V128G
+Pyrazinamide,pncA_p.Val128Gly,p.Val128Gly,1) Assoc w R,2288858,GA,CC,pncA,p.V128G
+Pyrazinamide,pncA_p.Val128Gly,p.Val128Gly,1) Assoc w R,2288859,A,C,pncA,p.V128G
+Pyrazinamide,pncA_p.Val130Gly,p.Val130Gly,2) Assoc w R - Interim,2288852,CA,GC,pncA,p.V130G
+Pyrazinamide,pncA_p.Val130Gly,p.Val130Gly,2) Assoc w R - Interim,2288852,CA,TC,pncA,p.V130G
+Pyrazinamide,pncA_p.Val130Gly,p.Val130Gly,2) Assoc w R - Interim,2288852,CA,AC,pncA,p.V130G
+Pyrazinamide,pncA_p.Val130Gly,p.Val130Gly,2) Assoc w R - Interim,2288853,A,C,pncA,p.V130G
+Pyrazinamide,pncA_p.Val130Met,p.Val130Met,2) Assoc w R - Interim,2288854,C,T,pncA,p.V130M
+Pyrazinamide,pncA_p.Val131Gly,p.Val131Gly,2) Assoc w R - Interim,2288849,GA,CC,pncA,p.V131G
+Pyrazinamide,pncA_p.Val131Gly,p.Val131Gly,2) Assoc w R - Interim,2288849,GA,AC,pncA,p.V131G
+Pyrazinamide,pncA_p.Val131Gly,p.Val131Gly,2) Assoc w R - Interim,2288849,GA,TC,pncA,p.V131G
+Pyrazinamide,pncA_p.Val131Gly,p.Val131Gly,2) Assoc w R - Interim,2288850,A,C,pncA,p.V131G
+Pyrazinamide,pncA_p.Val131Phe,p.Val131Phe,2) Assoc w R - Interim,2288849,GAC,AAA,pncA,p.V131F
+Pyrazinamide,pncA_p.Val131Phe,p.Val131Phe,2) Assoc w R - Interim,2288851,C,A,pncA,p.V131F
+Pyrazinamide,pncA_p.Val139Ala,p.Val139Ala,1) Assoc w R,2288825,CA,AG,pncA,p.V139A
+Pyrazinamide,pncA_p.Val139Ala,p.Val139Ala,1) Assoc w R,2288825,CA,GG,pncA,p.V139A
+Pyrazinamide,pncA_p.Val139Ala,p.Val139Ala,1) Assoc w R,2288825,CA,TG,pncA,p.V139A
+Pyrazinamide,pncA_p.Val139Ala,p.Val139Ala,1) Assoc w R,2288826,A,G,pncA,p.V139A
+Pyrazinamide,pncA_p.Val139Gly,p.Val139Gly,1) Assoc w R,2288825,CA,TC,pncA,p.V139G
+Pyrazinamide,pncA_p.Val139Gly,p.Val139Gly,1) Assoc w R,2288825,CA,AC,pncA,p.V139G
+Pyrazinamide,pncA_p.Val139Gly,p.Val139Gly,1) Assoc w R,2288825,CA,GC,pncA,p.V139G
+Pyrazinamide,pncA_p.Val139Gly,p.Val139Gly,1) Assoc w R,2288826,A,C,pncA,p.V139G
+Pyrazinamide,pncA_p.Val139Leu,p.Val139Leu,2) Assoc w R - Interim,2288825,CAC,TAG,pncA,p.V139L
+Pyrazinamide,pncA_p.Val139Leu,p.Val139Leu,2) Assoc w R - Interim,2288825,CAC,AAG,pncA,p.V139L
+Pyrazinamide,pncA_p.Val139Leu,p.Val139Leu,2) Assoc w R - Interim,2288825,CAC,GAG,pncA,p.V139L
+Pyrazinamide,pncA_p.Val139Leu,p.Val139Leu,2) Assoc w R - Interim,2288825,CAC,TAA,pncA,p.V139L
+Pyrazinamide,pncA_p.Val139Leu,p.Val139Leu,2) Assoc w R - Interim,2288827,C,G,pncA,p.V139L
+Pyrazinamide,pncA_p.Val139Leu,p.Val139Leu,2) Assoc w R - Interim,2288827,C,A,pncA,p.V139L
+Pyrazinamide,pncA_p.Val139Met,p.Val139Met,1) Assoc w R,2288827,C,T,pncA,p.V139M
+Pyrazinamide,pncA_p.Val155Ala,p.Val155Ala,2) Assoc w R - Interim,2288777,CA,TG,pncA,p.V155A
+Pyrazinamide,pncA_p.Val155Ala,p.Val155Ala,2) Assoc w R - Interim,2288777,CA,AG,pncA,p.V155A
+Pyrazinamide,pncA_p.Val155Ala,p.Val155Ala,2) Assoc w R - Interim,2288777,CA,GG,pncA,p.V155A
+Pyrazinamide,pncA_p.Val155Ala,p.Val155Ala,2) Assoc w R - Interim,2288778,A,G,pncA,p.V155A
+Pyrazinamide,pncA_p.Val155Gly,p.Val155Gly,1) Assoc w R,2288777,CA,AC,pncA,p.V155G
+Pyrazinamide,pncA_p.Val155Gly,p.Val155Gly,1) Assoc w R,2288777,CA,GC,pncA,p.V155G
+Pyrazinamide,pncA_p.Val155Gly,p.Val155Gly,1) Assoc w R,2288777,CA,TC,pncA,p.V155G
+Pyrazinamide,pncA_p.Val155Gly,p.Val155Gly,1) Assoc w R,2288778,A,C,pncA,p.V155G
+Pyrazinamide,pncA_p.Val155Met,p.Val155Met,1) Assoc w R,2288779,C,T,pncA,p.V155M
+Pyrazinamide,pncA_p.Val163Ala,p.Val163Ala,2) Assoc w R - Interim,2288753,CA,TG,pncA,p.V163A
+Pyrazinamide,pncA_p.Val163Ala,p.Val163Ala,2) Assoc w R - Interim,2288753,CA,AG,pncA,p.V163A
+Pyrazinamide,pncA_p.Val163Ala,p.Val163Ala,2) Assoc w R - Interim,2288753,CA,GG,pncA,p.V163A
+Pyrazinamide,pncA_p.Val163Ala,p.Val163Ala,2) Assoc w R - Interim,2288754,A,G,pncA,p.V163A
+Pyrazinamide,pncA_p.Val180Ala,p.Val180Ala,1) Assoc w R,2288702,GA,AG,pncA,p.V180A
+Pyrazinamide,pncA_p.Val180Ala,p.Val180Ala,1) Assoc w R,2288702,GA,CG,pncA,p.V180A
+Pyrazinamide,pncA_p.Val180Ala,p.Val180Ala,1) Assoc w R,2288702,GA,TG,pncA,p.V180A
+Pyrazinamide,pncA_p.Val180Ala,p.Val180Ala,1) Assoc w R,2288703,A,G,pncA,p.V180A
+Pyrazinamide,pncA_p.Val180Gly,p.Val180Gly,1) Assoc w R,2288702,GA,AC,pncA,p.V180G
+Pyrazinamide,pncA_p.Val180Gly,p.Val180Gly,1) Assoc w R,2288702,GA,CC,pncA,p.V180G
+Pyrazinamide,pncA_p.Val180Gly,p.Val180Gly,1) Assoc w R,2288702,GA,TC,pncA,p.V180G
+Pyrazinamide,pncA_p.Val180Gly,p.Val180Gly,1) Assoc w R,2288703,A,C,pncA,p.V180G
+Pyrazinamide,pncA_p.Val180Phe,p.Val180Phe,1) Assoc w R,2288702,GAC,AAA,pncA,p.V180F
+Pyrazinamide,pncA_p.Val180Phe,p.Val180Phe,1) Assoc w R,2288704,C,A,pncA,p.V180F
+Pyrazinamide,pncA_p.Val21Gly,p.Val21Gly,2) Assoc w R - Interim,2289179,TA,GC,pncA,p.V21G
+Pyrazinamide,pncA_p.Val21Gly,p.Val21Gly,2) Assoc w R - Interim,2289179,TA,CC,pncA,p.V21G
+Pyrazinamide,pncA_p.Val21Gly,p.Val21Gly,2) Assoc w R - Interim,2289179,TA,AC,pncA,p.V21G
+Pyrazinamide,pncA_p.Val21Gly,p.Val21Gly,2) Assoc w R - Interim,2289180,A,C,pncA,p.V21G
+Pyrazinamide,pncA_p.Val44Gly,p.Val44Gly,2) Assoc w R - Interim,2289110,GA,TC,pncA,p.V44G
+Pyrazinamide,pncA_p.Val44Gly,p.Val44Gly,2) Assoc w R - Interim,2289110,GA,CC,pncA,p.V44G
+Pyrazinamide,pncA_p.Val44Gly,p.Val44Gly,2) Assoc w R - Interim,2289110,GA,AC,pncA,p.V44G
+Pyrazinamide,pncA_p.Val44Gly,p.Val44Gly,2) Assoc w R - Interim,2289111,A,C,pncA,p.V44G
+Pyrazinamide,pncA_p.Val7Ala,p.Val7Ala,2) Assoc w R - Interim,2289221,GA,TG,pncA,p.V7A
+Pyrazinamide,pncA_p.Val7Ala,p.Val7Ala,2) Assoc w R - Interim,2289221,GA,CG,pncA,p.V7A
+Pyrazinamide,pncA_p.Val7Ala,p.Val7Ala,2) Assoc w R - Interim,2289221,GA,AG,pncA,p.V7A
+Pyrazinamide,pncA_p.Val7Ala,p.Val7Ala,2) Assoc w R - Interim,2289222,A,G,pncA,p.V7A
+Pyrazinamide,pncA_p.Val7Gly,p.Val7Gly,1) Assoc w R,2289221,GA,CC,pncA,p.V7G
+Pyrazinamide,pncA_p.Val7Gly,p.Val7Gly,1) Assoc w R,2289221,GA,AC,pncA,p.V7G
+Pyrazinamide,pncA_p.Val7Gly,p.Val7Gly,1) Assoc w R,2289221,GA,TC,pncA,p.V7G
+Pyrazinamide,pncA_p.Val7Gly,p.Val7Gly,1) Assoc w R,2289222,A,C,pncA,p.V7G
+Pyrazinamide,pncA_p.Val7Leu,p.Val7Leu,1) Assoc w R,2289221,GAC,TAA,pncA,p.V7L
+Pyrazinamide,pncA_p.Val7Leu,p.Val7Leu,1) Assoc w R,2289221,GAC,CAG,pncA,p.V7L
+Pyrazinamide,pncA_p.Val7Leu,p.Val7Leu,1) Assoc w R,2289221,GAC,CAA,pncA,p.V7L
+Pyrazinamide,pncA_p.Val7Leu,p.Val7Leu,1) Assoc w R,2289221,GAC,TAG,pncA,p.V7L
+Pyrazinamide,pncA_p.Val7Leu,p.Val7Leu,1) Assoc w R,2289221,GAC,AAG,pncA,p.V7L
+Pyrazinamide,pncA_p.Val7Leu,p.Val7Leu,1) Assoc w R,2289223,C,G,pncA,p.V7L
+Pyrazinamide,pncA_p.Val7Phe,p.Val7Phe,2) Assoc w R - Interim,2289221,GAC,AAA,pncA,p.V7F
+Pyrazinamide,pncA_p.Val7Phe,p.Val7Phe,2) Assoc w R - Interim,2289223,C,A,pncA,p.V7F
+Pyrazinamide,pncA_p.Val93Ala,p.Val93Ala,2) Assoc w R - Interim,2288963,CA,AG,pncA,p.V93A
+Pyrazinamide,pncA_p.Val93Ala,p.Val93Ala,2) Assoc w R - Interim,2288963,CA,TG,pncA,p.V93A
+Pyrazinamide,pncA_p.Val93Ala,p.Val93Ala,2) Assoc w R - Interim,2288963,CA,GG,pncA,p.V93A
+Pyrazinamide,pncA_p.Val93Ala,p.Val93Ala,2) Assoc w R - Interim,2288964,A,G,pncA,p.V93A
+Pyrazinamide,pncA_p.Val93Leu,p.Val93Leu,2) Assoc w R - Interim,2288963,CAC,TAA,pncA,p.V93L
+Pyrazinamide,pncA_p.Val93Leu,p.Val93Leu,2) Assoc w R - Interim,2288963,CAC,GAG,pncA,p.V93L
+Pyrazinamide,pncA_p.Val93Leu,p.Val93Leu,2) Assoc w R - Interim,2288963,CAC,AAG,pncA,p.V93L
+Pyrazinamide,pncA_p.Val93Leu,p.Val93Leu,2) Assoc w R - Interim,2288963,CAC,TAG,pncA,p.V93L
+Pyrazinamide,pncA_p.Val93Leu,p.Val93Leu,2) Assoc w R - Interim,2288965,C,A,pncA,p.V93L
+Pyrazinamide,pncA_p.Val93Leu,p.Val93Leu,2) Assoc w R - Interim,2288965,C,G,pncA,p.V93L
+Pyrazinamide,pncA_p.Val9Gly,p.Val9Gly,1) Assoc w R,2289215,CA,GC,pncA,p.V9G
+Pyrazinamide,pncA_p.Val9Gly,p.Val9Gly,1) Assoc w R,2289215,CA,TC,pncA,p.V9G
+Pyrazinamide,pncA_p.Val9Gly,p.Val9Gly,1) Assoc w R,2289215,CA,AC,pncA,p.V9G
+Pyrazinamide,pncA_p.Val9Gly,p.Val9Gly,1) Assoc w R,2289216,A,C,pncA,p.V9G
+Rifampicin,rpoB_p.Ala451Gly,p.Ala451Gly,2) Assoc w R - Interim,761154,TCGGC,CAGGG,rpoB,p.A451G
+Rifampicin,rpoB_p.Ala451Gly,p.Ala451Gly,2) Assoc w R - Interim,761155,CGGCGCTGGGG,TGGGCCTTGGT,rpoB,p.A451G
+Rifampicin,rpoB_p.Ala451Gly,p.Ala451Gly,2) Assoc w R - Interim,761158,CG,GA,rpoB,p.A451G
+Rifampicin,rpoB_p.Ala451Gly,p.Ala451Gly,2) Assoc w R - Interim,761158,C,G,rpoB,p.A451G
+Rifampicin,rpoB_p.Ala451Gly,p.Ala451Gly,2) Assoc w R - Interim,761158,CG,GT,rpoB,p.A451G
+Rifampicin,rpoB_p.Ala451Gly,p.Ala451Gly,2) Assoc w R - Interim,761158,CG,GC,rpoB,p.A451G
+Rifampicin,rpoB_p.Ala451Val,p.Ala451Val,2) Assoc w R - Interim,761158,CG,TC,rpoB,p.A451V
+Rifampicin,rpoB_p.Ala451Val,p.Ala451Val,2) Assoc w R - Interim,761158,CG,TT,rpoB,p.A451V
+Rifampicin,rpoB_p.Ala451Val,p.Ala451Val,2) Assoc w R - Interim,761158,CG,TA,rpoB,p.A451V
+Rifampicin,rpoB_p.Ala451Val,p.Ala451Val,2) Assoc w R - Interim,761158,C,T,rpoB,p.A451V
+Rifampicin,rpoB_p.Arg448Gln,p.Arg448Gln,2) Assoc w R - Interim,761149,G,A,rpoB,p.R448Q
+Rifampicin,rpoB_p.Arg448Gln,p.Arg448Gln,2) Assoc w R - Interim,761149,GA,AG,rpoB,p.R448Q
+Rifampicin,rpoB_p.Arg448Leu,p.Arg448Leu,2) Assoc w R - Interim,761148,CG,TT,rpoB,p.R448L
+Rifampicin,rpoB_p.Arg448Leu,p.Arg448Leu,2) Assoc w R - Interim,761148,CGA,TTG,rpoB,p.R448L
+Rifampicin,rpoB_p.Arg448Leu,p.Arg448Leu,2) Assoc w R - Interim,761149,GA,TG,rpoB,p.R448L
+Rifampicin,rpoB_p.Arg448Leu,p.Arg448Leu,2) Assoc w R - Interim,761149,GA,TC,rpoB,p.R448L
+Rifampicin,rpoB_p.Arg448Leu,p.Arg448Leu,2) Assoc w R - Interim,761149,GA,TT,rpoB,p.R448L
+Rifampicin,rpoB_p.Arg448Leu,p.Arg448Leu,2) Assoc w R - Interim,761149,G,T,rpoB,p.R448L
+Rifampicin,rpoB_p.Arg448Lys,p.Arg448Lys,2) Assoc w R - Interim,761148,CGA,AAG,rpoB,p.R448K
+Rifampicin,rpoB_p.Arg448Lys,p.Arg448Lys,2) Assoc w R - Interim,761148,CG,AA,rpoB,p.R448K
+Rifampicin,rpoB_p.Asn437Asp,p.Asn437Asp,2) Assoc w R - Interim,761115,AAC,GAT,rpoB,p.N437D
+Rifampicin,rpoB_p.Asn437Asp,p.Asn437Asp,2) Assoc w R - Interim,761115,A,G,rpoB,p.N437D
+Rifampicin,rpoB_p.Asn437His,p.Asn437His,2) Assoc w R - Interim,761115,AAC,CAT,rpoB,p.N437H
+Rifampicin,rpoB_p.Asn437His,p.Asn437His,2) Assoc w R - Interim,761115,A,C,rpoB,p.N437H
+Rifampicin,rpoB_p.Asn437Ile,p.Asn437Ile,2) Assoc w R - Interim,761116,A,T,rpoB,p.N437I
+Rifampicin,rpoB_p.Asn437Ile,p.Asn437Ile,2) Assoc w R - Interim,761116,AC,TA,rpoB,p.N437I
+Rifampicin,rpoB_p.Asn437Ile,p.Asn437Ile,2) Assoc w R - Interim,761116,AC,TT,rpoB,p.N437I
+Rifampicin,rpoB_p.Asn437Ser,p.Asn437Ser,2) Assoc w R - Interim,761115,AA,TC,rpoB,p.N437S
+Rifampicin,rpoB_p.Asn437Ser,p.Asn437Ser,2) Assoc w R - Interim,761115,AAC,TCT,rpoB,p.N437S
+Rifampicin,rpoB_p.Asn437Ser,p.Asn437Ser,2) Assoc w R - Interim,761115,AAC,TCA,rpoB,p.N437S
+Rifampicin,rpoB_p.Asn437Ser,p.Asn437Ser,2) Assoc w R - Interim,761115,AAC,TCG,rpoB,p.N437S
+Rifampicin,rpoB_p.Asn437Ser,p.Asn437Ser,2) Assoc w R - Interim,761116,A,G,rpoB,p.N437S
+Rifampicin,rpoB_p.Asn437Ser,p.Asn437Ser,2) Assoc w R - Interim,761116,AC,GT,rpoB,p.N437S
+Rifampicin,rpoB_p.Asn437Tyr,p.Asn437Tyr,2) Assoc w R - Interim,761108,GGACCAGA,CGCCAACT,rpoB,p.N437Y
+Rifampicin,rpoB_p.Asn437Tyr,p.Asn437Tyr,2) Assoc w R - Interim,761115,AAC,TAT,rpoB,p.N437Y
+Rifampicin,rpoB_p.Asn437Tyr,p.Asn437Tyr,2) Assoc w R - Interim,761115,A,T,rpoB,p.N437Y
+Rifampicin,rpoB_p.Asn438His,p.Asn438His,2) Assoc w R - Interim,761118,A,C,rpoB,p.N438H
+Rifampicin,rpoB_p.Asn438His,p.Asn438His,2) Assoc w R - Interim,761118,AAC,CAT,rpoB,p.N438H
+Rifampicin,rpoB_p.Asp435Ala,p.Asp435Ala,2) Assoc w R - Interim,761108,GGACCAGA,CGCCAACT,rpoB,p.D435A
+Rifampicin,rpoB_p.Asp435Ala,p.Asp435Ala,2) Assoc w R - Interim,761110,A,C,rpoB,p.D435A
+Rifampicin,rpoB_p.Asp435Ala,p.Asp435Ala,2) Assoc w R - Interim,761110,AC,CA,rpoB,p.D435A
+Rifampicin,rpoB_p.Asp435Ala,p.Asp435Ala,2) Assoc w R - Interim,761110,AC,CG,rpoB,p.D435A
+Rifampicin,rpoB_p.Asp435Ala,p.Asp435Ala,2) Assoc w R - Interim,761110,AC,CT,rpoB,p.D435A
+Rifampicin,rpoB_p.Asp435Asn,p.Asp435Asn,2) Assoc w R - Interim,761109,G,A,rpoB,p.D435N
+Rifampicin,rpoB_p.Asp435Asn,p.Asp435Asn,2) Assoc w R - Interim,761109,GAC,AAT,rpoB,p.D435N
+Rifampicin,rpoB_p.Asp435Glu,p.Asp435Glu,2) Assoc w R - Interim,761111,C,A,rpoB,p.D435E
+Rifampicin,rpoB_p.Asp435Glu,p.Asp435Glu,2) Assoc w R - Interim,761111,C,G,rpoB,p.D435E
+Rifampicin,rpoB_p.Asp435Gly,p.Asp435Gly,2) Assoc w R - Interim,761107,TGGA,CGGG,rpoB,p.D435G
+Rifampicin,rpoB_p.Asp435Gly,p.Asp435Gly,2) Assoc w R - Interim,761108,GGA,TGG,rpoB,p.D435G
+Rifampicin,rpoB_p.Asp435Gly,p.Asp435Gly,2) Assoc w R - Interim,761108,GGA,AGG,rpoB,p.D435G
+Rifampicin,rpoB_p.Asp435Gly,p.Asp435Gly,2) Assoc w R - Interim,761110,A,G,rpoB,p.D435G
+Rifampicin,rpoB_p.Asp435Gly,p.Asp435Gly,2) Assoc w R - Interim,761110,AC,GT,rpoB,p.D435G
+Rifampicin,rpoB_p.Asp435Gly,p.Asp435Gly,2) Assoc w R - Interim,761110,AC,GA,rpoB,p.D435G
+Rifampicin,rpoB_p.Asp435Gly,p.Asp435Gly,2) Assoc w R - Interim,761110,AC,GG,rpoB,p.D435G
+Rifampicin,rpoB_p.Asp435His,p.Asp435His,2) Assoc w R - Interim,761109,GAC,CAT,rpoB,p.D435H
+Rifampicin,rpoB_p.Asp435His,p.Asp435His,2) Assoc w R - Interim,761109,G,C,rpoB,p.D435H
+Rifampicin,rpoB_p.Asp435Leu,p.Asp435Leu,2) Assoc w R - Interim,761109,GAC,TTA,rpoB,p.D435L
+Rifampicin,rpoB_p.Asp435Leu,p.Asp435Leu,2) Assoc w R - Interim,761109,GAC,CTA,rpoB,p.D435L
+Rifampicin,rpoB_p.Asp435Leu,p.Asp435Leu,2) Assoc w R - Interim,761109,GAC,CTG,rpoB,p.D435L
+Rifampicin,rpoB_p.Asp435Leu,p.Asp435Leu,2) Assoc w R - Interim,761109,GAC,TTG,rpoB,p.D435L
+Rifampicin,rpoB_p.Asp435Leu,p.Asp435Leu,2) Assoc w R - Interim,761109,GAC,CTT,rpoB,p.D435L
+Rifampicin,rpoB_p.Asp435Leu,p.Asp435Leu,2) Assoc w R - Interim,761109,GA,CT,rpoB,p.D435L
+Rifampicin,rpoB_p.Asp435Phe,p.Asp435Phe,1) Assoc w R,761109,GA,TT,rpoB,p.D435F
+Rifampicin,rpoB_p.Asp435Phe,p.Asp435Phe,1) Assoc w R,761109,GAC,TTT,rpoB,p.D435F
+Rifampicin,rpoB_p.Asp435Tyr,p.Asp435Tyr,1) Assoc w R,761107,TGG,GGT,rpoB,p.D435Y
+Rifampicin,rpoB_p.Asp435Tyr,p.Asp435Tyr,1) Assoc w R,761108,GG,AT,rpoB,p.D435Y
+Rifampicin,rpoB_p.Asp435Tyr,p.Asp435Tyr,1) Assoc w R,761108,GG,TT,rpoB,p.D435Y
+Rifampicin,rpoB_p.Asp435Tyr,p.Asp435Tyr,1) Assoc w R,761108,GG,CT,rpoB,p.D435Y
+Rifampicin,rpoB_p.Asp435Tyr,p.Asp435Tyr,1) Assoc w R,761109,G,T,rpoB,p.D435Y
+Rifampicin,rpoB_p.Asp435Tyr,p.Asp435Tyr,1) Assoc w R,761109,GAC,TAT,rpoB,p.D435Y
+Rifampicin,rpoB_p.Asp435Val,p.Asp435Val,1) Assoc w R,761110,AC,TG,rpoB,p.D435V
+Rifampicin,rpoB_p.Asp435Val,p.Asp435Val,1) Assoc w R,761110,AC,TT,rpoB,p.D435V
+Rifampicin,rpoB_p.Asp435Val,p.Asp435Val,1) Assoc w R,761110,A,T,rpoB,p.D435V
+Rifampicin,rpoB_p.Asp435Val,p.Asp435Val,1) Assoc w R,761110,AC,TA,rpoB,p.D435V
+Rifampicin,rpoB_p.Gln429His,p.Gln429His,2) Assoc w R - Interim,761093,G,C,rpoB,p.Q429H
+Rifampicin,rpoB_p.Gln429His,p.Gln429His,2) Assoc w R - Interim,761093,GCTG,CCTC,rpoB,p.Q429H
+Rifampicin,rpoB_p.Gln429His,p.Gln429His,2) Assoc w R - Interim,761093,G,T,rpoB,p.Q429H
+Rifampicin,rpoB_p.Gln429Leu,p.Gln429Leu,2) Assoc w R - Interim,761091,CA,TT,rpoB,p.Q429L
+Rifampicin,rpoB_p.Gln429Leu,p.Gln429Leu,2) Assoc w R - Interim,761091,CAG,TTA,rpoB,p.Q429L
+Rifampicin,rpoB_p.Gln429Leu,p.Gln429Leu,2) Assoc w R - Interim,761092,AG,TC,rpoB,p.Q429L
+Rifampicin,rpoB_p.Gln429Leu,p.Gln429Leu,2) Assoc w R - Interim,761092,AG,TA,rpoB,p.Q429L
+Rifampicin,rpoB_p.Gln429Leu,p.Gln429Leu,2) Assoc w R - Interim,761092,AG,TT,rpoB,p.Q429L
+Rifampicin,rpoB_p.Gln429Leu,p.Gln429Leu,2) Assoc w R - Interim,761092,A,T,rpoB,p.Q429L
+Rifampicin,rpoB_p.Gln429Pro,p.Gln429Pro,2) Assoc w R - Interim,761092,AG,CA,rpoB,p.Q429P
+Rifampicin,rpoB_p.Gln429Pro,p.Gln429Pro,2) Assoc w R - Interim,761092,AG,CT,rpoB,p.Q429P
+Rifampicin,rpoB_p.Gln429Pro,p.Gln429Pro,2) Assoc w R - Interim,761092,A,C,rpoB,p.Q429P
+Rifampicin,rpoB_p.Gln429Pro,p.Gln429Pro,2) Assoc w R - Interim,761092,AG,CC,rpoB,p.Q429P
+Rifampicin,rpoB_p.Gln432Asn,p.Gln432Asn,2) Assoc w R - Interim,761100,CAA,AAT,rpoB,p.Q432N
+Rifampicin,rpoB_p.Gln432Asn,p.Gln432Asn,2) Assoc w R - Interim,761100,CAA,AAC,rpoB,p.Q432N
+Rifampicin,rpoB_p.Gln432Glu,p.Gln432Glu,2) Assoc w R - Interim,761100,CAA,GAG,rpoB,p.Q432E
+Rifampicin,rpoB_p.Gln432Glu,p.Gln432Glu,2) Assoc w R - Interim,761100,C,G,rpoB,p.Q432E
+Rifampicin,rpoB_p.Gln432His,p.Gln432His,2) Assoc w R - Interim,761102,A,T,rpoB,p.Q432H
+Rifampicin,rpoB_p.Gln432His,p.Gln432His,2) Assoc w R - Interim,761102,A,C,rpoB,p.Q432H
+Rifampicin,rpoB_p.Gln432Leu,p.Gln432Leu,1) Assoc w R,761100,CA,TT,rpoB,p.Q432L
+Rifampicin,rpoB_p.Gln432Leu,p.Gln432Leu,1) Assoc w R,761100,CAA,TTG,rpoB,p.Q432L
+Rifampicin,rpoB_p.Gln432Leu,p.Gln432Leu,1) Assoc w R,761101,AA,TG,rpoB,p.Q432L
+Rifampicin,rpoB_p.Gln432Leu,p.Gln432Leu,1) Assoc w R,761101,AA,TC,rpoB,p.Q432L
+Rifampicin,rpoB_p.Gln432Leu,p.Gln432Leu,1) Assoc w R,761101,A,T,rpoB,p.Q432L
+Rifampicin,rpoB_p.Gln432Leu,p.Gln432Leu,1) Assoc w R,761101,AA,TT,rpoB,p.Q432L
+Rifampicin,rpoB_p.Gln432Lys,p.Gln432Lys,1) Assoc w R,761100,CAA,AAG,rpoB,p.Q432K
+Rifampicin,rpoB_p.Gln432Lys,p.Gln432Lys,1) Assoc w R,761100,C,A,rpoB,p.Q432K
+Rifampicin,rpoB_p.Gln432Pro,p.Gln432Pro,1) Assoc w R,761101,AA,CT,rpoB,p.Q432P
+Rifampicin,rpoB_p.Gln432Pro,p.Gln432Pro,1) Assoc w R,761101,AA,CC,rpoB,p.Q432P
+Rifampicin,rpoB_p.Gln432Pro,p.Gln432Pro,1) Assoc w R,761101,AA,CG,rpoB,p.Q432P
+Rifampicin,rpoB_p.Gln432Pro,p.Gln432Pro,1) Assoc w R,761101,A,C,rpoB,p.Q432P
+Rifampicin,rpoB_p.Gln436Arg,p.Gln436Arg,2) Assoc w R - Interim,761112,CAG,AGA,rpoB,p.Q436R
+Rifampicin,rpoB_p.Gln436Arg,p.Gln436Arg,2) Assoc w R - Interim,761112,CA,AG,rpoB,p.Q436R
+Rifampicin,rpoB_p.Gln436Arg,p.Gln436Arg,2) Assoc w R - Interim,761113,AG,GC,rpoB,p.Q436R
+Rifampicin,rpoB_p.Gln436Arg,p.Gln436Arg,2) Assoc w R - Interim,761113,A,G,rpoB,p.Q436R
+Rifampicin,rpoB_p.Gln436Arg,p.Gln436Arg,2) Assoc w R - Interim,761113,AG,GT,rpoB,p.Q436R
+Rifampicin,rpoB_p.Gln436Arg,p.Gln436Arg,2) Assoc w R - Interim,761113,AG,GA,rpoB,p.Q436R
+Rifampicin,rpoB_p.Gln436Asn,p.Gln436Asn,2) Assoc w R - Interim,761108,GGACCAGA,CGCCAACT,rpoB,p.Q436N
+Rifampicin,rpoB_p.Gln436Asn,p.Gln436Asn,2) Assoc w R - Interim,761112,CAG,AAC,rpoB,p.Q436N
+Rifampicin,rpoB_p.Gln436Asn,p.Gln436Asn,2) Assoc w R - Interim,761112,CAG,AAT,rpoB,p.Q436N
+Rifampicin,rpoB_p.Gln436Pro,p.Gln436Pro,2) Assoc w R - Interim,761113,A,C,rpoB,p.Q436P
+Rifampicin,rpoB_p.Gln436Pro,p.Gln436Pro,2) Assoc w R - Interim,761113,AG,CT,rpoB,p.Q436P
+Rifampicin,rpoB_p.Gln436Pro,p.Gln436Pro,2) Assoc w R - Interim,761113,AG,CC,rpoB,p.Q436P
+Rifampicin,rpoB_p.Gln436Pro,p.Gln436Pro,2) Assoc w R - Interim,761113,AG,CA,rpoB,p.Q436P
+Rifampicin,rpoB_p.Gly426Ser,p.Gly426Ser,2) Assoc w R - Interim,761082,G,A,rpoB,p.G426S
+Rifampicin,rpoB_p.Gly426Ser,p.Gly426Ser,2) Assoc w R - Interim,761082,GGC,AGT,rpoB,p.G426S
+Rifampicin,rpoB_p.Gly426Ser,p.Gly426Ser,2) Assoc w R - Interim,761082,GGC,TCG,rpoB,p.G426S
+Rifampicin,rpoB_p.Gly426Ser,p.Gly426Ser,2) Assoc w R - Interim,761082,GGC,TCA,rpoB,p.G426S
+Rifampicin,rpoB_p.Gly426Ser,p.Gly426Ser,2) Assoc w R - Interim,761082,GGC,TCT,rpoB,p.G426S
+Rifampicin,rpoB_p.Gly426Ser,p.Gly426Ser,2) Assoc w R - Interim,761082,GG,TC,rpoB,p.G426S
+Rifampicin,rpoB_p.Gly442Glu,p.Gly442Glu,2) Assoc w R - Interim,761127,TCGGGGT,GCCGAGA,rpoB,p.G442E
+Rifampicin,rpoB_p.Gly442Glu,p.Gly442Glu,2) Assoc w R - Interim,761131,GG,AA,rpoB,p.G442E
+Rifampicin,rpoB_p.Gly442Glu,p.Gly442Glu,2) Assoc w R - Interim,761131,G,A,rpoB,p.G442E
+Rifampicin,rpoB_p.His445Arg,p.His445Arg,1) Assoc w R,761139,CAC,AGA,rpoB,p.H445R
+Rifampicin,rpoB_p.His445Arg,p.His445Arg,1) Assoc w R,761139,CAC,AGG,rpoB,p.H445R
+Rifampicin,rpoB_p.His445Arg,p.His445Arg,1) Assoc w R,761140,AC,GT,rpoB,p.H445R
+Rifampicin,rpoB_p.His445Arg,p.His445Arg,1) Assoc w R,761140,A,G,rpoB,p.H445R
+Rifampicin,rpoB_p.His445Arg,p.His445Arg,1) Assoc w R,761140,AC,GA,rpoB,p.H445R
+Rifampicin,rpoB_p.His445Arg,p.His445Arg,1) Assoc w R,761140,AC,GG,rpoB,p.H445R
+Rifampicin,rpoB_p.His445Asn,p.His445Asn,1) Assoc w R,761139,C,A,rpoB,p.H445N
+Rifampicin,rpoB_p.His445Asn,p.His445Asn,1) Assoc w R,761139,CAC,AAT,rpoB,p.H445N
+Rifampicin,rpoB_p.His445Asp,p.His445Asp,1) Assoc w R,761139,C,G,rpoB,p.H445D
+Rifampicin,rpoB_p.His445Asp,p.His445Asp,1) Assoc w R,761139,CAC,GAT,rpoB,p.H445D
+Rifampicin,rpoB_p.His445Cys,p.His445Cys,1) Assoc w R,761139,CA,TG,rpoB,p.H445C
+Rifampicin,rpoB_p.His445Cys,p.His445Cys,1) Assoc w R,761139,CAC,TGT,rpoB,p.H445C
+Rifampicin,rpoB_p.His445Gln,p.His445Gln,2) Assoc w R - Interim,761141,C,A,rpoB,p.H445Q
+Rifampicin,rpoB_p.His445Gln,p.His445Gln,2) Assoc w R - Interim,761141,C,G,rpoB,p.H445Q
+Rifampicin,rpoB_p.His445Gln,p.His445Gln,2) Assoc w R - Interim,761141,CAA,AAG,rpoB,p.H445Q
+Rifampicin,rpoB_p.His445Gly,p.His445Gly,2) Assoc w R - Interim,761139,CAC,GGA,rpoB,p.H445G
+Rifampicin,rpoB_p.His445Gly,p.His445Gly,2) Assoc w R - Interim,761139,CAC,GGG,rpoB,p.H445G
+Rifampicin,rpoB_p.His445Gly,p.His445Gly,2) Assoc w R - Interim,761139,CA,GG,rpoB,p.H445G
+Rifampicin,rpoB_p.His445Gly,p.His445Gly,2) Assoc w R - Interim,761139,CAC,GGT,rpoB,p.H445G
+Rifampicin,rpoB_p.His445Leu,p.His445Leu,1) Assoc w R,761139,CAC,TTA,rpoB,p.H445L
+Rifampicin,rpoB_p.His445Leu,p.His445Leu,1) Assoc w R,761139,CAC,TTG,rpoB,p.H445L
+Rifampicin,rpoB_p.His445Leu,p.His445Leu,1) Assoc w R,761140,AC,TG,rpoB,p.H445L
+Rifampicin,rpoB_p.His445Leu,p.His445Leu,1) Assoc w R,761140,AC,TT,rpoB,p.H445L
+Rifampicin,rpoB_p.His445Leu,p.His445Leu,1) Assoc w R,761140,AC,TA,rpoB,p.H445L
+Rifampicin,rpoB_p.His445Leu,p.His445Leu,1) Assoc w R,761140,A,T,rpoB,p.H445L
+Rifampicin,rpoB_p.His445Phe,p.His445Phe,2) Assoc w R - Interim,761139,CAC,TTT,rpoB,p.H445F
+Rifampicin,rpoB_p.His445Phe,p.His445Phe,2) Assoc w R - Interim,761139,CA,TT,rpoB,p.H445F
+Rifampicin,rpoB_p.His445Pro,p.His445Pro,2) Assoc w R - Interim,761138,CCACA,GCCCC,rpoB,p.H445P
+Rifampicin,rpoB_p.His445Pro,p.His445Pro,2) Assoc w R - Interim,761140,AC,CG,rpoB,p.H445P
+Rifampicin,rpoB_p.His445Pro,p.His445Pro,2) Assoc w R - Interim,761140,AC,CT,rpoB,p.H445P
+Rifampicin,rpoB_p.His445Pro,p.His445Pro,2) Assoc w R - Interim,761140,AC,CA,rpoB,p.H445P
+Rifampicin,rpoB_p.His445Pro,p.His445Pro,2) Assoc w R - Interim,761140,A,C,rpoB,p.H445P
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761138,CCACA,GTCCC,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761139,CA,AG,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761139,CA,TC,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761139,CAC,TCT,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761139,CAC,AGT,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761139,CACA,TCCC,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761139,CAC,TCA,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Ser,p.His445Ser,1) Assoc w R,761139,CAC,TCG,rpoB,p.H445S
+Rifampicin,rpoB_p.His445Thr,p.His445Thr,2) Assoc w R - Interim,761139,CAC,ACA,rpoB,p.H445T
+Rifampicin,rpoB_p.His445Thr,p.His445Thr,2) Assoc w R - Interim,761139,CAC,ACG,rpoB,p.H445T
+Rifampicin,rpoB_p.His445Thr,p.His445Thr,2) Assoc w R - Interim,761139,CA,AC,rpoB,p.H445T
+Rifampicin,rpoB_p.His445Thr,p.His445Thr,2) Assoc w R - Interim,761139,CAC,ACT,rpoB,p.H445T
+Rifampicin,rpoB_p.His445Tyr,p.His445Tyr,1) Assoc w R,761138,CC,TT,rpoB,p.H445Y
+Rifampicin,rpoB_p.His445Tyr,p.His445Tyr,1) Assoc w R,761139,C,T,rpoB,p.H445Y
+Rifampicin,rpoB_p.His445Tyr,p.His445Tyr,1) Assoc w R,761139,CAC,TAT,rpoB,p.H445Y
+Rifampicin,rpoB_p.Ile491Phe,p.Ile491Phe,1) Assoc w R,761276,GA,TT,rpoB,p.I491F
+Rifampicin,rpoB_p.Ile491Phe,p.Ile491Phe,1) Assoc w R,761277,A,T,rpoB,p.I491F
+Rifampicin,rpoB_p.Ile491Phe,p.Ile491Phe,1) Assoc w R,761277,ATC,TTT,rpoB,p.I491F
+Rifampicin,rpoB_p.Leu430Arg,p.Leu430Arg,2) Assoc w R - Interim,761094,CTG,AGA,rpoB,p.L430R
+Rifampicin,rpoB_p.Leu430Arg,p.Leu430Arg,2) Assoc w R - Interim,761094,CT,AG,rpoB,p.L430R
+Rifampicin,rpoB_p.Leu430Arg,p.Leu430Arg,2) Assoc w R - Interim,761095,TG,GC,rpoB,p.L430R
+Rifampicin,rpoB_p.Leu430Arg,p.Leu430Arg,2) Assoc w R - Interim,761095,T,G,rpoB,p.L430R
+Rifampicin,rpoB_p.Leu430Arg,p.Leu430Arg,2) Assoc w R - Interim,761095,TGAG,GGAC,rpoB,p.L430R
+Rifampicin,rpoB_p.Leu430Arg,p.Leu430Arg,2) Assoc w R - Interim,761095,TG,GA,rpoB,p.L430R
+Rifampicin,rpoB_p.Leu430Arg,p.Leu430Arg,2) Assoc w R - Interim,761095,TG,GT,rpoB,p.L430R
+Rifampicin,rpoB_p.Leu430Pro,p.Leu430Pro,1) Assoc w R,761095,TGA,CGG,rpoB,p.L430P
+Rifampicin,rpoB_p.Leu430Pro,p.Leu430Pro,1) Assoc w R,761095,TGAG,CGAC,rpoB,p.L430P
+Rifampicin,rpoB_p.Leu430Pro,p.Leu430Pro,1) Assoc w R,761095,T,C,rpoB,p.L430P
+Rifampicin,rpoB_p.Leu430Pro,p.Leu430Pro,1) Assoc w R,761095,TG,CA,rpoB,p.L430P
+Rifampicin,rpoB_p.Leu430Pro,p.Leu430Pro,1) Assoc w R,761095,TG,CT,rpoB,p.L430P
+Rifampicin,rpoB_p.Leu430Pro,p.Leu430Pro,1) Assoc w R,761095,TG,CC,rpoB,p.L430P
+Rifampicin,rpoB_p.Leu443Phe,p.Leu443Phe,2) Assoc w R - Interim,761135,G,T,rpoB,p.L443F
+Rifampicin,rpoB_p.Leu443Phe,p.Leu443Phe,2) Assoc w R - Interim,761135,G,C,rpoB,p.L443F
+Rifampicin,rpoB_p.Leu443Ser,p.Leu443Ser,2) Assoc w R - Interim,761133,TTG,AGC,rpoB,p.L443S
+Rifampicin,rpoB_p.Leu443Ser,p.Leu443Ser,2) Assoc w R - Interim,761133,TTG,AGT,rpoB,p.L443S
+Rifampicin,rpoB_p.Leu443Ser,p.Leu443Ser,2) Assoc w R - Interim,761134,TG,CA,rpoB,p.L443S
+Rifampicin,rpoB_p.Leu443Ser,p.Leu443Ser,2) Assoc w R - Interim,761134,TG,CT,rpoB,p.L443S
+Rifampicin,rpoB_p.Leu443Ser,p.Leu443Ser,2) Assoc w R - Interim,761134,T,C,rpoB,p.L443S
+Rifampicin,rpoB_p.Leu443Ser,p.Leu443Ser,2) Assoc w R - Interim,761134,TG,CC,rpoB,p.L443S
+Rifampicin,rpoB_p.Leu443Trp,p.Leu443Trp,2) Assoc w R - Interim,761134,TGA,GGC,rpoB,p.L443W
+Rifampicin,rpoB_p.Leu443Trp,p.Leu443Trp,2) Assoc w R - Interim,761134,T,G,rpoB,p.L443W
+Rifampicin,rpoB_p.Leu449Met,p.Leu449Met,2) Assoc w R - Interim,761151,C,A,rpoB,p.L449M
+Rifampicin,rpoB_p.Leu452Met,p.Leu452Met,2) Assoc w R - Interim,761160,C,A,rpoB,p.L452M
+Rifampicin,rpoB_p.Leu452Pro,p.Leu452Pro,1) Assoc w R,761161,TG,CA,rpoB,p.L452P
+Rifampicin,rpoB_p.Leu452Pro,p.Leu452Pro,1) Assoc w R,761161,TG,CT,rpoB,p.L452P
+Rifampicin,rpoB_p.Leu452Pro,p.Leu452Pro,1) Assoc w R,761161,TG,CC,rpoB,p.L452P
+Rifampicin,rpoB_p.Leu452Pro,p.Leu452Pro,1) Assoc w R,761161,T,C,rpoB,p.L452P
+Rifampicin,rpoB_p.Leu452Val,p.Leu452Val,2) Assoc w R - Interim,761160,C,G,rpoB,p.L452V
+Rifampicin,rpoB_p.Leu452Val,p.Leu452Val,2) Assoc w R - Interim,761160,CTG,GTT,rpoB,p.L452V
+Rifampicin,rpoB_p.Leu452Val,p.Leu452Val,2) Assoc w R - Interim,761160,CTG,GTA,rpoB,p.L452V
+Rifampicin,rpoB_p.Leu452Val,p.Leu452Val,2) Assoc w R - Interim,761160,CTG,GTC,rpoB,p.L452V
+Rifampicin,rpoB_p.Lys446Arg,p.Lys446Arg,2) Assoc w R - Interim,761141,CAA,AAG,rpoB,p.K446R
+Rifampicin,rpoB_p.Lys446Arg,p.Lys446Arg,2) Assoc w R - Interim,761142,AAG,CGC,rpoB,p.K446R
+Rifampicin,rpoB_p.Lys446Arg,p.Lys446Arg,2) Assoc w R - Interim,761142,AA,CG,rpoB,p.K446R
+Rifampicin,rpoB_p.Lys446Arg,p.Lys446Arg,2) Assoc w R - Interim,761142,AAG,CGT,rpoB,p.K446R
+Rifampicin,rpoB_p.Lys446Arg,p.Lys446Arg,2) Assoc w R - Interim,761142,AAG,CGA,rpoB,p.K446R
+Rifampicin,rpoB_p.Lys446Arg,p.Lys446Arg,2) Assoc w R - Interim,761143,AG,GA,rpoB,p.K446R
+Rifampicin,rpoB_p.Lys446Arg,p.Lys446Arg,2) Assoc w R - Interim,761143,A,G,rpoB,p.K446R
+Rifampicin,rpoB_p.Lys446Gln,p.Lys446Gln,2) Assoc w R - Interim,761138,CCACA,GCCCC,rpoB,p.K446Q
+Rifampicin,rpoB_p.Lys446Gln,p.Lys446Gln,2) Assoc w R - Interim,761138,CCACA,GTCCC,rpoB,p.K446Q
+Rifampicin,rpoB_p.Lys446Gln,p.Lys446Gln,2) Assoc w R - Interim,761139,CACA,TCCC,rpoB,p.K446Q
+Rifampicin,rpoB_p.Lys446Gln,p.Lys446Gln,2) Assoc w R - Interim,761142,A,C,rpoB,p.K446Q
+Rifampicin,rpoB_p.Lys446Gln,p.Lys446Gln,2) Assoc w R - Interim,761142,AAG,CAA,rpoB,p.K446Q
+Rifampicin,rpoB_p.Lys446Glu,p.Lys446Glu,2) Assoc w R - Interim,761142,AAG,GAA,rpoB,p.K446E
+Rifampicin,rpoB_p.Lys446Glu,p.Lys446Glu,2) Assoc w R - Interim,761142,A,G,rpoB,p.K446E
+Rifampicin,rpoB_p.Lys446Thr,p.Lys446Thr,2) Assoc w R - Interim,761143,A,C,rpoB,p.K446T
+Rifampicin,rpoB_p.Lys446Thr,p.Lys446Thr,2) Assoc w R - Interim,761143,AG,CC,rpoB,p.K446T
+Rifampicin,rpoB_p.Lys446Thr,p.Lys446Thr,2) Assoc w R - Interim,761143,AG,CA,rpoB,p.K446T
+Rifampicin,rpoB_p.Lys446Thr,p.Lys446Thr,2) Assoc w R - Interim,761143,AG,CT,rpoB,p.K446T
+Rifampicin,rpoB_p.Met434Arg,p.Met434Arg,2) Assoc w R - Interim,761106,AT,CG,rpoB,p.M434R
+Rifampicin,rpoB_p.Met434Arg,p.Met434Arg,2) Assoc w R - Interim,761106,ATG,CGA,rpoB,p.M434R
+Rifampicin,rpoB_p.Met434Arg,p.Met434Arg,2) Assoc w R - Interim,761106,ATG,CGT,rpoB,p.M434R
+Rifampicin,rpoB_p.Met434Arg,p.Met434Arg,2) Assoc w R - Interim,761106,ATG,CGC,rpoB,p.M434R
+Rifampicin,rpoB_p.Met434Arg,p.Met434Arg,2) Assoc w R - Interim,761107,TG,GA,rpoB,p.M434R
+Rifampicin,rpoB_p.Met434Arg,p.Met434Arg,2) Assoc w R - Interim,761107,T,G,rpoB,p.M434R
+Rifampicin,rpoB_p.Met434Arg,p.Met434Arg,2) Assoc w R - Interim,761107,TGG,GGT,rpoB,p.M434R
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,G,T,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,G,C,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,G,A,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,GG,AT,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,GGA,TGG,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,GGACCAGA,CGCCAACT,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,GGA,AGG,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,GG,TT,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Ile,p.Met434Ile,2) Assoc w R - Interim,761108,GG,CT,rpoB,p.M434I
+Rifampicin,rpoB_p.Met434Leu,p.Met434Leu,2) Assoc w R - Interim,761106,ATG,CTT,rpoB,p.M434L
+Rifampicin,rpoB_p.Met434Leu,p.Met434Leu,2) Assoc w R - Interim,761106,ATG,TTA,rpoB,p.M434L
+Rifampicin,rpoB_p.Met434Leu,p.Met434Leu,2) Assoc w R - Interim,761106,ATG,CTC,rpoB,p.M434L
+Rifampicin,rpoB_p.Met434Leu,p.Met434Leu,2) Assoc w R - Interim,761106,ATG,CTA,rpoB,p.M434L
+Rifampicin,rpoB_p.Met434Leu,p.Met434Leu,2) Assoc w R - Interim,761106,A,T,rpoB,p.M434L
+Rifampicin,rpoB_p.Met434Leu,p.Met434Leu,2) Assoc w R - Interim,761106,A,C,rpoB,p.M434L
+Rifampicin,rpoB_p.Met434Thr,p.Met434Thr,2) Assoc w R - Interim,761107,TG,CA,rpoB,p.M434T
+Rifampicin,rpoB_p.Met434Thr,p.Met434Thr,2) Assoc w R - Interim,761107,TG,CT,rpoB,p.M434T
+Rifampicin,rpoB_p.Met434Thr,p.Met434Thr,2) Assoc w R - Interim,761107,TG,CC,rpoB,p.M434T
+Rifampicin,rpoB_p.Met434Thr,p.Met434Thr,2) Assoc w R - Interim,761107,TGGA,CGGG,rpoB,p.M434T
+Rifampicin,rpoB_p.Met434Thr,p.Met434Thr,2) Assoc w R - Interim,761107,T,C,rpoB,p.M434T
+Rifampicin,rpoB_p.Met434Val,p.Met434Val,2) Assoc w R - Interim,761106,A,G,rpoB,p.M434V
+Rifampicin,rpoB_p.Met434Val,p.Met434Val,2) Assoc w R - Interim,761106,ATG,GTT,rpoB,p.M434V
+Rifampicin,rpoB_p.Met434Val,p.Met434Val,2) Assoc w R - Interim,761106,ATG,GTA,rpoB,p.M434V
+Rifampicin,rpoB_p.Met434Val,p.Met434Val,2) Assoc w R - Interim,761106,ATG,GTC,rpoB,p.M434V
+Rifampicin,rpoB_p.Pro439Ala,p.Pro439Ala,2) Assoc w R - Interim,761121,CCG,GCC,rpoB,p.P439A
+Rifampicin,rpoB_p.Pro439Ala,p.Pro439Ala,2) Assoc w R - Interim,761121,C,G,rpoB,p.P439A
+Rifampicin,rpoB_p.Pro439Ala,p.Pro439Ala,2) Assoc w R - Interim,761121,CCG,GCA,rpoB,p.P439A
+Rifampicin,rpoB_p.Pro439Ala,p.Pro439Ala,2) Assoc w R - Interim,761121,CCG,GCT,rpoB,p.P439A
+Rifampicin,rpoB_p.Pro439Leu,p.Pro439Leu,2) Assoc w R - Interim,761121,CCG,TTA,rpoB,p.P439L
+Rifampicin,rpoB_p.Pro439Leu,p.Pro439Leu,2) Assoc w R - Interim,761121,CC,TT,rpoB,p.P439L
+Rifampicin,rpoB_p.Pro439Leu,p.Pro439Leu,2) Assoc w R - Interim,761122,C,T,rpoB,p.P439L
+Rifampicin,rpoB_p.Pro439Leu,p.Pro439Leu,2) Assoc w R - Interim,761122,CG,TT,rpoB,p.P439L
+Rifampicin,rpoB_p.Pro439Leu,p.Pro439Leu,2) Assoc w R - Interim,761122,CG,TA,rpoB,p.P439L
+Rifampicin,rpoB_p.Pro439Leu,p.Pro439Leu,2) Assoc w R - Interim,761122,CG,TC,rpoB,p.P439L
+Rifampicin,rpoB_p.Pro439Ser,p.Pro439Ser,2) Assoc w R - Interim,761121,CCG,TCA,rpoB,p.P439S
+Rifampicin,rpoB_p.Pro439Ser,p.Pro439Ser,2) Assoc w R - Interim,761121,CCG,AGT,rpoB,p.P439S
+Rifampicin,rpoB_p.Pro439Ser,p.Pro439Ser,2) Assoc w R - Interim,761121,CCG,TCC,rpoB,p.P439S
+Rifampicin,rpoB_p.Pro439Ser,p.Pro439Ser,2) Assoc w R - Interim,761121,CCG,TCT,rpoB,p.P439S
+Rifampicin,rpoB_p.Pro439Ser,p.Pro439Ser,2) Assoc w R - Interim,761121,C,T,rpoB,p.P439S
+Rifampicin,rpoB_p.Pro439Ser,p.Pro439Ser,2) Assoc w R - Interim,761121,CCG,AGC,rpoB,p.P439S
+Rifampicin,rpoB_p.Ser428Arg,p.Ser428Arg,2) Assoc w R - Interim,761088,AGC,CGT,rpoB,p.S428R
+Rifampicin,rpoB_p.Ser428Arg,p.Ser428Arg,2) Assoc w R - Interim,761088,AGC,CGA,rpoB,p.S428R
+Rifampicin,rpoB_p.Ser428Arg,p.Ser428Arg,2) Assoc w R - Interim,761088,A,C,rpoB,p.S428R
+Rifampicin,rpoB_p.Ser428Arg,p.Ser428Arg,2) Assoc w R - Interim,761088,AGC,CGG,rpoB,p.S428R
+Rifampicin,rpoB_p.Ser428Arg,p.Ser428Arg,2) Assoc w R - Interim,761090,C,G,rpoB,p.S428R
+Rifampicin,rpoB_p.Ser428Arg,p.Ser428Arg,2) Assoc w R - Interim,761090,C,A,rpoB,p.S428R
+Rifampicin,rpoB_p.Ser428Gly,p.Ser428Gly,2) Assoc w R - Interim,761088,AGC,GGG,rpoB,p.S428G
+Rifampicin,rpoB_p.Ser428Gly,p.Ser428Gly,2) Assoc w R - Interim,761088,A,G,rpoB,p.S428G
+Rifampicin,rpoB_p.Ser428Gly,p.Ser428Gly,2) Assoc w R - Interim,761088,AGC,GGA,rpoB,p.S428G
+Rifampicin,rpoB_p.Ser428Gly,p.Ser428Gly,2) Assoc w R - Interim,761088,AGC,GGT,rpoB,p.S428G
+Rifampicin,rpoB_p.Ser428Ile,p.Ser428Ile,2) Assoc w R - Interim,761089,GC,TA,rpoB,p.S428I
+Rifampicin,rpoB_p.Ser428Ile,p.Ser428Ile,2) Assoc w R - Interim,761089,G,T,rpoB,p.S428I
+Rifampicin,rpoB_p.Ser428Ile,p.Ser428Ile,2) Assoc w R - Interim,761089,GC,TT,rpoB,p.S428I
+Rifampicin,rpoB_p.Ser428Thr,p.Ser428Thr,2) Assoc w R - Interim,761089,GC,CG,rpoB,p.S428T
+Rifampicin,rpoB_p.Ser428Thr,p.Ser428Thr,2) Assoc w R - Interim,761089,GC,CT,rpoB,p.S428T
+Rifampicin,rpoB_p.Ser428Thr,p.Ser428Thr,2) Assoc w R - Interim,761089,GC,CA,rpoB,p.S428T
+Rifampicin,rpoB_p.Ser428Thr,p.Ser428Thr,2) Assoc w R - Interim,761089,G,C,rpoB,p.S428T
+Rifampicin,rpoB_p.Ser431Arg,p.Ser431Arg,2) Assoc w R - Interim,761097,AGC,CGG,rpoB,p.S431R
+Rifampicin,rpoB_p.Ser431Arg,p.Ser431Arg,2) Assoc w R - Interim,761097,A,C,rpoB,p.S431R
+Rifampicin,rpoB_p.Ser431Arg,p.Ser431Arg,2) Assoc w R - Interim,761097,AGC,CGT,rpoB,p.S431R
+Rifampicin,rpoB_p.Ser431Arg,p.Ser431Arg,2) Assoc w R - Interim,761097,AGC,CGA,rpoB,p.S431R
+Rifampicin,rpoB_p.Ser431Arg,p.Ser431Arg,2) Assoc w R - Interim,761099,C,A,rpoB,p.S431R
+Rifampicin,rpoB_p.Ser431Arg,p.Ser431Arg,2) Assoc w R - Interim,761099,C,G,rpoB,p.S431R
+Rifampicin,rpoB_p.Ser431Asn,p.Ser431Asn,2) Assoc w R - Interim,761098,GC,AT,rpoB,p.S431N
+Rifampicin,rpoB_p.Ser431Asn,p.Ser431Asn,2) Assoc w R - Interim,761098,G,A,rpoB,p.S431N
+Rifampicin,rpoB_p.Ser431Gly,p.Ser431Gly,2) Assoc w R - Interim,761095,TGA,CGG,rpoB,p.S431G
+Rifampicin,rpoB_p.Ser431Gly,p.Ser431Gly,2) Assoc w R - Interim,761097,AGC,GGT,rpoB,p.S431G
+Rifampicin,rpoB_p.Ser431Gly,p.Ser431Gly,2) Assoc w R - Interim,761097,A,G,rpoB,p.S431G
+Rifampicin,rpoB_p.Ser431Gly,p.Ser431Gly,2) Assoc w R - Interim,761097,AGC,GGG,rpoB,p.S431G
+Rifampicin,rpoB_p.Ser431Gly,p.Ser431Gly,2) Assoc w R - Interim,761097,AGC,GGA,rpoB,p.S431G
+Rifampicin,rpoB_p.Ser431Thr,p.Ser431Thr,2) Assoc w R - Interim,761095,TGAG,GGAC,rpoB,p.S431T
+Rifampicin,rpoB_p.Ser431Thr,p.Ser431Thr,2) Assoc w R - Interim,761095,TGAG,CGAC,rpoB,p.S431T
+Rifampicin,rpoB_p.Ser431Thr,p.Ser431Thr,2) Assoc w R - Interim,761098,GC,CT,rpoB,p.S431T
+Rifampicin,rpoB_p.Ser431Thr,p.Ser431Thr,2) Assoc w R - Interim,761098,G,C,rpoB,p.S431T
+Rifampicin,rpoB_p.Ser431Thr,p.Ser431Thr,2) Assoc w R - Interim,761098,GC,CA,rpoB,p.S431T
+Rifampicin,rpoB_p.Ser431Thr,p.Ser431Thr,2) Assoc w R - Interim,761098,GC,CG,rpoB,p.S431T
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761123,GCTGTCGGGGT,CCTCGCCGGCC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761124,CTGT,TTGG,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761126,GTCGGGGT,CGCCGGTC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761126,GT,CG,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761126,GTCGGGGT,CGCCGGCC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCGGGGT,GCCGGTC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCG,GCC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCGGGGT,GCCGGCC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCGGGG,GCTGGT,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCG,GCT,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCGGGGTTG,GCTGGACTT,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCGGGGT,GCAGGTC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCGGGG,GCCGGC,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,T,G,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCGGGGT,GCCGAGA,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Ala,p.Ser441Ala,2) Assoc w R - Interim,761127,TCG,GCA,rpoB,p.S441A
+Rifampicin,rpoB_p.Ser441Gln,p.Ser441Gln,1) Assoc w R,761127,TC,CA,rpoB,p.S441Q
+Rifampicin,rpoB_p.Ser441Gln,p.Ser441Gln,1) Assoc w R,761127,TCG,CAA,rpoB,p.S441Q
+Rifampicin,rpoB_p.Ser441Leu,p.Ser441Leu,1) Assoc w R,761127,TCG,CTT,rpoB,p.S441L
+Rifampicin,rpoB_p.Ser441Leu,p.Ser441Leu,1) Assoc w R,761127,TCG,CTC,rpoB,p.S441L
+Rifampicin,rpoB_p.Ser441Leu,p.Ser441Leu,1) Assoc w R,761127,TC,CT,rpoB,p.S441L
+Rifampicin,rpoB_p.Ser441Leu,p.Ser441Leu,1) Assoc w R,761127,TCG,CTA,rpoB,p.S441L
+Rifampicin,rpoB_p.Ser441Leu,p.Ser441Leu,1) Assoc w R,761128,C,T,rpoB,p.S441L
+Rifampicin,rpoB_p.Ser441Leu,p.Ser441Leu,1) Assoc w R,761128,CG,TA,rpoB,p.S441L
+Rifampicin,rpoB_p.Ser441Lys,p.Ser441Lys,2) Assoc w R - Interim,761127,TC,AA,rpoB,p.S441K
+Rifampicin,rpoB_p.Ser441Lys,p.Ser441Lys,2) Assoc w R - Interim,761127,TCG,AAA,rpoB,p.S441K
+Rifampicin,rpoB_p.Ser441Met,p.Ser441Met,2) Assoc w R - Interim,761127,TC,AT,rpoB,p.S441M
+Rifampicin,rpoB_p.Ser441Trp,p.Ser441Trp,2) Assoc w R - Interim,761128,C,G,rpoB,p.S441W
+Rifampicin,rpoB_p.Ser441Val,p.Ser441Val,2) Assoc w R - Interim,761127,TCG,GTT,rpoB,p.S441V
+Rifampicin,rpoB_p.Ser441Val,p.Ser441Val,2) Assoc w R - Interim,761127,TCG,GTA,rpoB,p.S441V
+Rifampicin,rpoB_p.Ser441Val,p.Ser441Val,2) Assoc w R - Interim,761127,TCG,GTC,rpoB,p.S441V
+Rifampicin,rpoB_p.Ser441Val,p.Ser441Val,2) Assoc w R - Interim,761127,TC,GT,rpoB,p.S441V
+Rifampicin,rpoB_p.Ser450Ala,p.Ser450Ala,2) Assoc w R - Interim,761154,TCG,GCT,rpoB,p.S450A
+Rifampicin,rpoB_p.Ser450Ala,p.Ser450Ala,2) Assoc w R - Interim,761154,T,G,rpoB,p.S450A
+Rifampicin,rpoB_p.Ser450Ala,p.Ser450Ala,2) Assoc w R - Interim,761154,TCG,GCA,rpoB,p.S450A
+Rifampicin,rpoB_p.Ser450Ala,p.Ser450Ala,2) Assoc w R - Interim,761154,TCG,GCC,rpoB,p.S450A
+Rifampicin,rpoB_p.Ser450Cys,p.Ser450Cys,2) Assoc w R - Interim,761155,CG,GC,rpoB,p.S450C
+Rifampicin,rpoB_p.Ser450Cys,p.Ser450Cys,2) Assoc w R - Interim,761155,CG,GT,rpoB,p.S450C
+Rifampicin,rpoB_p.Ser450Gln,p.Ser450Gln,2) Assoc w R - Interim,761154,TCGGC,CAGGG,rpoB,p.S450Q
+Rifampicin,rpoB_p.Ser450Gln,p.Ser450Gln,2) Assoc w R - Interim,761154,TCG,CAA,rpoB,p.S450Q
+Rifampicin,rpoB_p.Ser450Gln,p.Ser450Gln,2) Assoc w R - Interim,761154,TC,CA,rpoB,p.S450Q
+Rifampicin,rpoB_p.Ser450Gly,p.Ser450Gly,2) Assoc w R - Interim,761154,TCG,GGT,rpoB,p.S450G
+Rifampicin,rpoB_p.Ser450Gly,p.Ser450Gly,2) Assoc w R - Interim,761154,TCG,GGC,rpoB,p.S450G
+Rifampicin,rpoB_p.Ser450Gly,p.Ser450Gly,2) Assoc w R - Interim,761154,TC,GG,rpoB,p.S450G
+Rifampicin,rpoB_p.Ser450Gly,p.Ser450Gly,2) Assoc w R - Interim,761154,TCG,GGA,rpoB,p.S450G
+Rifampicin,rpoB_p.Ser450Leu,p.Ser450Leu,1) Assoc w R,761154,TCG,CTT,rpoB,p.S450L
+Rifampicin,rpoB_p.Ser450Leu,p.Ser450Leu,1) Assoc w R,761154,TC,CT,rpoB,p.S450L
+Rifampicin,rpoB_p.Ser450Leu,p.Ser450Leu,1) Assoc w R,761154,TCG,CTA,rpoB,p.S450L
+Rifampicin,rpoB_p.Ser450Leu,p.Ser450Leu,1) Assoc w R,761154,TCG,CTC,rpoB,p.S450L
+Rifampicin,rpoB_p.Ser450Leu,p.Ser450Leu,1) Assoc w R,761155,CG,TA,rpoB,p.S450L
+Rifampicin,rpoB_p.Ser450Leu,p.Ser450Leu,1) Assoc w R,761155,C,T,rpoB,p.S450L
+Rifampicin,rpoB_p.Ser450Leu,p.Ser450Leu,1) Assoc w R,761155,CGGCGCTGGGG,TGGGCCTTGGT,rpoB,p.S450L
+Rifampicin,rpoB_p.Ser450Met,p.Ser450Met,2) Assoc w R - Interim,761154,TC,AT,rpoB,p.S450M
+Rifampicin,rpoB_p.Ser450Phe,p.Ser450Phe,1) Assoc w R,761153,GTCG,CTTT,rpoB,p.S450F
+Rifampicin,rpoB_p.Ser450Phe,p.Ser450Phe,1) Assoc w R,761155,CG,TC,rpoB,p.S450F
+Rifampicin,rpoB_p.Ser450Phe,p.Ser450Phe,1) Assoc w R,761155,CG,TT,rpoB,p.S450F
+Rifampicin,rpoB_p.Ser450Trp,p.Ser450Trp,1) Assoc w R,761155,C,G,rpoB,p.S450W
+Rifampicin,rpoB_p.Ser450Tyr,p.Ser450Tyr,1) Assoc w R,761155,CG,AT,rpoB,p.S450Y
+Rifampicin,rpoB_p.Ser450Tyr,p.Ser450Tyr,1) Assoc w R,761155,CG,AC,rpoB,p.S450Y
+Rifampicin,rpoB_p.Ser450Val,p.Ser450Val,2) Assoc w R - Interim,761154,TC,GT,rpoB,p.S450V
+Rifampicin,rpoB_p.Ser450Val,p.Ser450Val,2) Assoc w R - Interim,761154,TCG,GTA,rpoB,p.S450V
+Rifampicin,rpoB_p.Ser450Val,p.Ser450Val,2) Assoc w R - Interim,761154,TCG,GTT,rpoB,p.S450V
+Rifampicin,rpoB_p.Ser450Val,p.Ser450Val,2) Assoc w R - Interim,761154,TCG,GTC,rpoB,p.S450V
+Rifampicin,rpoB_p.Thr427Ala,p.Thr427Ala,2) Assoc w R - Interim,761085,ACC,GCG,rpoB,p.T427A
+Rifampicin,rpoB_p.Thr427Ala,p.Thr427Ala,2) Assoc w R - Interim,761085,A,G,rpoB,p.T427A
+Rifampicin,rpoB_p.Thr427Ala,p.Thr427Ala,2) Assoc w R - Interim,761085,ACC,GCA,rpoB,p.T427A
+Rifampicin,rpoB_p.Thr427Ala,p.Thr427Ala,2) Assoc w R - Interim,761085,ACC,GCT,rpoB,p.T427A
+Rifampicin,rpoB_p.Thr427Asn,p.Thr427Asn,2) Assoc w R - Interim,761086,CC,AT,rpoB,p.T427N
+Rifampicin,rpoB_p.Thr427Asn,p.Thr427Asn,2) Assoc w R - Interim,761086,C,A,rpoB,p.T427N
+Rifampicin,rpoB_p.Thr427Gly,p.Thr427Gly,2) Assoc w R - Interim,761085,ACC,GGG,rpoB,p.T427G
+Rifampicin,rpoB_p.Thr427Gly,p.Thr427Gly,2) Assoc w R - Interim,761085,ACC,GGT,rpoB,p.T427G
+Rifampicin,rpoB_p.Thr427Gly,p.Thr427Gly,2) Assoc w R - Interim,761085,ACC,GGA,rpoB,p.T427G
+Rifampicin,rpoB_p.Thr427Gly,p.Thr427Gly,2) Assoc w R - Interim,761085,AC,GG,rpoB,p.T427G
+Rifampicin,rpoB_p.Thr427Ile,p.Thr427Ile,2) Assoc w R - Interim,761086,CC,TA,rpoB,p.T427I
+Rifampicin,rpoB_p.Thr427Ile,p.Thr427Ile,2) Assoc w R - Interim,761086,CC,TT,rpoB,p.T427I
+Rifampicin,rpoB_p.Thr427Ile,p.Thr427Ile,2) Assoc w R - Interim,761086,C,T,rpoB,p.T427I
+Rifampicin,rpoB_p.Thr427Pro,p.Thr427Pro,2) Assoc w R - Interim,761085,ACC,CCA,rpoB,p.T427P
+Rifampicin,rpoB_p.Thr427Pro,p.Thr427Pro,2) Assoc w R - Interim,761085,A,C,rpoB,p.T427P
+Rifampicin,rpoB_p.Thr427Pro,p.Thr427Pro,2) Assoc w R - Interim,761085,ACC,CCG,rpoB,p.T427P
+Rifampicin,rpoB_p.Thr427Pro,p.Thr427Pro,2) Assoc w R - Interim,761085,ACC,CCT,rpoB,p.T427P
+Rifampicin,rpoB_p.Thr427Ser,p.Thr427Ser,2) Assoc w R - Interim,761085,ACC,TCT,rpoB,p.T427S
+Rifampicin,rpoB_p.Thr427Ser,p.Thr427Ser,2) Assoc w R - Interim,761085,ACC,TCA,rpoB,p.T427S
+Rifampicin,rpoB_p.Thr427Ser,p.Thr427Ser,2) Assoc w R - Interim,761085,A,T,rpoB,p.T427S
+Rifampicin,rpoB_p.Thr427Ser,p.Thr427Ser,2) Assoc w R - Interim,761085,ACC,TCG,rpoB,p.T427S
+Rifampicin,rpoB_p.Thr427Ser,p.Thr427Ser,2) Assoc w R - Interim,761086,CC,GT,rpoB,p.T427S
+Rifampicin,rpoB_p.Thr427Ser,p.Thr427Ser,2) Assoc w R - Interim,761086,C,G,rpoB,p.T427S
+Rifampicin,rpoB_p.Thr444Ile,p.Thr444Ile,2) Assoc w R - Interim,761137,CC,TT,rpoB,p.T444I
+Rifampicin,rpoB_p.Thr444Ile,p.Thr444Ile,2) Assoc w R - Interim,761137,C,T,rpoB,p.T444I
+Rifampicin,rpoB_p.Thr444Ile,p.Thr444Ile,2) Assoc w R - Interim,761137,CC,TA,rpoB,p.T444I
+Rifampicin,rpoB_p.Thr444Pro,p.Thr444Pro,2) Assoc w R - Interim,761134,TGA,GGC,rpoB,p.T444P
+Rifampicin,rpoB_p.Thr444Pro,p.Thr444Pro,2) Assoc w R - Interim,761136,ACC,CCG,rpoB,p.T444P
+Rifampicin,rpoB_p.Thr444Pro,p.Thr444Pro,2) Assoc w R - Interim,761136,A,C,rpoB,p.T444P
+Rifampicin,rpoB_p.Thr444Pro,p.Thr444Pro,2) Assoc w R - Interim,761136,ACC,CCT,rpoB,p.T444P
+Rifampicin,rpoB_p.Thr444Pro,p.Thr444Pro,2) Assoc w R - Interim,761136,ACC,CCA,rpoB,p.T444P
+Rifampicin,rpoB_p.Thr444Ser,p.Thr444Ser,2) Assoc w R - Interim,761136,ACC,TCA,rpoB,p.T444S
+Rifampicin,rpoB_p.Thr444Ser,p.Thr444Ser,2) Assoc w R - Interim,761136,A,T,rpoB,p.T444S
+Rifampicin,rpoB_p.Thr444Ser,p.Thr444Ser,2) Assoc w R - Interim,761136,ACC,TCT,rpoB,p.T444S
+Rifampicin,rpoB_p.Thr444Ser,p.Thr444Ser,2) Assoc w R - Interim,761136,ACC,TCG,rpoB,p.T444S
+Rifampicin,rpoB_p.Thr444Ser,p.Thr444Ser,2) Assoc w R - Interim,761137,CC,GT,rpoB,p.T444S
+Rifampicin,rpoB_p.Thr444Ser,p.Thr444Ser,2) Assoc w R - Interim,761137,C,G,rpoB,p.T444S
+Rifampicin,rpoB_p.Val170Phe,p.Val170Phe,1) Assoc w R,760314,GTC,TTT,rpoB,p.V170F
+Rifampicin,rpoB_p.Val170Phe,p.Val170Phe,1) Assoc w R,760314,G,T,rpoB,p.V170F
+Streptomycin,gid_p.Ala134Glu,p.Ala134Glu,1) Assoc w R,4407801,CG,TT,gid,p.A134E
+Streptomycin,gid_p.Ala134Glu,p.Ala134Glu,1) Assoc w R,4407802,G,T,gid,p.A134E
+Streptomycin,gid_p.Ala200Glu,p.Ala200Glu,1) Assoc w R,4407603,CG,TT,gid,p.A200E
+Streptomycin,gid_p.Ala200Glu,p.Ala200Glu,1) Assoc w R,4407604,G,T,gid,p.A200E
+Streptomycin,gid_p.Asp67His,p.Asp67His,2) Assoc w R - Interim,4408002,ATC,GTG,gid,p.D67H
+Streptomycin,gid_p.Asp67His,p.Asp67His,2) Assoc w R - Interim,4408004,C,G,gid,p.D67H
+Streptomycin,gid_p.Gly73Ala,p.Gly73Ala,2) Assoc w R - Interim,4407984,CC,AG,gid,p.G73A
+Streptomycin,gid_p.Gly73Ala,p.Gly73Ala,2) Assoc w R - Interim,4407984,CC,TG,gid,p.G73A
+Streptomycin,gid_p.Gly73Ala,p.Gly73Ala,2) Assoc w R - Interim,4407984,CC,GG,gid,p.G73A
+Streptomycin,gid_p.Gly73Ala,p.Gly73Ala,2) Assoc w R - Interim,4407985,C,G,gid,p.G73A
+Streptomycin,gid_p.Gly73Glu,p.Gly73Glu,1) Assoc w R,4407984,CC,TT,gid,p.G73E
+Streptomycin,gid_p.Gly73Glu,p.Gly73Glu,1) Assoc w R,4407985,C,T,gid,p.G73E
+Streptomycin,gid_p.His48Gln,p.His48Gln,1) Assoc w R,4408059,A,T,gid,p.H48Q
+Streptomycin,gid_p.His48Gln,p.His48Gln,1) Assoc w R,4408059,A,C,gid,p.H48Q
+Streptomycin,gid_p.Pro84Leu,p.Pro84Leu,2) Assoc w R - Interim,4407951,CG,AA,gid,p.P84L
+Streptomycin,gid_p.Pro84Leu,p.Pro84Leu,2) Assoc w R - Interim,4407951,CG,GA,gid,p.P84L
+Streptomycin,gid_p.Pro84Leu,p.Pro84Leu,2) Assoc w R - Interim,4407951,CGG,TAA,gid,p.P84L
+Streptomycin,gid_p.Pro84Leu,p.Pro84Leu,2) Assoc w R - Interim,4407951,CG,TA,gid,p.P84L
+Streptomycin,gid_p.Pro84Leu,p.Pro84Leu,2) Assoc w R - Interim,4407952,GG,AA,gid,p.P84L
+Streptomycin,gid_p.Pro84Leu,p.Pro84Leu,2) Assoc w R - Interim,4407952,G,A,gid,p.P84L
+Streptomycin,gid_p.Ser70Asn,p.Ser70Asn,1) Assoc w R,4407993,GC,AT,gid,p.S70N
+Streptomycin,gid_p.Ser70Asn,p.Ser70Asn,1) Assoc w R,4407994,C,T,gid,p.S70N
+Streptomycin,gid_p.Val105Glu,p.Val105Glu,1) Assoc w R,4407888,CA,TT,gid,p.V105E
+Streptomycin,gid_p.Val105Glu,p.Val105Glu,1) Assoc w R,4407889,A,T,gid,p.V105E
+Streptomycin,rpsL_p.Lys43Arg,p.Lys43Arg,1) Assoc w R,781682,TCCGAA,GCCCAG,rpsL,p.K43R
+Streptomycin,rpsL_p.Lys43Arg,p.Lys43Arg,1) Assoc w R,781686,AA,CG,rpsL,p.K43R
+Streptomycin,rpsL_p.Lys43Arg,p.Lys43Arg,1) Assoc w R,781686,AAG,CGC,rpsL,p.K43R
+Streptomycin,rpsL_p.Lys43Arg,p.Lys43Arg,1) Assoc w R,781686,AAG,CGT,rpsL,p.K43R
+Streptomycin,rpsL_p.Lys43Arg,p.Lys43Arg,1) Assoc w R,781686,AAG,CGA,rpsL,p.K43R
+Streptomycin,rpsL_p.Lys43Arg,p.Lys43Arg,1) Assoc w R,781687,A,G,rpsL,p.K43R
+Streptomycin,rpsL_p.Lys43Arg,p.Lys43Arg,1) Assoc w R,781687,AG,GA,rpsL,p.K43R
+Streptomycin,rpsL_p.Lys88Arg,p.Lys88Arg,1) Assoc w R,781821,AAG,CGC,rpsL,p.K88R
+Streptomycin,rpsL_p.Lys88Arg,p.Lys88Arg,1) Assoc w R,781821,AAG,CGT,rpsL,p.K88R
+Streptomycin,rpsL_p.Lys88Arg,p.Lys88Arg,1) Assoc w R,781821,AA,CG,rpsL,p.K88R
+Streptomycin,rpsL_p.Lys88Arg,p.Lys88Arg,1) Assoc w R,781821,AAG,CGA,rpsL,p.K88R
+Streptomycin,rpsL_p.Lys88Arg,p.Lys88Arg,1) Assoc w R,781822,AG,GA,rpsL,p.K88R
+Streptomycin,rpsL_p.Lys88Arg,p.Lys88Arg,1) Assoc w R,781822,A,G,rpsL,p.K88R
+Streptomycin,rpsL_p.Lys88Gln,p.Lys88Gln,2) Assoc w R - Interim,781821,A,C,rpsL,p.K88Q
+Streptomycin,rpsL_p.Lys88Gln,p.Lys88Gln,2) Assoc w R - Interim,781821,AAG,CAA,rpsL,p.K88Q
+Streptomycin,rpsL_p.Lys88Met,p.Lys88Met,1) Assoc w R,781822,A,T,rpsL,p.K88M
