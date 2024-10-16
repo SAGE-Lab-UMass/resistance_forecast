@@ -47,7 +47,10 @@ These features provide a comprehensive view of how each mutation may affect the 
 
 # Protein Mutation Data Preparation
 
-This repository contains scripts for preparing mutation-related data, calculating feature values, and generating derived datasets for analyzing antibiotic resistance in *Mycobacterium tuberculosis*. The primary focus is to convert mutation information, process protein sequences, calculate multiple biological features, and output relevant data for further analysis.
+This repository contains scripts for preparing mutation-related data, calculating feature values, and generating derived datasets for analyzing antibiotic resistance in *Mycobacterium tuberculosis*. The primary focus is to convert mutation information, process protein sequences, calculate multiple biological features, and output relevant data for further analysis. The data preparation steps for this project can be found in the [forecast_data_preparation.ipynb](forecast_data_preparation.ipynb) file. This notebook walks through the steps of generating the mutation data, processing protein sequences, and computing the features used in the prediction model.
+
+<details>
+  <summary>Click to expand for detailed data preparation steps</summary>
 
 ## Folder Structure
 
@@ -118,13 +121,15 @@ This repository contains scripts for preparing mutation-related data, calculatin
 - **all_proteins_freq_details_proximity_aaindex.csv**: Mutation data enriched with amino acid index distances.
 - **all_proteins_freq_details_proximity_aaindex_llr.csv**: Mutation data with LLR scores.
 - **{gene_name}_thermostability.csv**: Gene-specific data with thermostability scores.
-
+</details>
 
 
 
 # Random Forest Classification on Mutation Data
 
-This repository contains a Random Forest classifier implementation to predict antibiotic resistance phenotypes in *Mycobacterium tuberculosis* based on various mutation-related features. The script processes previously prepared datasets, trains a model, and evaluates its performance using several metrics, including accuracy, feature importance, confusion matrix, and ROC curve.
+This repository contains a Random Forest classifier implementation to predict antibiotic resistance phenotypes in *Mycobacterium tuberculosis* based on various mutation-related features. The script processes previously prepared datasets, trains a model, and evaluates its performance using several metrics, including accuracy, feature importance, confusion matrix, and ROC curve. The implemented code can be found in the [random_forest.ipynb](random_forest.ipynb) file. 
+<details>
+  <summary>Click to expand for detailed training and classification steps. </summary>
 
 ## Prerequisites
 
@@ -233,6 +238,8 @@ resampled_df = filtered_data.sample(n=len(filtered_data),
 ## Additional Features
 
 - **Thermostability Feature Integration**: The model can include a sixth feature, `thermostability`, derived from Rosetta-based protein stability scores.
+</details>
+
 
 ## Contact
 
