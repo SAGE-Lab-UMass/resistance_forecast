@@ -21,10 +21,10 @@ def get_embedding(sequence):
     return token_embeddings.mean(axis=1)
 
 # Directory containing the FASTA files
-fasta_dir = '/work/pi_annagreen_umass_edu/mahbuba/phenotype_prediction/resistance_forecast/mutated_sequences'
+fasta_dir = '/work/pi_annagreen_umass_edu/mahbuba/resistance_forecast/mutated_sequences'
 
 # Output CSV file
-output_file = '/work/pi_annagreen_umass_edu/mahbuba/phenotype_prediction/resistance_forecast/delta_z_values.csv'
+output_file = '/work/pi_annagreen_umass_edu/mahbuba/resistance_forecast/data/delta_z_values.csv'
 
 # Initialize the results list
 results = []
@@ -34,9 +34,11 @@ for fasta_file in os.listdir(fasta_dir):
     if fasta_file.endswith('.fasta'):
         file_path = os.path.join(fasta_dir, fasta_file)
         records = list(SeqIO.parse(file_path, "fasta"))
+        print("loaded file: ", file_path)
         
         # Extract RV and gene names from the file name
         rv_id, gene_name = fasta_file.replace('.fasta', '').split('_')
+        print("continue")
         
         # Find the wildtype sequence
         wildtype_record = None

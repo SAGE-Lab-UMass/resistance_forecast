@@ -21,7 +21,7 @@ def convert_three_to_one(mutation):
 
 
 # Load the mutations CSV
-mutations_df = pd.read_csv('/work/pi_annagreen_umass_edu/mahbuba/phenotype_prediction/data/WHO_resistance_variants_high_confidence_2023.csv')
+mutations_df = pd.read_csv('/work/pi_annagreen_umass_edu/mahbuba/phenotype_prediction/data/updated_high_confidence_catalog.csv')
 
 # Apply the conversion
 mutations_df['one_letter_mutation'] = mutations_df['mutation'].apply(convert_three_to_one)
@@ -30,6 +30,6 @@ mutations_df['one_letter_mutation'] = mutations_df['mutation'].apply(convert_thr
 mutations_df = mutations_df.dropna(subset=['one_letter_mutation'])
 
 # Save the updated DataFrame
-mutations_df.to_csv('mutations_with_one_letter.csv', index=False)
+mutations_df.to_csv('mutations_with_one_letter_all.csv', index=False)
 
 print(mutations_df[['mutation', 'one_letter_mutation']])

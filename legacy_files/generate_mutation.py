@@ -3,11 +3,11 @@ import pandas as pd
 import os
 
 # Read the CSV files
-protein_sequences_df = pd.read_csv('/work/pi_annagreen_umass_edu/mahbuba/phenotype_prediction/resistance_forecast/protein_sequences.csv')
-mutations_df = pd.read_csv('/work/pi_annagreen_umass_edu/mahbuba/phenotype_prediction/resistance_forecast/mutations_with_one_letter.csv')
+protein_sequences_df = pd.read_csv('/work/pi_annagreen_umass_edu/mahbuba/resistance_forecast/data/protein_sequences.csv')
+mutations_df = pd.read_csv('/work/pi_annagreen_umass_edu/mahbuba/resistance_forecast/data/mutations_with_one_letter_all.csv')
 
 # Output directory
-output_dir = '/work/pi_annagreen_umass_edu/mahbuba/phenotype_prediction/resistance_forecast/mutated_sequences'
+output_dir = '/work/pi_annagreen_umass_edu/mahbuba/resistance_forecast/mutated_sequences'
 
 # Ensure the output directory exists
 os.makedirs(output_dir, exist_ok=True)
