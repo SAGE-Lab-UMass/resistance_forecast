@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.fasta
+# *.fasta
 # C extensions
 *.so
 *.md
@@ -13,9 +13,9 @@ __pycache__/
 *.fa
 *.pdb 
 *.a2m
-*.csv
+# *.csv
 *.npy
-*.xlsx
+# *.xlsx
 *.pkl
 # *.fasta
 # Distribution / packaging
@@ -91,7 +91,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb
 
 # IPython
 profile_default/
