@@ -165,20 +165,20 @@ Install all at once:
 pip install -r requirements.txt
 ```
 
----
+
 
 ##  Contact
 
 For questions or collaborations, please reach out to:
  **[mtasmin@umass.edu](mailto:mtasmin@umass.edu)**
 
----
 
-##  Citation
+
+<!-- ##  Citation
 
 If you use this repository or dataset, please cite:
 
-> Tasmin, M. et al. *Resistance Forecast: Structure-Informed Prediction of Antibiotic Resistance in Mycobacterium tuberculosis* (2025, in prep.)
+> Tasmin, M. et al. *Resistance Forecast: Structure-Informed Prediction of Antibiotic Resistance in Mycobacterium tuberculosis* (2025, in prep.) -->
 
 
 
