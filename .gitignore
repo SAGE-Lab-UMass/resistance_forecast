@@ -150,7 +150,15 @@ dmypy.json
 # data
 data/alignment
 data/clustering
-
+data/pdb
+data/Rosetta
+data/distmaps
+data/derived_features/2021/rosetta
+data/derived_features/2023/rosetta
+legacy_files
+mutated_sequences
+mutated_sequences_2021
+mutated_sequences_2023
 Anna
 # mutated_sequences
 
