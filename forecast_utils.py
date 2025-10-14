@@ -459,6 +459,7 @@ class ProximityTools:
 
         # Zeroing rule
         final_df["Proximity_to_R_Conferring_zeroed"] = final_df["Proximity_to_R_Conferring"]
+        final_df = final_df.sort_values(["drug", "gene", "position", "confidence"])
         for (gene, drug), idxs in final_df.groupby(["gene","drug"]).groups.items():
             sub = final_df.loc[idxs]
             for pos, pidxs in sub.groupby("position").groups.items():
