@@ -46,12 +46,3 @@ Then run the notebooks in this order:
 1. `forecast_data_preparation_combined.ipynb`
 2. `model_essential_nonessential_combined.ipynb`
 
-## Notes on the final workflow
-
-The release version preserves the key fixes introduced in the isolated review run:
-
-- holdout and Category-3 evaluation thresholds are derived from training data only
-- cross-validation no longer tunes thresholds on fold test labels
-- path detection is portable and no longer depends on hardcoded absolute paths
-- essential/nonessential evaluation subsets are derived from training-supported genes
-- the ESM contribution utilities include the residue-indexing and empty-array guards used in the final analysis
