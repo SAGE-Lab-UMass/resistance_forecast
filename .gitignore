@@ -1,34 +1,30 @@
-# Byte-compiled / optimized / DLL files
+# Python bytecode and caches
 __pycache__/
 *.py[cod]
 *$py.class
-# *.fasta
-# C extensions
+
+# Compiled extensions and binary blobs
 *.so
-# *.md
-*.png
-# *.fasta
-*.pt
-*.sh
-*.fa
-*.pdb 
-*.a2m
-*.csv
-*.pdf
-*.tex
-*.npy
-# *.xlsx
 *.pkl
-# *.fasta
-# Distribution / packaging
+*.pt
 
-
+# Virtual environments and local Python config
 .Python
+.python-version
+.env
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+__pypackages__/
+
+# Packaging / build artifacts
 build/
-develop-eggs/
 dist/
 downloads/
-eggs/
+egss/
 .eggs/
 lib/
 lib64/
@@ -43,17 +39,11 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
-
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Test / coverage / type-checker caches
 htmlcov/
 .tox/
 .nox/
@@ -66,118 +56,55 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
-
-# Translations
-*.mo
-*.pot
-
-# tf events
-events.out.tfevents.*
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-# *.ipynb
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-
-
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
-# Pyre type checker
 .pyre/
-# runs
-# data
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# OS / editor cruft
+.DS_Store
+.spyderproject
+.spyproject
+.ropeproject
+
+# Logs and local runtime files
+*.log
+celerybeat-schedule
+celerybeat.pid
+instance/
+.webassets-cache/
+.scrapy/
+docs/_build/
+site/
+
+# Framework-specific local files
+db.sqlite3
+db.sqlite3-journal
+local_settings.py
+
+# Project-specific generated outputs
+results/
+fixed_review_run/fixed_review_run/results/
+
+# Project-specific generated intermediate data
+fixed_review_run/data/derived_features/
+fixed_review_run/mutated_sequences_2021/
+fixed_review_run/mutated_sequences_2023/
+
+# Older generated / exploratory directories that should stay local
+Anna/
+legacy_files/
+fixed_review_run/images/
+
+# Optional local working directories
+misc/
 data/alignment
-data/clustering
-data/pdb
-data/Rosetta
-data/distmaps
-data/derived_features/2021/rosetta
-data/derived_features/2023/rosetta
-legacy_files
-mutated_sequences
-mutated_sequences_2021
-mutated_sequences_2023
-results/error_analysis
-results/incorrect_predictions
-results/training_predictions
-Anna
-# mutated_sequences
-
+*.tex
 fixed_review_run
-
-# task
-# pretrained_models
-# projects/mmfusion_*
-# log_test
-# third-party
-# python_log
-# slurm_snapshot_code
-# lightning_logs
-# demos
-# mtm
+*.pdf
+*.csv
