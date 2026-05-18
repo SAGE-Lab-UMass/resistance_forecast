@@ -5,7 +5,7 @@ __pycache__/
 # *.fasta
 # C extensions
 *.so
-*.md
+# *.md
 *.png
 # *.fasta
 *.pt
@@ -13,12 +13,16 @@ __pycache__/
 *.fa
 *.pdb 
 *.a2m
-# *.csv
+*.csv
+*.pdf
+*.tex
 *.npy
 # *.xlsx
 *.pkl
 # *.fasta
 # Distribution / packaging
+
+
 .Python
 build/
 develop-eggs/
@@ -164,6 +168,8 @@ results/incorrect_predictions
 results/training_predictions
 Anna
 # mutated_sequences
+
+fixed_review_run
 
 # task
 # pretrained_models
