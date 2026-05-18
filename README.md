@@ -1,186 +1,147 @@
-# Resistance Forecast in *Mycobacterium tuberculosis* Antibiotics
+# Resistance Forecasting in *Mycobacterium tuberculosis*
 
-This repository contains data preparation and machine learning workflows for predicting the confidence level of antibiotic resistance–associated mutations in *Mycobacterium tuberculosis* (M. tuberculosis). By integrating biological, structural, and protein language model–derived features, this project aims to classify uncertain mutations based on their likelihood of conferring drug resistance.
+This repository contains the data preparation, multimodal feature engineering, and model-training workflows used to forecast antibiotic resistance-associated missense variants in *Mycobacterium tuberculosis*.
 
----
+The central goal of the project is to prioritize WHO catalogue variants of uncertain significance by asking a temporally realistic question: can a model trained on the 2021 WHO mutation catalogue identify uncertain variants that later become recognized as resistance-associated in the 2023 catalogue, and can that same model be deployed to prioritize the remaining 2023 uncertain variants for follow-up?
 
-##  Objective
+The workflow combines structural context, Rosetta-derived energetics, AAIndex-based physicochemical descriptors, and ESM-2 sequence likelihood features to model distinct mutational regimes across essential, nonessential, and combined gene sets.
 
-The primary goal is to predict the **confidence category** for mutations in *M. tuberculosis* genes labeled as having “uncertain significance” in the WHO 2021 catalogue and verify with the updated confidence categories from the WHO 2023 catalogue. These categories reflect the strength of evidence linking a mutation to antibiotic resistance:
+## Project overview
+
+The repository currently contains two layers:
+
+1. the broader project history (`Comparison_Model`, `legacy_files`, earlier exploratory assets), and
+2. a cleaned release package under `paper_release/` containing the final manuscript-facing code and data resources.
+
+If you are using this repository for reproduction of the manuscript analyses, start with `paper_release/`.
+
+## Scientific objective
+
+The primary analysis focuses on WHO resistance confidence categories:
 
 | Category | Description |
-|-----------|--------------|
+|----------|-------------|
 | **1** | Associated with resistance |
-| **2** | Associated with resistance – interim |
+| **2** | Associated with resistance -- interim |
 | **3** | Uncertain significance |
-| **4** | Not associated with resistance – interim |
+| **4** | Not associated with resistance -- interim |
 | **5** | Not associated with resistance |
 
+The main forecasting workflow:
+- trains on 2021 known-effect variants (Categories 1/2 as resistant and 4/5 as susceptible),
+- evaluates retrospectively on the subset of 2021 Category 3 variants that were reclassified in 2023, and
+- deploys the frozen Combined model to all feature-complete 2023 uncertain-significance variants.
 
+## Feature representation
 
-##  Dataset Overview
+Each missense variant is represented using a multimodal feature set that combines:
 
-- Mutations from **17 essential genes** involved in *M. tuberculosis* resistance mechanisms  
-- Total # mutations (WHO 2021): **4,709**
-- Category 3 (“Uncertain”) mutations dominate the dataset and form the **test set** for model inference.
+- **Structural context**: three-dimensional proximity to known resistance-associated positions
+- **Rosetta energetics**: mutation-associated energy and stability terms
+- **Expanded ESM-2 likelihood features**: sequence-context plausibility from a protein language model
+- **AAIndex descriptors**: reduced physicochemical encoding of the mutant residue
 
+These features are used to capture different biological resistance regimes, including structurally constrained target-gene mutations and broader disruption-like mutational patterns in nonessential or accessory genes.
 
+## Repository structure
 
-##  Features Used
-
-Each mutation is represented by a set of biologically and structurally meaningful features:
-
-| Feature | Description |
-|----------|--------------|
-| **Proximity (3D)** | Structural distance to nearest resistance-conferring mutation |
-| **Thermostability (Rosetta)** | Predicted change in protein stability upon mutation |
-| **Log-Likelihood Ratio (LLR)** | Change in per-residue log probability from ESM2 |
-| **AAIndex (PCA Distance)** | Biochemical/physicochemical distance between wildtype and mutant amino acids |
-
-These features are derived from multi-source biological data including Rosetta simulations, WHO catalogs, and pretrained ESM2 embeddings.
-
-##  Repository Structure
-
-```
-
-RESISTANCE_FORECAST/
-│
-├── data/                      # Raw and processed datasets (WHO, embeddings, Rosetta outputs)
-├── results/                   # Model outputs, predictions, plots
-├── Comparison_Model/           # Stat models 
-├── legacy_files/               # Previous versions of notebooks/scripts
-│
-├── forecast_data_preparation_combined.ipynb   # End-to-end data preprocessing and feature computation
-├── model_essential_nonessential_combined.ipynb # Random Forest model for essential/nonessential genes
-├── forecast_utils.py           # Shared utility functions (feature merging, sampling, scaling, etc.)
-├── mycobrowser.py              # Module for fetching sequence and gene metadata from Mycobrowser
-│
+```text
+resistance_forecast/
+├── Comparison_Model/                # Alternative statistical-model analyses
+├── data/                            # Project-level source data and legacy resource store
+├── paper_release/                   # Final manuscript-facing code and curated data package
+│   ├── forecast_data_preparation_combined.ipynb
+│   ├── model_essential_nonessential_combined.ipynb
+│   ├── forecast_utils.py
+│   ├── requirements.txt
+│   ├── scripts/
+│   ├── source_data/
+│   │   ├── catalog/
+│   │   ├── derived_features/
+│   │   └── distmaps/
+│   └── supplementary_data/
+├── legacy_files/                    # Earlier notebooks and superseded scripts
+├── mycobrowser.py                   # Helper for Mycobrowser-derived metadata
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
+```
 
-````
+## Recommended entry point
 
+Use the `paper_release/` folder for the final workflow.
 
+### Main notebooks
 
-##  Key Workflows
+- `paper_release/forecast_data_preparation_combined.ipynb`
+  - Builds the 2021 and 2023 feature-complete variant tables.
+- `paper_release/model_essential_nonessential_combined.ipynb`
+  - Trains the selected models, evaluates holdout and temporal forecasting performance, and generates the main manuscript outputs.
 
-### 1. **Data Preparation**
-File: [`forecast_data_preparation_combined.ipynb`](forecast_data_preparation_combined.ipynb)
+### Shared module
 
-- Parses WHO 2021 and WHO 2023 mutation catalog  
-- Converts three-letter to one-letter amino acid codes  
-- Generates mutated protein sequences  
-- Computes:
-  - Proximity to R-conferring sites (from PDB)
-  - LLR (ESM2 log-likelihood)
-  - AAIndex distances  
-  - Rosetta-based thermostability  
-- Outputs integrated feature tables for modeling.
+- `paper_release/forecast_utils.py`
+  - Utility code used by both notebooks for preprocessing, feature assembly, and model-support functions.
 
-### 2. **Modeling and Prediction**
-File: [`model_essential_nonessential_combined.ipynb`](model_essential_nonessential_combined.ipynb)
+### Post-processing scripts
 
-- Trains **classifier models** separately for essential and nonessential genes and on combined genes.   
-- Evaluates via AUC, sensitivity, specificity
-- Predicts confidence categories for Category 3 (“Uncertain”) mutations  
-- Supports **weighted sampling** to handle class imbalance.
+- `paper_release/scripts/fp_fn_feature_group_summary.py`
+- `paper_release/scripts/gene_misclassification_chisquare.py`
 
-### 3. **Utility Scripts**
-- `forecast_utils.py`: helper functions for feature merging, resampling, normalization, and evaluation  
-- `mycobrowser.py`: retrieves reference gene/protein info for sequence-based computations
+## Curated release data
 
+The curated manuscript-facing data package lives under `paper_release/source_data/`.
 
-##  Data Access
+### Included source data
 
-| Type | Description | Link |
-|------|--------------|------|
-|  **Training Data** | Preprocessed feature tables (ΔZ, LLR, Rosetta, AAIndex, etc.) used for model training | [Download ZIP](https://umass.sharepoint.com/:u:/r/sites/AntibioticResistanceForcast/Shared%20Documents/resistance_forecast_training_data.zip?csf=1&web=1&e=hA8E8i) |
-|  **Prediction Results** | Model outputs and predicted confidence categories for Category 3 mutations | [Download ZIP](https://umass.sharepoint.com/:u:/r/sites/AntibioticResistanceForcast/Shared%20Documents/resistance_forecast_predictions_csv.zip?csf=1&web=1&e=xLaya8) |
+- `paper_release/source_data/catalog/`
+  - WHO 2021 and WHO 2023 catalogues, protein metadata, and AAIndex reference tables
+- `paper_release/source_data/distmaps/`
+  - structural distance-map resources used for proximity features
+- `paper_release/source_data/derived_features/`
+  - final 2021 and 2023 derived feature tables used by the modeling notebook
 
-Each ZIP file contains per-gene CSVs and combined summary tables compatible with the notebooks in this repository.
+Additional structural resources are retained in the project-level `data/` directory.
 
+## Supplementary deployment data
 
+The full set of 5,215 Combined-model forecasts for feature-complete WHO 2023 uncertain-significance variants is provided in:
 
-## Quick Start
+- `paper_release/supplementary_data/Supplementary_Data_1_Combined_2023_uncertain_variant_forecasts.csv`
 
-### 1. Clone the repository
+This file contains the ranked deployment-style forecast output used in the manuscript.
+
+## Quick start
+
+Clone the repository and move into the project root:
+
 ```bash
-git clone https://github.com/yourusername/resistance_forecast.git
+git clone https://github.com/SAGE-Lab-UMass/resistance_forecast.git
 cd resistance_forecast
-````
+```
 
-### 2. Install dependencies
+Install dependencies for the release workflow:
 
 ```bash
-pip install -r requirements.txt
+pip install -r paper_release/requirements.txt
 ```
 
-### 3. Prepare data
-Run the following notebook to generate all training and evaluation datasets:
+Then run the notebooks in order:
 
-```
-forecast_data_preparation_combined.ipynb
-```
-
-### 4. Train and evaluate models
-Then run:
-```
-model_essential_nonessential_combined.ipynb
-```
-This notebook trains classifier models for feature sets and performs evaluation and prediction.
-
-
-##  Evaluation Metrics
-
-* **AUC** and **ROC Curves**
-* **Sensitivity / Specificity**
-* **Confusion Matrix**
-* **Feature Importances**
-* **Violin plots of feature dist**
-* **SHAP-based Interpretability** [in progress]
-
-
-
-
-##  Requirements
-
-* Python 3.8+
-* Key dependencies:
-
-  ```bash
-  pandas
-  numpy
-  torch
-  esm
-  scikit-learn
-  biopython
-  matplotlib
-  seaborn
-  ```
-
-Install all at once:
-
-```bash
-pip install -r requirements.txt
+```text
+1. paper_release/forecast_data_preparation_combined.ipynb
+2. paper_release/model_essential_nonessential_combined.ipynb
 ```
 
+## Main outputs
 
+The release workflow produces:
+- 2021 and 2023 final feature tables
+- holdout and temporal evaluation summaries
+- per-model prediction tables for reclassified Category 3 variants
+- 2023 deployment forecasts for uncertain-significance variants
+- figure-ready performance and interpretability outputs
 
-##  Contact
+## Contact
 
-For questions or collaborations, please reach out to:
- **[mtasmin@umass.edu](mailto:mtasmin@umass.edu)**
-
-
-
-<!-- ##  Citation
-
-If you use this repository or dataset, please cite:
-
-> Tasmin, M. et al. *Resistance Forecast: Structure-Informed Prediction of Antibiotic Resistance in Mycobacterium tuberculosis* (2025, in prep.) -->
-
-
-
-
-
+For questions or collaborations, please contact:
+**[mtasmin@umass.edu](mailto:mtasmin@umass.edu)**
