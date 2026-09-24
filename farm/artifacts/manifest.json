@@ -1,0 +1,91 @@
+{
+  "created": "2026-09-24",
+  "source_notebook": "model_essential_nonessential_combined_mutation_level.ipynb",
+  "feature_columns": [
+    "Rosetta_fa_atr",
+    "Rosetta_fa_rep",
+    "Rosetta_fa_sol",
+    "Rosetta_fa_elec",
+    "Rosetta_fa_dun",
+    "Rosetta_ddG",
+    "Prox_3D_zeroed",
+    "LLR_dim33",
+    "LLR_dim46",
+    "LLR_dim62",
+    "LLR_dim70",
+    "LLR_dim124",
+    "LLR_dim192",
+    "LLR_dim207",
+    "LLR_dim258",
+    "LLR_dim267",
+    "LLR_dim315",
+    "AAIndex_mut1",
+    "AAIndex_mut2",
+    "AAIndex_mut3",
+    "AAIndex_mut4",
+    "AAIndex_mut5",
+    "AAIndex_mut6",
+    "AAIndex_mut7",
+    "AAIndex_mut8"
+  ],
+  "n_features": 25,
+  "models": {
+    "essential": {
+      "dataset": "Essential",
+      "family": "RandomForestClassifier",
+      "artifact": "essential.joblib",
+      "threshold": 0.81,
+      "holdout": {
+        "auc": 0.843,
+        "sensitivity": 0.923,
+        "specificity": 0.833,
+        "f1_resistant": 0.941,
+        "n_test": 32,
+        "n_train": 127
+      },
+      "n_labeled_mutations": 159,
+      "verification": {
+        "n_holdout_checked": 32,
+        "max_abs_prob_delta": 0.0
+      }
+    },
+    "nonessential": {
+      "dataset": "Nonessential",
+      "family": "LogisticRegression",
+      "artifact": "nonessential.joblib",
+      "threshold": 0.814,
+      "holdout": {
+        "auc": 0.943,
+        "sensitivity": 0.829,
+        "specificity": 1.0,
+        "f1_resistant": 0.906,
+        "n_test": 38,
+        "n_train": 148
+      },
+      "n_labeled_mutations": 186,
+      "verification": {
+        "n_holdout_checked": 38,
+        "max_abs_prob_delta": 1.1102230246251565e-16
+      }
+    },
+    "combined": {
+      "dataset": "Combined",
+      "family": "RandomForestClassifier",
+      "artifact": "combined.joblib",
+      "threshold": 0.845,
+      "holdout": {
+        "auc": 0.92,
+        "sensitivity": 0.983,
+        "specificity": 0.667,
+        "f1_resistant": 0.967,
+        "n_test": 69,
+        "n_train": 276
+      },
+      "n_labeled_mutations": 345,
+      "verification": {
+        "n_holdout_checked": 69,
+        "max_abs_prob_delta": 0.0
+      }
+    }
+  }
+}

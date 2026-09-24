@@ -43,10 +43,100 @@ Each missense variant is represented using a multimodal feature set that combine
 
 These features are used to capture different biological resistance regimes, including structurally constrained target-gene mutations and broader disruption-like mutational patterns in nonessential or accessory genes.
 
+## Using the model (`farm` package)
+
+The fitted models are packaged for inference, so using FARM on new variants does not
+require running any notebook.
+
+```bash
+pip install -e .
+```
+
+```python
+from farm import predict
+
+scored = predict("variants_with_features.csv")          # Combined model, calibrated threshold
+scored.sort_values("resistance_score", ascending=False).head()
+```
+
+`predict` returns a frame with `resistance_score` (probability of resistance
+association), `predicted_resistant` (0/1 at the calibrated threshold), the `threshold`
+used, and any identifier columns (`gene`, `mutation_oneletter`, ...) found on the input.
+
+Lower-level access, and the two gene-stratum models:
+
+```python
+from farm import load_model, FEATURE_COLUMNS, available_models
+
+available_models()                  # ['combined', 'essential', 'nonessential']
+model = load_model("essential")
+model.threshold                     # 0.810, selected on training folds only
+model.metadata["holdout"]["auc"]    # 0.843
+probs = model.predict_proba(df)
+```
+
+From the command line:
+
+```bash
+farm info                                   # models, thresholds, holdout performance
+farm features                               # the 25 required columns
+farm template -o my_variants.csv            # empty input CSV with the right header
+farm predict my_variants.csv -o scored.csv  # score them
+```
+
+### What the models expect
+
+Input must already carry the 25-column multimodal feature representation
+(`farm.FEATURE_COLUMNS`): 6 Rosetta energy terms, 1 structural context value, 10 ESM-2
+latent coordinates, and 8 AAIndex descriptors. FARM scores precomputed features and
+deliberately does not build them from a bare mutation string, because the structural
+context and Rosetta terms need per-gene structures and EVcouplings distance maps. Use
+`paper_release/forecast_data_preparation_combined.ipynb` to generate features for
+variants not already in the curated tables. Missing values within a present column are
+zero-filled, matching the manuscript's deployment path; a missing *column* raises
+`MissingFeaturesError`.
+
+### Provenance and verification
+
+The serialized estimators are not retrained here. They are exported directly from
+`paper_release/model_essential_nonessential_combined_mutation_level.ipynb`, the notebook
+that produces every number in the manuscript, by
+
+```bash
+python paper_release/scripts/export_farm_models.py
+```
+
+which executes that notebook's own training cells and then refuses to write an artifact
+unless it reproduces the notebook's saved holdout probabilities exactly. The test suite
+re-checks this, and also re-derives the manuscript's headline deployment result --- 696
+of 4,525 uncertain-significance variants forecast resistance-associated --- through the
+public API:
+
+```bash
+pytest tests/
+```
+
+| model | family | threshold | holdout AUC | labeled mutations |
+|-------|--------|-----------|-------------|-------------------|
+| `combined` | random forest | 0.845 | 0.920 | 345 |
+| `essential` | random forest | 0.810 | 0.843 | 159 |
+| `nonessential` | logistic regression | 0.814 | 0.943 | 186 |
+
+Thresholds are the median Youden index over repeated stratified cross-validation within
+the training split only, so scoring never consults the labels of the variants being
+scored.
+
 ## Repository structure
 
 ```text
 resistance_forecast/
+├── farm/                            # Installable inference package (models + API)
+│   ├── artifacts/                   # Serialized estimators and manifest.json
+│   ├── features.py                  # The 25-feature contract
+│   ├── model.py                     # load_model / FarmModel
+│   └── cli.py                       # `farm` command line
+├── tests/                           # Test suite, incl. notebook-agreement checks
+├── pyproject.toml                   # Package metadata (`pip install -e .`)
 ├── Comparison_Model/                # Alternative statistical-model analyses
 ├── data/                            # Project-level source data and legacy resource store
 ├── paper_release/                   # Final manuscript-facing code and curated data package
@@ -54,7 +144,7 @@ resistance_forecast/
 │   ├── model_essential_nonessential_combined.ipynb
 │   ├── forecast_utils.py
 │   ├── requirements.txt
-│   ├── scripts/
+│   ├── scripts/                     # incl. export_farm_models.py
 │   ├── source_data/
 │   │   ├── catalog/
 │   │   ├── derived_features/

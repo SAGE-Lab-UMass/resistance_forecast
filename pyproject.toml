@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "farm-tb"
+version = "1.0.0"
+description = "Forecasting Antibiotic Resistance in Mycobacterium tuberculosis (FARM): inference interface"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Mahbuba Tasmin", email = "mtasmin@umass.edu" }]
+keywords = ["tuberculosis", "antimicrobial resistance", "variant effect prediction"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+dependencies = [
+    "numpy>=1.21",
+    "pandas>=1.3",
+    "scikit-learn>=1.5,<1.7",
+    "joblib>=1.2",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.scripts]
+farm = "farm.cli:main"
+
+[project.urls]
+Repository = "https://github.com/SAGE-Lab-UMass/resistance_forecast"
+
+[tool.setuptools]
+packages = ["farm"]
+
+[tool.setuptools.package-data]
+farm = ["artifacts/*.joblib", "artifacts/manifest.json"]
