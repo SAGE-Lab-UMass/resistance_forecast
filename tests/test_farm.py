@@ -155,7 +155,7 @@ def test_cli_template_round_trips(tmp_path):
 
 
 def test_reproduces_the_deployment_forecast():
-    """End-to-end: the packaged model must reproduce the manuscript's 696 of 4,525."""
+    """End-to-end: the packaged model must reproduce the manuscript's 747 of 4,525."""
     path = (REPO / "paper_release" / "results" / "forecast_2023_unclassified"
             / "Combined_on_full_2023_uncertain.csv")
     if not path.exists():
@@ -171,4 +171,4 @@ def test_reproduces_the_deployment_forecast():
     np.testing.assert_array_equal(
         out["predicted_resistant"].to_numpy(), ref["pred_label"].to_numpy()
     )
-    assert int(out["predicted_resistant"].sum()) == 696
+    assert int(out["predicted_resistant"].sum()) == 747

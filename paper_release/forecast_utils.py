@@ -279,9 +279,16 @@ class FeatureTools:
 
     @staticmethod
     def add_llr_contributions(catalog: pd.DataFrame, protein_sequences: pd.DataFrame,
-                              model_path: str, top_k: int = 10, device=None) -> pd.DataFrame:
+                              model_path: str, top_k: int = 10, dims=None,
+                              device=None) -> pd.DataFrame:
         """
         Compute LLR scores + top-K dimension contributions for each variant.
+
+        ``dims`` fixes which embedding dimensions are expanded into features. Leave it
+        as None only for the training cohort, where the top-K dimensions by mean
+        |contribution| are selected; every cohort scored by a trained model must pass
+        that cohort's dimensions explicitly. Reselecting per cohort can swap a
+        near-tied dimension and leave the model without a feature it was fitted on.
         """
         import esm, torch
         device = device or ("cuda" if torch.cuda.is_available() else "cpu")
@@ -340,8 +347,11 @@ class FeatureTools:
         contrib_matrix = np.array(contrib_values.tolist())
         if contrib_matrix.ndim != 2 or contrib_matrix.shape[1] == 0:
             return out
-        mean_abs = np.mean(np.abs(contrib_matrix), axis=0)
-        top_dims = np.argsort(mean_abs)[::-1][:top_k]
+        if dims is None:
+            mean_abs = np.mean(np.abs(contrib_matrix), axis=0)
+            top_dims = np.argsort(mean_abs)[::-1][:top_k]
+        else:
+            top_dims = [int(d) for d in dims]
         for dim in top_dims:
             out[f"expanded_llr_dim_{dim}"] = out["llr_contributions"].apply(
                 lambda v: v[dim] if isinstance(v,list) else np.nan
@@ -597,7 +607,8 @@ class FeaturePipeline:
             aaindex_path: str,
             esm_model_path: str,
             out_dir: str,
-            top_k_llr: int = 10) -> pd.DataFrame:
+            top_k_llr: int = 10,
+            llr_dims=None) -> pd.DataFrame:
         """
         Full feature pipeline:
         - Frequency
@@ -634,7 +645,8 @@ class FeaturePipeline:
             prox_df,
             protein_sequences=protein_df,
             model_path=esm_model_path,
-            top_k=top_k_llr
+            top_k=top_k_llr,
+            dims=llr_dims
         )
         llr_out = os.path.join(out_dir, "step4_llr.csv")
         llr_df.to_csv(llr_out, index=False)
